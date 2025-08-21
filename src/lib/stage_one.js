@@ -114,7 +114,7 @@ console.log("AI Prompt:\n", ai_prompt("I'm building a sewerage treatment plant, 
 
 
 // Call main API function to query AI our prompt and return a structured output result 
-const main = async (question) => {
+export const main = async (question) => {
   const result = await ai.models.generateContent({
     model: "gemini-2.5-flash",
     contents: [{ role: "user", parts: [{ text: ai_prompt(question) }] }],
@@ -128,11 +128,8 @@ const main = async (question) => {
     },
   });
 
-  // log everything properly
+  // log results
   console.dir(result.candidates, { depth: null }); // shows full object
-
 };
 
-const example_question =
-  "I'm building a sewerage treatment plant, what do I need to consider?";
-await main(example_question);
+//const example_question ="I'm building a sewerage treatment plant, what do I need to consider?";
