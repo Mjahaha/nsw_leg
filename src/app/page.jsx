@@ -1,5 +1,6 @@
 import OnyxRegionalLogo from '../components/header';
 import MainUserTextbox from '../components/main_user_textbox';
+import StageOneDisplay from '../components/StageOneDisplay';
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
         <h1 className="text-2xl font-bold">What is your query for NSW legislation?</h1>
         <MainUserTextbox />
       </section>
+      <StageOneDisplay legislationList={[]} />
     </main>
   );
 }

@@ -1,6 +1,7 @@
 import dotenv from "dotenv";
 import { GoogleGenAI } from "@google/genai";
 import { type } from "os";
+import { act } from "react";
 
 // Load .env file
 dotenv.config();
@@ -75,7 +76,8 @@ const acts_structured_output_function = () => {
 /*  -------   Example returned AI Prompt   --------
 
 Given the question: "I'm building a sewerage treatment plant, what do I need to consider?",
-return whether each of the following NSW Acts should be investigated further for relevance.
+return whether each of the following NSW Acts are worth investigating 
+in detail in order to answer the question comprehensively. 
 Acts:
 1. Environmental Planning and Assessment Act 1979 (NSW)
 2. Biodiversity Conservation Act 2016 (NSW)
@@ -97,7 +99,8 @@ Respond ONLY as valid JSON, matching EXACTLY the following schema:
 // Prompt builder
 const ai_prompt = (question) => {
   const prompt = `
-Given the question: "${question}", return whether each of the following NSW Acts should be investigated further for relevance.
+Given the question: "${question}", return whether each of the following NSW Acts are worth investigating 
+in detail in order to answer the question comprehensively.  
 Acts:
 ${acts_ordered_list.join("\n")}
 
@@ -114,7 +117,8 @@ console.log("AI Prompt:\n", ai_prompt("I'm building a sewerage treatment plant, 
 
 
 // Call main API function to query AI our prompt and return a structured output result 
-export const main = async (question) => {
+const stage_one_api_call = async (question) => {
+  console.log("Calling AI with question:", question);
   const result = await ai.models.generateContent({
     model: "gemini-2.5-flash",
     contents: [{ role: "user", parts: [{ text: ai_prompt(question) }] }],
@@ -129,7 +133,38 @@ export const main = async (question) => {
   });
 
   // log results
-  console.dir(result.candidates, { depth: null }); // shows full object
+  //console.dir(result.candidates, { depth: null }); // shows full object
+  return result.candidates[0].content.parts[0].text; // Return the first candidate's response
 };
+
+
+// Clean and return ai output 
+export const main = async (question) => {
+  // Cleaning data to prepare final output
+  let aiStageOneOutput = await stage_one_api_call(question);
+  aiStageOneOutput = aiStageOneOutput.replace(/```json|```/g, "").trim();  
+  const parsed = JSON.parse(aiStageOneOutput); 
+  //console.log("Parsed AI output:\n" + JSON.stringify(parsed, null, 2));
+  const legislationsReturned = Object.keys(parsed);
+  //console.log("Legislation array returned:\n" + legislationsReturned.join(", "));
+  
+
+  // Transform output to array with all options
+  const finalArrayOutput = [];
+  
+  legislationsReturned.map(legislationKeyName => {
+    const actObj = acts.find(a => a.key_name === legislationKeyName);
+    const legislationFullName = actObj.act_name;
+    finalArrayOutput.push({
+      id: legislationKeyName,
+      name: legislationFullName,
+      applies: parsed[legislationKeyName].applies,
+      comment: parsed[legislationKeyName].comment
+    });
+  })
+
+  console.log("Final array output:\n" + JSON.stringify(finalArrayOutput, null, 2));
+  return finalArrayOutput;
+}
 
 //const example_question ="I'm building a sewerage treatment plant, what do I need to consider?";
