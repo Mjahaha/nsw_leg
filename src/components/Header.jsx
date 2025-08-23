@@ -1,6 +1,6 @@
 import React from 'react';
 
-const OnyxRegionalLogo: React.FC = () => (
+const Header = () => (
     <div style={{ display: 'flex', alignItems: 'center' }}>
         <img
             src="/Onyx_logo.png"
@@ -11,4 +11,4 @@ const OnyxRegionalLogo: React.FC = () => (
     </div>
 );
 
-export default OnyxRegionalLogo;
+export default Header;

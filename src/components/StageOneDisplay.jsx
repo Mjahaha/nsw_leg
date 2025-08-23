@@ -1,35 +1,72 @@
 'use client';
 import { useState } from 'react'; 
+import { motion, AnimatePresence } from 'framer-motion';
 
-function IndividualLegislation({ legislation }) {
+function IndividualLegislation({ legislation, onToggle }) {
     const legislationName = legislation.name; 
     const legislationComment = legislation.comment;
-    const [applies, setApplies] = useState(legislation.applies);
+    const legislationApplies = legislation.applies;
 
     return (
-        <div>
+        <div className="bg-gray-900 text-gray-100 rounded-xl p-4 mb-3 shadow-md">
+
             <h2>{legislationName}</h2>
-            <div className="flex-row items-center">
-                <div
-                    className='border-white'
-                    onClick={() => setApplies(!applies)}
+            <div className="flex flex-row items-center">
+                <button
+                    className={`px-3 py-1 rounded border-white-2 hover:opacity-80 transition mr-6`}
+                    onClick={() => onToggle(legislation.id)}
                 >
-                    <p>{applies ? '✔' : 'X'}</p>
-                </div>
-                <p>Comment: {legislationComment}</p>
+                    <p>{legislationApplies ? '✔' : 'X'}</p>
+                </button>
+                
+                <p className="text-gray-300 mt-2">Comment: {legislationComment}</p>
             </div>
         </div>
     )
 }
 
 export default function StageOneDisplay({ legislationList }) {
-    const legislations = legislationList;
+    const [ list, setList ] = useState(legislationList);
+    const yesList = list.filter(legislation => legislation.applies);
+    const noList = list.filter(legislation => !legislation.applies);
+    const toggleApplies = id => {
+        setList(prevList => 
+            prevList.map(legislation => 
+                legislation.id === id ? { ...legislation, applies: !legislation.applies } : legislation
+            )
+        );
+    }
+    
 
     return (
-        <div>
-            {legislations.map((legislation) => (
-                <IndividualLegislation key={legislation.id} legislation={legislation} />
-            ))}
-        </div>
+        <motion.div 
+            className="bg-gray-900 text-gray-100 rounded-xl p-4 mb-3 shadow-md"
+            layout   // <-- this makes items animate when they move around lists
+            initial={{ opacity: 0, y: 20 }}   // when it first shows up
+            animate={{ opacity: 1, y: 0 }}    // when it’s visible
+            exit={{ opacity: 0, y: -20 }}     // when it leaves
+            transition={{ duration: 0.3 }}
+        >
+            <div className='flex space-x-3'>
+                <AnimatePresence>
+                <div className="w-1/2">
+                    <h3 className="text-lg font-semibold">Applicable Legislation</h3>
+                    <br></br>
+                    {yesList.map((legislation) => (
+                        <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={toggleApplies} />
+                    ))}
+                </div>
+                </AnimatePresence>
+                <AnimatePresence>
+                <div className="w-1/2">
+                    <h3 className="text-lg font-semibold">Not Applicable Legislation</h3>
+                    <br></br>
+                    {noList.map((legislation) => (
+                        <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={toggleApplies} />
+                    ))}
+                </div>
+                </AnimatePresence>
+            </div>
+        </motion.div>
     );
 }

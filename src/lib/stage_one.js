@@ -111,9 +111,9 @@ Responses to each Act should include:
 Respond ONLY as valid JSON, matching EXACTLY the following schema:
 ${acts_response_schema(acts)}\n
 `;
+  //console.log("AI Prompt:\n", prompt);
   return prompt;
 };
-console.log("AI Prompt:\n", ai_prompt("I'm building a sewerage treatment plant, what do I need to consider?"));
 
 
 // Call main API function to query AI our prompt and return a structured output result 
@@ -163,7 +163,7 @@ export const main = async (question) => {
     });
   })
 
-  console.log("Final array output:\n" + JSON.stringify(finalArrayOutput, null, 2));
+  //console.log("Final array output:\n" + JSON.stringify(finalArrayOutput, null, 2));
   return finalArrayOutput;
 }
 

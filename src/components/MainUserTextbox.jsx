@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
 
-export default function MainUserTextbox() {
+export default function MainUserTextbox({ submitFunction }) {
   const [query, setQuery] = useState("");
   const [loading, setLoading] = useState(false);
 
@@ -9,8 +9,7 @@ export default function MainUserTextbox() {
     if (e.key === "Enter" && query.trim() !== "") {
       setLoading(true);
       try {
-        const res = await fetch(`/api/legislation?query=${encodeURIComponent(query)}`);
-        const data = await res.json();
+        const data = await submitFunction(query);
         console.log("AI response:", data);
       } catch (err) {
         console.error(err);

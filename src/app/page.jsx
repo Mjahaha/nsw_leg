@@ -1,18 +1,14 @@
-import OnyxRegionalLogo from '../components/header';
-import MainUserTextbox from '../components/main_user_textbox';
-import StageOneDisplay from '../components/StageOneDisplay';
+import Header from '../components/Header';
+import Body from '../components/Body';
+
 
 export default function Home() {
   return (
     <main>
       <header>
-        <OnyxRegionalLogo />
+        <Header />
       </header>
-      <section className="flex flex-col items-center justify-center min-h-screen bg-black-50 p-8 pb-10">
-        <h1 className="text-2xl font-bold">What is your query for NSW legislation?</h1>
-        <MainUserTextbox />
-      </section>
-      <StageOneDisplay legislationList={[]} />
+      <Body />
     </main>
   );
 }
