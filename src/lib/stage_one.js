@@ -13,26 +13,47 @@ const ai = new GoogleGenAI({
   apiKey: geminiApiKey,
 });
 
-// Listing acts to explore 
+// Listing acts and codes to explore 
 // We can easily add to this list and the code will update the prompt and structured output
 const acts = [
   { 
-    act_name: "Environmental Planning and Assessment Act 1979", 
-    key_name: "environmentalPlanningAssessmentAct"
+    act_name: "Electricity (Consumer Safety) Act 2004", 
+    key_name: "electricityConsumerSafetyAct"
   },
   { 
-    act_name: "Biodiversity Conservation Act 2016", 
-    key_name: "biodiversityConservationAct"
+    act_name: "Electricity (Consumer Safety) Regulation 2015", 
+    key_name: "electricityConsumerSafetyRegulation"
   },
   { 
-    act_name: "Protection of the Environment Operations Act 1997", 
-    key_name: "protectionOfEnvironmentOperationsAct"
+    act_name: "Plumbing and Drainage Act 2011", 
+    key_name: "plumbingDrainageAct"
   },
-  {
-    act_name: "Pesticides Act 1999",
-    key_name: "pesticidesAct"
+  { 
+    act_name: "Plumbing and Drainage Regulation 2023", 
+    key_name: "plumbingDrainageRegulation"
+  },
+  { 
+    act_name: "National Construction Code – Building Code of Australia (BCA)", 
+    key_name: "nationalConstructionCodeBCA"
+  },
+  { 
+    act_name: "National Construction Code – Plumbing Code of Australia (PCA)", 
+    key_name: "nationalConstructionCodePCA"
+  },
+  { 
+    act_name: "AS/NZS 3000:2018 Wiring Rules", 
+    key_name: "asNz3000WiringRules"
+  },
+  { 
+    act_name: "AS/NZS 3500 Plumbing and Drainage Standards", 
+    key_name: "asNz3500PlumbingDrainage"
+  },
+  { 
+    act_name: "NSW Service and Installation Rules", 
+    key_name: "nswServiceInstallationRules"
   }
 ];
+
 
 
 // Generate act ordered list for ai prompt 
@@ -99,21 +120,27 @@ Respond ONLY as valid JSON, matching EXACTLY the following schema:
 // Prompt builder
 const ai_prompt = (question) => {
   const prompt = `
-Given the question: "${question}", return whether each of the following NSW Acts are worth investigating 
-in detail in order to answer the question comprehensively.  
-Acts:
+You are checking which NSW Acts or Codes are likely relevant to the following question: "${question}".
+
+Instructions:
+- Base your reasoning on the most common or likely interpretation of what the user is doing.  
+- If the question is ambiguous as to what the user is doing, briefly consider other reasonable interpretations before deciding.  
+- Be conservative: assume Acts apply only when there is a clear and probable link. Do not assume rare or unusual scenarios.  
+
+Acts to check:
 ${acts_ordered_list.join("\n")}
 
-Responses to each Act should include:
-- applies: boolean indicating if the Act applies
-- comment: a brief explanation as to why the Act applies or does not apply
+For each Act, return:
+- applies: boolean (true only if it is clearly or very likely relevant)  
+- comment: short explanation why it does or does not apply  
 
 Respond ONLY as valid JSON, matching EXACTLY the following schema:
 ${acts_response_schema(acts)}\n
 `;
-  //console.log("AI Prompt:\n", prompt);
+  console.log("AI Prompt:\n" + prompt);
   return prompt;
 };
+
 
 
 // Call main API function to query AI our prompt and return a structured output result 

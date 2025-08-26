@@ -53,7 +53,7 @@ export default function StageOneDisplay({ legislationList }) {
             <div className='flex space-x-3'>
                 <AnimatePresence>
                 <div className="w-1/2">
-                    <h3 className="text-lg font-semibold">Applicable Legislation</h3>
+                    <h3 className="text-lg font-semibold">Rules to deepdive into</h3>
                     <br></br>
                     {yesList.map((legislation) => (
                         <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={toggleApplies} />
@@ -62,7 +62,7 @@ export default function StageOneDisplay({ legislationList }) {
                 </AnimatePresence>
                 <AnimatePresence>
                 <div className="w-1/2">
-                    <h3 className="text-lg font-semibold">Not Applicable Legislation</h3>
+                    <h3 className="text-lg font-semibold">Rules that shouldn't matter</h3>
                     <br></br>
                     {noList.map((legislation) => (
                         <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={toggleApplies} />

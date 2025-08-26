@@ -18,7 +18,7 @@ export default function Body() {
         "flex flex-col items-center justify-center min-h-40 bg-black-50 p-8 pb-10" : 
         "flex flex-col items-center justify-center min-h-120 bg-black-50 p-8 pb-10"}
       >
-        <h1 className="text-2xl font-bold">What is your question around NSW Planning?</h1>
+        <h1 className="text-2xl font-bold">What is your question around NSW building law?</h1>
         <MainUserTextbox submitFunction={stageOneHandler} legislationList={legislationList} />
       </section>
       <section className={`flex flex-col items-center justify-center p-8 pb-10 transition-all duration-500 ${legislationList.length > 0 ? 'mt-4' : 'hidden'}`}>
