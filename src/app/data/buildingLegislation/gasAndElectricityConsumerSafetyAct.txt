@@ -1,0 +1,1102 @@
+An Act to make provision with respect to electricity and gas safety, to repeal the Electricity (Consumer Safety) Act 2004, the Electricity (Consumer Safety) Regulation 2015 and the Gas Supply (Consumer Safety) Regulation 2012 and to make consequential amendments to the Gas Supply Act 1996 and other legislation; and for other purposes.
+Part 1 Preliminary
+1   Name of Act
+This Act is the Gas and Electricity (Consumer Safety) Act 2017.
+2   Commencement
+This Act commences on a day or days to be appointed by proclamation.
+3   Object of Act
+The object of this Act is to provide a single legislative framework for the regulation of consumer safety in relation to gas and electrical products and services.
+4   Definitions
+(1)  In this Act—
+acquisition guarantee—see section 9.
+acquisition guarantor means the person who gives an acquisition guarantee.
+authorised electrician means a person who is authorised under the Home Building Act 1989 to do electrical wiring work.
+authorised gasfitter means a person who is authorised under this Act to carry out gasfitting work.
+authorised officer means—
+(a)  any investigator, or
+(b)  any other person appointed under section 61 by the Secretary as an authorised officer for the purposes of the provision in which the expression is used.
+autogas installation means a system of pipes and associated equipment that forms part of a vehicle, vessel or machine and that is designed to convey liquefied petroleum gas or natural gas to an internal combustion engine that is installed in, or forms part of, the vehicle, vessel or machine.
+autogas work means work involved in—
+(a)  the installation, alteration, extension or repair of an autogas installation, or
+(b)  the connection of a gas cylinder to, or the disconnection of a gas cylinder from, an autogas installation.
+certification authority—see section 23.
+certified gas appliance—see section 21.
+class specification for an electrical article—see section 13.
+conduct includes any act or omission.
+declared electrical article—see section 12.
+Department means the Department of Customer Service.
+electrical article means any appliance, wire, fitting, cable, conduit, meter, insulator, apparatus, material or other electrical equipment intended or designed for use in, or for the purposes of, or for connection to, any electrical installation.
+Note—
+A reference in this Act to an electrical article includes a reference to a high risk battery article unless otherwise provided in this Act or by the regulations—see section 6.
+electrical installation means any fixed appliances, wires, fittings, meters, apparatus or other electrical equipment used for (or for purposes incidental to) the conveyance, measuring, control and use of electricity in a particular place, but does not include any of the following—
+(a)  subject to any regulation made under subsection (4)—any electrical equipment (other than a meter) used, or intended for use, in the generation, transmission or distribution of electricity that is—
+(i)  owned or used by an electricity supply authority, or
+(ii)  located at a place that is owned or occupied by such an authority,
+(a1)  a meter used, or intended for use, in the generation, transmission or distribution of electricity that is—
+(i)  owned or used by an electricity supply authority, and
+(ii)  located at a place owned or occupied by the authority,
+(b)  any electrical article connected to, and extending or situated beyond, any electrical outlet socket,
+(c)  any electrical equipment in or about a mine,
+(d)  any electrical equipment operating at not more than 50 volts alternating current or 120 volts ripple-free direct current,
+(e)  any other electrical equipment, or class of electrical equipment, prescribed by the regulations.
+electrical installation work means the work of installing, adding to, altering, disconnecting, reconnecting or replacing an electrical installation.
+electrical wiring work means the physical work of installing, repairing, altering, removing or adding to an electrical installation or the supervising of that work.
+electricity supply authority means a person or body engaged in the distribution of electricity to the public or in the generation of electricity for supply, directly or indirectly, to the public whether by statute, franchise agreement or otherwise and includes—
+(a)  an energy services corporation within the meaning of the Energy Services Corporations Act 1995, and
+(b)  an authorised network operator under the Electricity Network Assets (Authorised Transactions) Act 2015, and
+(c)  Rail Corporation New South Wales, and
+(d)  Transport for NSW, and
+(d1)  Sydney Metro, and
+(e)  the Water Administration Ministerial Corporation constituted by the Water Management Act 2000.
+flue means any system of pipes and associated fittings designed to convey exhaust gases away from a gas appliance.
+function includes power, authority or duty, and exercise a function includes perform a duty.
+gas means—
+(a)  natural gas, or
+(b)  liquefied petroleum gas, or
+(c)  any other substance that the regulations declare to be gas for the purposes of this Act,
+but does not include a medical gas.
+gas appliance means any gas burning or gas using appliance that is manufactured, adapted or designed for connection to a gas installation, whether by means of a gas outlet socket or otherwise, and includes any liquefied petroleum gas dispenser, catalytic burner or vaporiser, but does not include—
+(a)  an internal combustion engine that is installed in, or forms part of, a vehicle, vessel or machine, or
+(b)  an appliance used in a medical facility for the supply or removal of a medical gas.
+gas component means the following—
+(a)  a gas regulator,
+(b)  any other item prescribed by the regulations for the purposes of this definition.
+gas container includes a gas cylinder, a gas cartridge, a pressure vessel and a gas tank.
+gas installation means—
+(a)  any pipe or system of pipes used to convey or control gas, and any associated fittings and equipment, that are downstream of the gas supply point, but does not include anything beyond the gas installation end point, and
+(b)  any flue that is downstream of the gas supply point,
+but does not include—
+(c)  an autogas installation, or
+(d)  a medical gas installation.
+gas installation end point means—
+(a)  in the case of a gas installation to which gas is supplied from a gas network—the gas outlet socket, or
+(b)  in any other case—the control valve or other connection point of a gas appliance or of another gas container.
+gas supply point means—
+(a)  in the case of a gas installation to which gas is supplied from a gas network—the outlet of the gas meter at which the gas is supplied, or
+(b)  in any other case—the control valve or other connection point of a gas container.
+gasfitting work means any work involved in—
+(a)  the installation, alteration, extension or repair of a gas installation, or
+(b)  the installation, alteration, extension, removal or repair of a flue, or
+(c)  the connection of a gas installation to, or the disconnection of a gas installation from, a gas supply point, or
+(d)  the connection of a gas appliance to, or the disconnection of a gas appliance from, a gas installation (otherwise than where the point of connection is a gas outlet socket), or
+(e)  the connection of a gas container, gas regulator or gas appliance to, or the disconnection of a gas container, gas regulator or gas appliance from, a gas installation (otherwise than where it is designed to be readily detachable from the installation whether by the use of a tool, mechanical force or otherwise).
+high risk battery article—see section 6.
+holder of a model approval means the person to whom a model approval has been given.
+investigator means a person appointed as an investigator under section 18 of the Fair Trading Act 1987.
+liquefied petroleum gas means a liquid or gaseous substance containing a mixture of hydrocarbons, basically consisting of butane or butene or propane or propene, or any mixture of them.
+mark includes label.
+mechanical services and medical gas work has the same meaning as in the Home Building Act 1989.
+medical facility means the following—
+(a)  a hospital within the meaning of the Public Health Act 2010,
+(b)  an aged care facility,
+(c)    (Repealed)
+(d)  another place where medical gas is supplied or removed (except as prescribed by the regulations).
+medical gas means a substance used for medical purposes and prescribed by the regulations as a medical gas.
+medical gas installation means a reticulated system of pipes, hoses or lines in a medical facility that conveys or controls the supply or removal of medical gases, including associated fixtures or fittings and any other thing prescribed by the regulations, but not including anything connected to and extending or situated beyond a wall outlet or NIST fitting.
+medical gas technician work means the commissioning, testing, verification or certification of a medical gas installation.
+medical gasfitting work means the construction, installation, replacement, repair, alteration, maintenance, testing or commissioning of a medical gas installation and includes incidental design work.
+model approval means an approval for a model of electrical article given by the Secretary under section 16.
+model specification for an electrical article—see section 16 (1) (c).
+natural gas has the same meaning as it has in the National Gas (NSW) Law.
+place includes land (whether or not covered with water), premises, buildings and other structures.
+process commencing proceedings for an offence—see section 68.
+recognised external approval scheme means any scheme for the approval or certification of models of electrical articles that is declared under section 20 to be a recognised external approval scheme for the purposes of Part 2.
+registered health practitioner has the same meaning as it has in the Health Practitioner Regulation National Law (NSW).
+relevant authority, in relation to another State or a Territory, means the authority prescribed by the regulations as the relevant authority for the other State or the Territory.
+Secretary means—
+(a)  the Commissioner for Fair Trading, Department of Customer Service, or
+(b)  if there is no person employed as Commissioner for Fair Trading—the Secretary of the Department.
+sell includes—
+(a)  auction or exchange, and
+(b)  offer, agree or attempt to sell, and
+(c)  advertise, expose, send, forward or deliver for sale, and
+(d)  cause or permit to be sold or offered for sale, and
+(e)  hire or cause to be hired, and
+(f)  display for sale or hire.
+Note—
+See subsection (3) in relation to display of electrical articles and gas appliances for sale.
+serious electrical accident—see section 39.
+serious gas accident—see section 39.
+specification includes (but is not limited to)—
+(a)  a standard, code, rule, testing requirement or other specification approved, recommended, adopted or published by Standards Australia, and
+(b)  a standard, code, rule, testing requirement or other specification described in, or prescribed by, the regulations.
+Note—
+The Interpretation Act 1987 contains definitions and other provisions that affect the interpretation and application of this Act.
+(2)  In this Act—
+(a)  a reference to a gas appliance includes a reference to a gas component, and
+(b)  a reference to a type of gas appliance is a reference to each gas appliance of the same design constructed to identical specifications, and
+(c)  a reference to a model of electrical article is a reference to each electrical article of the same design, material and construction.
+(3)  For the purposes of this Act—
+(a)  an electrical article (whether or not a declared electrical article) that is displayed for the purpose of advertising, or otherwise in connection with, the sale of other electrical articles of the same model, or
+(b)  a gas appliance that is displayed for the purpose of advertising, or otherwise in connection with, the sale of other gas appliances of the same type,
+is to be treated as being displayed for sale.
+(4)  The regulations may make provision for when electrical equipment (or any part of electrical equipment) of the kind referred to in paragraph (a) of the definition of electrical installation in subsection (1) is taken to form part of an electrical installation at a place for the purposes of that definition.
+(5)  Notes included in this Act do not form part of this Act.
+5   Act not to apply to certain gas or autogas installations or gas appliances
+This Act (other than regulations made under this Act relating to the examination and testing of gas meters) does not apply to or in respect of—
+(a)  a gas installation or autogas installation with a carrying capacity greater than 200 kilopascals, or
+(b)  a gas appliance with an inlet pressure greater than 200 kilopascals,
+that is located partially or wholly within a workplace within the meaning of the Work Health and Safety Act 2011.
+5A   Parts 6 and 7 of Act extend to medical gasfitting work and medical gas technician work
+(1)  Parts 6 (Accident reporting and investigations) and 7 (Enforcement) extend, with any necessary modifications, to medical gasfitting work and medical gas technician work and for that purpose a reference in those Parts to—
+(a)  gas is taken to include a reference to medical gas, and
+(b)  a gas installation is taken to include a reference to a medical gas installation, and
+(c)  gasfitting work is taken to include a reference to medical gasfitting work and medical gas technician work, and
+(d)  an authorised gasfitter is taken to include a reference to a person who is authorised under this Act to carry out medical gasfitting work or medical gas technician work, and
+(e)  a serious gas accident is taken to include a reference to a serious medical gas accident.
+(2)  In this section—
+serious medical gas accident means an accident—
+(a)  caused by the use of a medical gas installation or by work carried out on a medical gas installation, and
+(b)  as a consequence of which a person dies or suffers permanent disability, is hospitalised, receives treatment from a registered health practitioner or is unable to attend work for any period of time.
+6   High risk battery articles subject to Act
+(1)  The Secretary may, by order published in the Gazette, declare a battery article, or a battery article of a class, specified or described in the order to be a high risk battery article for the purposes of this section.
+Editorial note—
+For orders published in the Gazette under this subsection, see Gazettes No 93 of 23.8.2019, n2019-2497 and No 119 of 11.10.2019, n2019-3119. From April 2021, PCO is no longer updating notes in provisions of in force titles about related gazette notices. To search for related gazette notices, please use the Gazette Search functionality.
+(2)  Except as otherwise provided by this Act or the regulations—
+(a)  this Act applies to a high risk battery article in the same way that it applies to an electrical article, and
+(b)  accordingly, a reference in this Act to an electrical article is taken to include a reference to a high risk battery article.
+(3)  The Secretary may combine an order under this section with an order under section 12 that relates to the same article.
+(4)  In this section—
+battery article means—
+(a)  a rechargeable battery or any of its components, or
+(b)  an article that incorporates a rechargeable battery as a power source for the article.
+7   Act to bind Crown
+This Act binds the Crown in right of New South Wales and, in so far as the legislative power of the Parliament of New South Wales permits, the Crown in all its other capacities.
+Part 2 Electrical articles
+Division 1 Restrictions on sale of electrical articles
+8   Electrical articles must meet certain standards before they can be sold
+(1)  A person must not sell a declared electrical article if the article is not of—
+(a)  a model of electrical article that has a model approval, or
+(b)  a class, description or model that has been approved or registered by the relevant authority for another State or a Territory, or
+(c)  a model of electrical article that has been approved or certified under a recognised external approval scheme (being an approval or certification that is evidenced by marking on the article).
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+(2)  A person must not sell an electrical article if—
+(a)  the article is not marked in accordance with the regulations, or
+(b)  the article does not comply with any one or more of the following—
+(i)  the class specifications (if any) for the article,
+(ii)  the model specifications (if any) for the article,
+(iii)  any other specifications prescribed by the regulations for the article,
+(iv)  any other requirements (including standards) prescribed by the regulations for the article.
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+Note—
+An offence against subsection (1) or (2) committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+(3)  The Secretary may, by order in writing and subject to any conditions that may be specified in the order, exempt a person or persons of a specified class from the operation of any or all of the provisions of subsection (1) or (2).
+9   Acquisition guarantee may be defence to certain offences
+(1)  It is a defence to a prosecution of an offence against section 8 (1) or (2) if the defendant proves that—
+(a)  the defendant received an acquisition guarantee in respect of the electrical article to which the offence relates from the person from whom the defendant obtained the electrical article, and
+(b)  the defendant had no reason to believe that, at the time of the alleged offence, the electrical article did not comply with the requirements of section 8 (1) or (2), as the case may be.
+(2)  A guarantee is an acquisition guarantee in respect of an electrical article for the purposes of the prosecution of an offence only if—
+(a)  the guarantee is in writing, and
+(b)  the matters guaranteed are that, when the guarantee is given—
+(i)  if the electrical article is a declared electrical article—the model of the article has a model approval or has been approved or certified under a recognised external approval scheme or the article is of a class, description or model approved or registered by a relevant authority for another State or a Territory, and
+(ii)  the electrical article is marked as prescribed by the regulations, and
+(iii)  the electrical article complies with the class specifications (if any), the model specifications (if any) and any other specifications or requirements for the article prescribed by the regulations, and
+(c)  the guarantor is—
+(i)  an individual who resides in Australia, or
+(ii)  a corporation that has a place of business within Australia, and
+(d)  the guarantee specifies the name of the guarantor and—
+(i)  in the case of a guarantor who is an individual and who resides within Australia—the address of the guarantor and of the place of business of the guarantor, or
+(ii)  in the case of a guarantor that is a corporation—an address of a place of business of the guarantor within Australia, and
+(e)  the guarantee applies—
+(i)  generally to electrical articles of the particular model to which the prosecution relates, or
+(ii)  to the specific electrical article to which the prosecution relates and refers to a sale note, bill of sale, invoice, bill of lading or other document describing the electrical article sold and the marking on it, and
+(f)  the guarantee complies with any other requirements prescribed by the regulations.
+(3)  Subsection (1) does not apply unless, not later than 7 days after service on the defendant of the process commencing proceedings for the offence—
+(a)  the defendant gives a written notice to the prosecutor of the defendant’s intention to rely on an acquisition guarantee and the notice specifies the following—
+(i)  the name of the person who gave the acquisition guarantee (the acquisition guarantor),
+(ii)  any name under which the acquisition guarantor trades,
+(iii)  the address referred to in subsection (2) (d) in relation to the acquisition guarantor, and
+(b)  the defendant gives a written notice to the acquisition guarantor of the defendant’s intention to rely on the guarantee, and
+(c)  the defendant gives the prosecutor a copy of the guarantee.
+(4)  An acquisition guarantor given notice under subsection (3) is entitled to offer evidence at the hearing of the proceedings to which the notice relates and the court may, if it thinks fit, adjourn the hearing to enable the guarantor to do so.
+10   Acquisition guarantor may be convicted of offence if acquisition guarantee defence upheld
+(1)  If an offence is proved under section 8 (1) or (2) but the defence under section 9 is upheld, the acquisition guarantor is liable to the same penalty as could have been imposed if the offence to which the proceedings relate had been committed by the guarantor.
+(2)  Subsection (1) does not apply if the acquisition guarantor proves that, when the guarantor gave the acquisition guarantee, the guarantor had reasonable grounds for believing that the statements and descriptions contained in the acquisition guarantee were true.
+(3)  Nothing in this section affects the liability of an acquisition guarantor to be prosecuted for an offence against section 11.
+11   Person must not give false acquisition guarantee
+(1)  A person must not make a false statement or give a false description in relation to an electrical article or model of electrical article in any acquisition guarantee, or purported acquisition guarantee, given by the person.
+Maximum penalty—500 penalty units in the case of a corporation and 150 penalty units in the case of an individual.
+Note—
+An offence against subsection (1) committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+(2)  It is a defence to the prosecution of an offence against subsection (1) if the defendant proves that, when the defendant gave the acquisition guarantee, the defendant had reasonable grounds for believing that the statements and descriptions contained in the acquisition guarantee were true.
+Division 2 Declared electrical articles and specifications for electrical articles
+12   Declared electrical articles
+(1)  A declared electrical article is an electrical article that belongs to a class of electrical articles that is the subject of an order under this section.
+(2)  The Secretary may, by order published in the Gazette, declare—
+(a)  electrical articles of a class described in the order to be, on and from a date specified in the order, declared electrical articles for the purposes of this Part, and
+(b)  the specifications that are applicable to electrical articles of that class.
+Editorial note—
+For orders published in the Gazette under this subsection, see Gazettes No 100 of 28.9.2018, p 7235, n2018-3242; No 118 of 4.10.2019, p 4341, n2019-3063; No 103 of 22.5.2020, p 2075, n2020-1481 and No 118 of 12.6.2020, p 2387, n2020-1766. From April 2021, PCO is no longer updating notes in provisions of in force titles about related gazette notices. To search for related gazette notices, please use the Gazette Search functionality.
+(3)  An order under this section may declare a specification modified as stated in the order to be applicable to electrical articles of the class to which the order relates.
+13   Class specifications for electrical articles
+(1)  A class specification for an electrical article is—
+(a)  a specification for the time being declared by an order under section 12 to be applicable to articles of the class to which the article belongs, or
+(b)  if any such specification is declared by the order to be modified in its application to those articles, the specification as so modified.
+(2)  Despite subsection (1), a class specification does not apply to an electrical article to the extent (if any) that it is inconsistent with the model specification for the article.
+14   Compliance with class and model specifications
+If a class specification or a model specification for an electrical article requires the article or any part of the article—
+(a)  to have been submitted to a specified test, and
+(b)  to have complied with a standard relating to the test,
+the article is, for the purposes of this Part (other than section 16 (1) (b) or (c)), to be treated as complying with the requirement if the article or part would comply with the standard if it were to be submitted to the test.
+15   Publication of information concerning declared electrical articles and specifications
+(1)  The Secretary is to publish details of the following matters on an internet website maintained by the Department or by any other printed or electronic means that the Secretary considers appropriate—
+(a)  the classes of electrical articles that are currently declared under section 12 (2),
+(b)  any class specifications for electrical articles that are currently in force.
+(2)  A failure to comply with subsection (1) does not invalidate any order made under this Part.
+Division 3 Model approvals for electrical articles
+16   Approval of model of electrical article
+(1)  The Secretary may, by order in writing, approve any model of electrical article (whether or not a declared electrical article) if—
+(a)  an application for the approval is made in accordance with the regulations, and
+(b)  in the case of a model of electrical article that is a declared electrical article—the Secretary is satisfied that an article of that model complies with any class specification for that article (subject to section 13 (2), if the Secretary determines a model specification under paragraph (c)), and
+(c)  the Secretary is satisfied that the model of electrical article complies with any other specification (a model specification) that the Secretary has determined should be applicable, or applicable in a modified form, to that model of electrical article.
+Note—
+If the Secretary determines a model specification under paragraph (c), the effect of section 13 is that a class specification for an electrical article of that particular model does not apply to the extent that it is inconsistent with that model specification.
+(2)  The Secretary may decline to deal with an application for the approval of a model of electrical article until an electrical article of that model has been lodged with the Secretary for testing or inspection.
+(3)  Despite subsection (1) (c), the Secretary may approve a model of electrical article subject to it complying with a model specification.
+(4)  If the Secretary approves a model of electrical article, the Secretary must, as soon as practicable afterwards, give the applicant for the approval written notice of the approval containing—
+(a)  the particulars prescribed by the regulations, and
+(b)  any other particulars that the Secretary considers appropriate.
+(5)  If the Secretary refuses to approve a model of electrical article, the Secretary must, within 21 days of the refusal, notify the applicant for the approval in writing—
+(a)  that the Secretary has refused the application for approval, and
+(b)  of the reasons for refusing the application.
+17   Duration of model approvals
+(1)  A model approval takes effect on the date of the approval and remains in force for the period (not exceeding 5 years) specified in the approval, subject to any cancellation or suspension of the approval, or any extension or renewal of the approval in accordance with the regulations.
+(2)  A model approval is not invalidated only because any specification applicable to electrical articles of that model has changed since the approval was given.
+(3)  Nothing in subsection (2) requires the Secretary to approve, or renew or extend a model approval for, a model of electrical article that does not comply with a relevant class or model specification as in force at the time the approval is sought.
+18   Suspension or cancellation of model approval
+(1)  The Secretary may, by written notice given to the holder of a model approval—
+(a)  suspend the model approval for a period not exceeding 90 days, or
+(b)  cancel the model approval.
+(2)  The Secretary may suspend or cancel a model approval only on one or more of the following grounds—
+(a)  an electrical article of the model is found by the Secretary not to comply with any one or more of the following—
+(i)  the class specifications for an electrical article of that model,
+(ii)  the model specifications for electrical articles of that model,
+(iii)  any specifications or requirements prescribed by the regulations for the purposes of section 8 (2) (b) (iii) or (iv) for an electrical article of that model,
+(b)  electrical articles of the model are unsafe because of their design or construction,
+(c)  the holder of the model approval gives the Secretary a written request for the suspension or cancellation,
+(d)  any other ground that may be prescribed by the regulations.
+(3)  A written notice suspending or cancelling a model approval must set out—
+(a)  the matters prescribed by the regulations, and
+(b)  any other matters that the Secretary considers appropriate.
+19   Administrative review of certain model approval decisions by Civil and Administrative Tribunal
+(1)  A person whose application for a model approval has been refused by the Secretary may apply to the Civil and Administrative Tribunal for an administrative review under the Administrative Decisions Review Act 1997 of that refusal.
+(2)  A holder of a model approval may apply to the Civil and Administrative Tribunal for an administrative review under the Administrative Decisions Review Act 1997 of a decision of the Secretary suspending or cancelling the model approval given to the holder.
+(3)  For the purposes of an application under subsection (1), an application for a model approval is taken to have been refused if it is not determined by the Secretary—
+(a)  except as provided by paragraph (b)—within 60 days after the date on which the application was lodged with the Secretary, or
+(b)  if the applicant and the Secretary agree on a longer period—within the longer agreed period after the date on which the application was lodged with the Secretary.
+Division 4 Recognised external approval schemes
+20   Recognised external approval schemes
+(1)  The Minister may, by order published in the Gazette, declare any scheme for the approval or certification of models of electrical articles to be a recognised external approval scheme for the purposes of this Part.
+(2)  The regulations may make provision with respect to the declaration of schemes for the purposes of subsection (1).
+Part 3 Gas appliances
+Division 1 Restrictions on sale of gas appliances
+21   Restrictions on sale of gas appliances
+(1)  A person must not sell a gas appliance or type of gas appliance unless it is—
+(a)  a certified gas appliance, and
+(b)  labelled in accordance with the regulations.
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+Note—
+An offence against this section committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+(1A)  The Secretary may, by order in writing, exempt a person or a specified class of persons, or gas appliance or type of gas appliance, from subsection (1).
+(1B)  An exemption takes effect when—
+(a)  in relation to a person—it is given to the person, or
+(b)  in relation to a class of persons or a gas appliance or class of gas appliances—it is published on a publicly accessible website that, in the opinion of the Secretary, is appropriate for the publication.
+(1C)  An exemption is subject to the terms and conditions (if any) specified in the order.
+(2)  In this section—
+certified gas appliance means a gas appliance or type of gas appliance in respect of which a certification by the holder of a certification authority (or by a person authorised by a holder under this Act to certify on the holder’s behalf) is in force.
+Division 2 Certification of gas appliances
+22   Certification of gas appliances
+A person must not certify a gas appliance or type of gas appliance unless the person—
+(a)  is the holder of a certification authority, or
+(b)  is a person authorised by the holder of a certification authority to certify gas appliances on the holder’s behalf.
+Maximum penalty—500 penalty units in the case of a corporation and 250 penalty units in the case of an individual.
+23   Authority to certify gas appliances or types of gas appliances
+(1)  A person may apply in accordance with the regulations for an authority to certify a gas appliance or type of gas appliance (a certification authority).
+(2)  The Secretary may determine an application for a certification authority by granting or refusing the application.
+(3)  A certification authority is to be in the form of an order in writing by the Secretary authorising the person to certify individual gas appliances or types of gas appliances.
+24   Conditions of certification authority
+(1)  A certification authority is subject to—
+(a)  any conditions that are prescribed by the regulations, and
+(b)  any other conditions that the Secretary considers appropriate and that are specified in the authority or imposed by the Secretary in accordance with the regulations.
+(2)  The Secretary may vary or revoke a condition referred to in subsection (1) (b) in accordance with the regulations.
+(3)  The holder of a certification authority must comply with any conditions to which the authority is subject.
+Maximum penalty—2,500 penalty units in the case of a corporation and 500 penalty units in the case of an individual.
+25   Duration of certification authority
+A certification authority takes effect on the day on which it is granted or on a later day specified in the authority and remains in force for the period specified in the authority, subject to any cancellation or suspension of the authority.
+26   Suspension or cancellation of certification authority
+(1)  The Secretary may—
+(a)  suspend a certification authority if of the opinion that there are grounds for cancelling the authority, by serving a show cause notice on the holder of the authority, or
+(b)  cancel a certification authority at any time and for any reason (including failure to comply with a show cause notice), by serving a written notice on the holder of the authority.
+(2)  A show cause notice is a notice requiring the holder of the certification authority to show cause why the authority should not be cancelled on the grounds specified in the notice.
+(3)  Without limiting the grounds that may be specified in a show cause notice, grounds may include that the holder of the certification authority has failed to comply with a condition of the authority.
+(4)  A show cause notice is to be in writing and is to specify a period of not less than 21 days after service of the notice as the period—
+(a)  during which the certification authority is suspended, and
+(b)  within which the holder must show cause as required by the notice.
+(5)  The holder on whom a show cause notice is served may, within the period allowed by the notice, make written submissions to the Secretary in respect of the matters to which the notice relates.
+(6)  The Secretary must consider any submissions made in accordance with subsection (5) before the Secretary may cancel the certification authority under this section.
+Part 4 Unsafe electrical articles and gas appliances
+27   Interpretation
+In this Part—
+(a)  a reference to an electrical article includes a reference to an electrical article of a particular model, and
+(b)  a reference to a gas appliance includes a reference to a type of gas appliance.
+28   Prohibition of sale of unsafe electrical articles and gas appliances
+(1)  The Secretary may, by a notice published in the Gazette, prohibit the sale of an electrical article or a gas appliance from the day the notice is published in the Gazette or from a later day specified in the notice.
+(2)  The Secretary may, by written notice served on any person, prohibit the person from selling an electrical article or a gas appliance from the day the notice is so served or any later day that may be specified in the notice.
+(3)  The Secretary may issue a notice under this section only if the Secretary believes on reasonable grounds that—
+(a)  the electrical article or model of electrical article, or the gas appliance, is, or is likely to become, unsafe to use because of its design or construction, and
+(b)  prohibiting the sale of the electrical article or gas appliance is warranted due to the risk of death or injury to any person or damage to any property arising out of the use of the electrical article or gas appliance.
+(4)  A notice issued under this section may be revoked or amended by the Minister or Secretary—
+(a)  in the case of a notice issued under subsection (1)—by notice published in the Gazette, or
+(b)  in the case of a notice issued under subsection (2)—by notice served on the person or persons to whom the original notice was directed.
+(5)  The Secretary must publish copies of any notice issued under subsection (1), or any notice of revocation or amendment issued under subsection (4) (a), in such newspapers as may be prescribed by the regulations.
+(6)  A failure to comply with subsection (5) does not invalidate any notice or revocation or amendment of a notice under this section.
+(7)  The Minister may issue a notice under subsection (1) or (2) in the same way as the Secretary and, for that purpose, a reference in this section (other than subsection (4)) to the Secretary is to be read as a reference to the Minister.
+29   Requiring action to be taken by seller of unsafe electrical articles or gas appliances
+(1)  The Secretary may, by written notice served on any person (the seller) whose business is or includes the sale of electrical articles or gas appliances and who has sold an electrical article or a gas appliance, require the seller to take the action specified in the notice within the time so specified.
+(2)  The Secretary may issue a notice under this section only if the Secretary believes on reasonable grounds that—
+(a)  the electrical article or model of electrical article, or the gas appliance, is, or is likely to become, unsafe to use because of its design or construction, and
+(b)  specific action is necessary to make the electrical article or gas appliance safe to use or to render safe the use of that electrical article or gas appliance.
+(3)  Without limiting the action that may be specified for the purposes of the notice, action may consist of or include—
+(a)  sending a written request to a person to whom the electrical article or gas appliance was sold by the seller to return the article or appliance to the place at which it was sold, and
+(b)  making the electrical article or gas appliance safe to use or rendering safe the use of the electrical article or gas appliance, in the manner specified in the notice.
+(4)  The Secretary or the Minister may (whether or not on application of the seller) alter the requirements of a notice under this section or revoke the notice by further written notice served on the seller.
+30   Requiring evidence of safety of electrical articles and gas appliances
+If the Secretary believes on reasonable grounds that an electrical article or model of electrical article, or a gas appliance, is, or is likely to become, unsafe to use because of its design or construction, the Secretary may, by written notice served on any person who sells the electrical articles or gas appliances, require the person—
+(a)  to carry out the testing of the safety of the electrical article or model, or gas appliance, specified in the notice, and
+(b)  to provide any other evidence concerning the safety of the electrical article or model, or gas appliance, that may be specified in the notice.
+31   Persons must comply with notices issued under this Part
+(1)  A person must not sell an electrical article or a gas appliance if the sale of that electrical article or gas appliance is prohibited by a notice in force under section 28.
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+(2)  A person must comply with any requirement to take action in respect of an electrical article or a gas appliance made of the person under a notice in force under section 29.
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+(3)  A person must comply with any requirement to test or provide evidence in respect of an electrical article or model of electrical article, or a gas appliance, under a notice in force under section 30.
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+(4)  A person is not guilty of an offence against this section if the person satisfies the court that the person had reasonable grounds for breaching or failing to comply with the prohibition or requirement to which the alleged offence relates.
+Note—
+An offence against subsection (1), (2) or (3) committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+32   Effect of Part on Fair Trading Act 1987
+The provisions of this Part are in addition to, and not in derogation of, any provision of the Fair Trading Act 1987 or any regulation made under that Act.
+Part 5 Installations—electrical, gas and autogas
+Division 1 Electrical installation work, gasfitting work and autogas work
+33   Work to be carried out by qualified persons
+(1)  A person must not carry out gasfitting work, or employ any other person to carry out gasfitting work, unless the person by whom the work is carried out does so—
+(a)  under the authority of an appropriate supervisor certificate, or
+(b)  under the authority of an appropriate tradesperson certificate and under the general supervision of the holder of an appropriate supervisor certificate, or
+(c)  under the immediate supervision of the holder of an appropriate supervisor certificate.
+Maximum penalty—1,000 penalty units in the case of a corporation or 200 penalty units in the case of an individual.
+(2)  A person must not carry out autogas work, or employ any other person to carry out autogas work, unless the person by whom the work is carried out does so—
+(a)  under the authority of an appropriate trade certificate, or
+(b)  in the course of an apprenticeship or traineeship and under the supervision of the holder of an appropriate tradesperson’s certificate, or
+(c)  under the immediate supervision of the holder of an appropriate trade certificate.
+Maximum penalty—1,000 penalty units in the case of a corporation or 200 penalty units in the case of an individual.
+Note—
+Section 14 (Unqualified electrical wiring work) of the Home Building Act 1989 makes it an offence for a person to carry out electrical wiring work unless the person is authorised to do so under that Act.
+(3)  In this section—
+supervisor certificate, in relation to a particular kind of gasfitting work, means a supervisor certificate in force under the Home Building Act 1989 authorising the holder to carry out, and to supervise, that kind of work, and includes a licence endorsed under that Act to show that it is the equivalent of such a certificate.
+trade certificate means—
+(a)  in relation to autogas work carried out on an autogas installation that is designed for use with liquefied petroleum gas (LP Gas), a tradesperson’s certificate granted under the Motor Dealers and Repairers Act 2013 in respect of a class of repair work that includes work of a liquefied petroleum gas mechanic, or
+(b)  in relation to autogas work carried out on an installation that is designed for use with compressed natural gas (CN Gas), a tradesperson’s certificate granted under the Motor Dealers and Repairers Act 2013 in respect of a class of repair work that includes work of a compressed natural gas mechanic, or
+(c)  in relation to autogas work carried out on an installation that is designed for use with liquefied natural gas (LN Gas), a tradesperson’s certificate granted under the Motor Dealers and Repairers Act 2013 in respect of a class of repair work that includes work of a liquefied natural gas mechanic.
+tradesperson certificate, in relation to a particular kind of gasfitting work, means a tradesperson certificate in force under the Home Building Act 1989 authorising the holder to carry out that kind of work under general supervision.
+34   Work to comply with regulations
+A person must not carry out—
+(a)  electrical installation work, or
+(b)  gasfitting work, or
+(c)  autogas work on an autogas installation,
+otherwise than in accordance with the standards or requirements (if any) prescribed by the regulations for the purposes of this section.
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+Note—
+An offence against this section committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+Division 2 Electrical, gas and autogas installations
+35   Responsibilities of persons concerning the safety of electrical or gas installations
+(1)  A person responsible for an electrical installation or a gas installation at a place must, to the best of the person’s ability and knowledge, ensure that any parts of the installation that are prescribed by the regulations for the purposes of this section are maintained in accordance with the regulations while the installation remains connected to the source of the supply of electricity or gas.
+Maximum penalty—500 penalty units in the case of a corporation and 150 penalty units in the case of an individual.
+(2)  A person responsible for an electrical installation at a place must not, if the installation has been lawfully disconnected for reasons of safety—
+(a)  connect the electrical installation or any part of it, or
+(b)  cause the installation or any part of it to be connected,
+to the source of supply of electricity until the installation has been made safe.
+Maximum penalty—500 penalty units in the case of a corporation and 150 penalty units in the case of an individual.
+(3)  In this section—
+person responsible for an electrical installation or a gas installation at a place means—
+(a)  the occupier of the place, or
+(b)  if there is no occupier, any owner of the place.
+36   Offence of interfering with electrical, gas or autogas installations
+(1)  A person who carries out any type of work for fee or reward at or near a place where an electrical installation, a gas installation or an autogas installation is located must ensure that the carrying out of the work, and the work, do not interfere with the installation in a way that adversely affects the safety of the installation.
+Maximum penalty—500 penalty units in the case of a corporation and 200 penalty units in the case of an individual.
+(2)  A person who—
+(a)  carries out any type of work without fee or reward at or near a place where an electrical installation, a gas installation or an autogas installation is located, and
+(b)  carries out the work in a way that adversely affects the safety of the installation, and
+(c)  knows, or ought to have known, that the installation has been adversely affected,
+must as soon as is reasonably practicable after becoming aware that the installation has been adversely affected take reasonable steps to make the installation safe.
+Maximum penalty—500 penalty units in the case of a corporation and 200 penalty units in the case of an individual.
+37   Restrictions on connection of gas appliances to certain gas installations
+(1)  A person must not connect a gas appliance to, or modify a gas appliance connected to, a gas installation to which gas is supplied from a gas network unless the appliance, or appliance as modified, is a certified gas appliance.
+Maximum penalty—500 penalty units in the case of a corporation and 250 penalty units in the case of an individual.
+(2)  A person must not connect a gas appliance to any other gas installation unless the appliance—
+(a)  is a certified gas appliance that is labelled in accordance with the regulations, and
+(b)  is suitable and safe for use with the gas with which it is designed to be used.
+Maximum penalty—500 penalty units in the case of a corporation and 250 penalty units in the case of an individual.
+(2A)  Subsections (1) and (2) do not apply in respect of a person or class of persons, or gas appliance or class of gas appliances exempt from section 21(1).
+(3)  Subsection (2) does not apply to—
+(a)  anything that is done in the course of the carrying out of gasfitting work, or
+(b)  anything that is done in the course of the testing of a gas installation by a person by whom gasfitting work is being carried out or by the holder of an appropriate supervisor certificate (within the meaning of section 33 (3)).
+38   Regulation of installations
+The regulations may make provision for or with respect to the following matters—
+(a)  testing, inspection and compliance requirements that must be carried out on completion of electrical installation work, gasfitting work or autogas work,
+(b)  the sale of electrical installations or gas installations, or gas cylinders for autogas installations,
+(c)  the use of electrical, gas or autogas installations,
+(d)  the supply of gas for use in gas or autogas installations,
+(e)  the connection of electrical articles to electrical installations, of gas containers, gas regulators or gas appliances to gas installations, or of gas cylinders to autogas installations.
+Division 3 Electrical meter installations
+38AA   Definitions
+In this Division—
+advanced meter means a meter that is a type 4 metering installation referred to in the National Electricity Rules, Chapter 7.
+Australian/New Zealand Wiring Rules means the Australian and New Zealand Standard, entitled AS/NZS 3000:2018, Electrical installations, (known as the Australian/New Zealand Wiring Rules), as in force from time to time, published jointly by Standards Australia and Standards New Zealand.
+metering co-ordinator has the same meaning as it has in the National Electricity Rules.
+retailer has the same meaning as it has in the National Energy Retail Law (NSW).
+38AB   Installation of advanced meters by retailers and metering co-ordinators
+(1)  A retailer or metering co-ordinator who provides, installs, maintains or replaces an advanced meter must ensure that—
+(a)  a person engaged to install an advanced meter—
+(i)  is a qualified person, and
+(ii)  has undertaken appropriate training in the installation of advanced meters, including de-energisation and re-energisation of electrical installations, and
+(b)  safety and compliance testing is carried out in relation to each installation as required by the Gas and Electricity (Consumer Safety) Regulation 2018, Parts 8 and 9.
+(2)  A retailer or metering co-ordinator must not install an advanced meter in relation to premises at which 1 or more persons require life support equipment unless the occupier of the premises is given—
+(a)  at least 4 business days’ notice of the proposed installation, or
+(b)  a shorter period as may be agreed, in writing, between the occupier and retailer or metering co-ordinator.
+(3)  The Electricity Supply Act 1995, Schedule 2, clauses 8—except for clause 8(1)(d)—and 9 apply to a retailer or metering co-ordinator who contravenes this section or section 38AC in the same way as they apply to a licensee who contravenes a requirement of the Electricity Supply Act 1995.
+(4)  A retailer or metering co-ordinator must ensure the Asbestos Management Code of Practice is complied with in the installation, maintenance and replacement of an advanced meter.
+(5)  For the avoidance of doubt, a person may only enter premises under section 55A for purposes relating to advanced meters if the requirements of this section are met.
+(6)  In this section—
+Asbestos Management Code of Practice means the Code of Practice: How to Manage and Control Asbestos in the Workplace, published by SafeWork NSW in August 2019.
+life support equipment has the same meaning as it has in the National Energy Retail Rules.
+qualified person—
+(a)  means a person authorised under the Home Building Act 1989 to do electrical wiring work without supervision, and
+(b)  in relation to the testing of a consumer’s aerial wiring system, within the meaning of the Australian/New Zealand Wiring Rules—includes a person who is authorised to test a distributor’s overhead lines.
+38AC   Metering safety management system requirements
+(1)  Without limiting section 38AB, a metering co-ordinator who provides, installs, maintains or replaces an advanced meter must have a safety management system in place that—
+(a)  ensures compliance with section 38AB(1), and
+(b)  satisfies the requirements of the Code for Safe Meter Installation.
+Maximum penalty—
+(a)  for a corporation—500 penalty units, or
+(b)  for an individual—250 penalty units.
+(2)  A retailer must ensure that a metering co-ordinator engaged by the retailer to install, maintain or replace an advanced meter has a safety management system in place that complies with this section.
+(3)  The Secretary may, by written notice, direct a metering co-ordinator to amend a safety management system if, in the opinion of the Secretary, the safety management system does not comply with this section.
+(4)  The metering co-ordinator must comply with the direction.
+Maximum penalty—
+(a)  for a corporation—500 penalty units, or
+(b)  for an individual—250 penalty units.
+(5)  Before providing, installing, maintaining or replacing an advanced meter, a metering co-ordinator must—
+(a)  have provided documentation relating to the co-ordinator’s safety management system to the Secretary, and
+(b)  ensure—
+(i)  the safety management system is brought to the attention of the persons engaged by the metering co-ordinator to install, replace or maintain an advanced meter, and
+(ii)  a copy of the documents relating to the system are made readily available to those persons.
+Maximum penalty—
+(a)  for a corporation—500 penalty units, or
+(b)  for an individual—250 penalty units.
+(6)  In this section—
+Code for Safe Meter Installation means the Code for safe installation of direct-connected whole current electricity metering in NSW—Minimum requirements for safety management systems, published in the Gazette by Treasury, as in force from time to time.
+Part 5A Medical gas
+Division 1 Medical gasfitting work and medical gas technician work
+38A   Work to comply with regulations
+(1)  A person must not carry out medical gasfitting work, medical gas technician work or mechanical services and medical gas work otherwise than in accordance with the following—
+(a)  the relevant Australian standards or, if a particular Australian standard is prescribed by the regulations in relation to the work, that Australian standard,
+(b)  any relevant standards of the International Organization for Standardization that are prescribed by the regulations in relation to the work,
+(c)  any standards or requirements specified by the Health Secretary by order in writing and published on the website of the Ministry of Health.
+Maximum penalty—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+Note—
+An offence against this section committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+(2)  To avoid doubt, a standard or requirement under subsection (1) may—
+(a)  apply generally or be limited in its application by reference to specified exceptions or factors, or
+(b)  apply differently according to different factors of a specified kind,
+or both.
+(3)  In this section—
+Health Secretary means the Secretary of the Ministry of Health.
+Division 2 Medical gas installations
+38B   Responsibilities of persons concerning the safety of medical gas installations
+(1)  A person responsible for a medical gas installation at a place must, to the best of the person’s ability and knowledge, ensure that the installation is, while it is connected to the source of the supply of medical gas, maintained in accordance with—
+(a)  the relevant Australian standards or, if a particular Australian standard is prescribed by the regulations in relation to the installation, that Australian standard, and
+(b)  any relevant standards of the International Organization for Standardization that are prescribed by the regulations in relation to the installation.
+Maximum penalty—500 penalty units in the case of a corporation and 150 penalty units in the case of an individual.
+(2)  In this section—
+person responsible for a medical gas installation at a place means—
+(a)  the occupier of the place, or
+(b)  if there is no occupier, any owner of the place.
+38C   Offence of interfering with medical gas installations
+(1)  A person who carries out any type of work for fee or reward at or near a place where a medical gas installation is located must ensure that the carrying out of the work, and the work, do not interfere with the installation in a way that adversely affects the safety of the installation.
+Maximum penalty—500 penalty units in the case of a corporation and 200 penalty units in the case of an individual.
+(2)  A person who—
+(a)  carries out any type of work at or near a place where a medical gas installation is located, and
+(b)  carries out the work in a way that adversely affects the safety of the installation, and
+(c)  knows, or ought to have known, that the installation has been adversely affected,
+must, as soon as is reasonably practicable after becoming aware that the installation has been adversely affected, notify the person responsible for the installation (within the meaning of section 38B) of that fact.
+Maximum penalty—500 penalty units in the case of a corporation and 200 penalty units in the case of an individual.
+38D   Notice of defective medical gas installation
+(1)  The responsible person for medical gasfitting work or medical gas technician work carried out on land must give the following persons written notice of any defective medical gas installation on the land discovered in the course of carrying out the medical gasfitting work—
+(a)  the owner of the land,
+(b)  the occupier of the land (if the owner does not occupy the land).
+Maximum penalty—100 penalty units.
+(2)  The responsible person for medical gasfitting work, medical gas technician work or mechanical services and medical gas work carried out on land must give the Secretary written notice of any defective medical gas installation on the land discovered in the course of carrying out the medical gasfitting work that poses an imminent threat to public health or safety.
+Maximum penalty—100 penalty units.
+(3)  Notice of a defective gas installation required to be given under this section must be given—
+(a)  in relation to notice referred to in subclause (1)—as soon as practicable after the defective gas installation is discovered, and
+(b)  in relation to notice referred to in subclause (2)—within 24 hours after the defective gas installation is discovered.
+(4)  A defective medical gas installation is discovered if the responsible person, or a person carrying out the medical gasfitting work, medical gas technician work or mechanical services and medical gas work under the responsible person’s supervision, becomes aware that the installation concerned is defective.
+(5)  In this section—
+responsible person for medical gasfitting work, medical gas technician work or mechanical services and medical gas work means—
+(a)  in the case of work carried out or proposed to be carried out by the holder of an endorsed contractor licence or a supervisor certificate under the Home Building Act 1989 authorising the holder to do the work, the holder of that licence or certificate, or
+(b)  in the case of work carried out or proposed to be carried out under the immediate or general supervision of the holder of an endorsed contractor licence or a supervisor certificate under the Home Building Act 1989 authorising the holder to supervise the work, the holder of the endorsed contractor licence or supervisor certificate.
+38E   Regulation of installations
+The regulations may make provision for or with respect to the following matters—
+(a)  testing, inspection and compliance requirements that must be carried out on completion of medical gasfitting work or mechanical services and medical gas work,
+(b)  the use and maintenance of medical gas installations,
+(c)  the connection of containers, regulators or appliances to medical gas installations.
+Part 6 Accident reporting and investigations
+39   Meanings of “serious electrical accident” and “serious gas accident”
+In this Part—
+serious electrical accident means an accident—
+(a)  involving an electrical article or electrical installation that was used for (or for purposes incidental to) the conveyance, control and use of electricity at the time of the accident, and
+(b)  as a consequence of which a person dies or suffers permanent disability, is hospitalised, receives treatment from a registered health practitioner or is unable to attend work for any period of time,
+but does not include an accident in which only electricity works (within the meaning of the Electricity Supply Act 1995) are involved.
+serious gas accident means an accident—
+(a)  caused by the use of a gas appliance, gas installation or autogas installation to supply gas or by work carried out on a gas appliance, gas installation or autogas installation, and
+(b)  as a consequence of which a person dies or suffers permanent disability, is hospitalised, receives treatment from a registered health practitioner or is unable to attend work for any period of time.
+Note—
+For the purposes of Parts 6 and 7, serious gas accident is taken to include serious medical gas accident. See section 5A.
+40   Notification of serious electrical and gas accidents
+(1)  The occupier of the place at which a serious electrical accident or a serious gas accident occurs (or any other person that the regulations may prescribe) must notify the Secretary of the accident—
+(a)  in relation to a serious medical gas accident—within 24 hours after the accident, and
+(a1)  in any other case—within 7 days after the accident, and
+(b)  in the manner (if any) prescribed by the regulations.
+Maximum penalty—5 penalty units (if the place at which the accident occurred is residential premises) and 100 penalty units (in any other case).
+(2)  The regulations may exempt a person, or a person belonging to a class of persons, prescribed by the regulations from any requirement under this section to notify the Secretary of a serious electrical accident or a serious gas accident.
+41   Secretary may arrange investigation of serious electrical or gas accident
+The Secretary may arrange for an authorised officer to investigate and report to the Secretary concerning a serious electrical accident or a serious gas accident, whether or not notice of the accident is given to the Secretary.
+42   Interference with site of serious electrical or gas accident
+A person must not disturb or interfere with the site of a serious electrical accident or a serious gas accident before it has been inspected by an authorised officer except—
+(a)  to make it safe, or
+(b)  with the permission of an authorised officer, or
+(c)  as provided by the regulations.
+Maximum penalty—500 penalty units in the case of a corporation and 250 penalty units in the case of an individual.
+43   Secretary may publish details of serious electrical or gas accident
+The Secretary may publish any details of a serious electrical accident or a serious gas accident that the Secretary considers necessary in the interests of public information and safety.
+44   Arrangements with other public authorities regarding certain investigable incidents
+(1)  The Secretary, SafeWork NSW, the Energy Secretary and the Health Secretary may enter into arrangements regarding any one or more of the following—
+(a)  the referral of investigable incidents—
+(i)  to SafeWork NSW for investigation or other action under the Work Health and Safety Act 2011, or
+(ii)  to the Secretary for investigation or other action under this Act, or
+(iii)  to the Energy Secretary for investigation or other action under the Electricity Supply Act 1995 or the Gas Supply Act 1996, or
+(iv)  to the Health Secretary for investigation or other action under any legislation administered by the Health Minister,
+(b)  matters concerning an investigable incident that is the subject of investigation or other action by more than one of those persons at the same time,
+(c)  the co-operative exercise of the respective functions of those persons in respect of investigable incidents,
+(d)  the sharing of information relevant to, and for the purposes of, enabling or assisting any of them to carry out their functions under this Part.
+(2)  The Secretary, SafeWork NSW, the Energy Secretary and the Health Secretary are jointly to cause notice of any arrangements entered into under this section to be published in the Gazette as soon as is practicable after they are entered into. However, a failure to publish any such arrangements does not affect their validity.
+(3)  A party to an arrangement entered into under this section—
+(a)  may decline, discontinue or defer an investigation or other action in relation to an investigable incident to give effect to the arrangement, and
+(b)  may disclose any information concerning a matter involving an investigable incident that was duly obtained by that party to another party to the arrangement to which the matter is referred so as to give effect to the arrangement.
+(4)  A party to which a matter is referred under an arrangement entered into under this section may investigate or deal with information obtained in respect of the matter referred in order to give effect to the arrangement.
+(5)  In this section—
+Energy Secretary means the Secretary of the Treasury.
+Health Minister means the minister administering the Public Health Act 2010.
+Health Secretary means the Secretary of the Ministry of Health.
+investigable incident means an accident or other incident—
+(a)  in which electricity, gas or medical gas is involved, and
+(b)  as a consequence of which a person dies or suffers permanent disability, is hospitalised, receives treatment from a registered health practitioner or is unable to attend work for any period of time.
+SafeWork NSW means SafeWork NSW as referred to in clause 1 of Schedule 2 to the Work Health and Safety Act 2011.
+Part 7 Enforcement
+Division 1 Offences and associated provisions relating to investigations and inspections
+45   Offences relating to investigations and inspections
+(1)  A person must not—
+(a)  without reasonable excuse, refuse or fail to comply with any requirement made, or to answer any question asked, by an authorised officer under this Act or the regulations, or
+(b)  provide information or give evidence in purported compliance with a requirement made or question asked by an authorised officer under this Act or the regulations knowing the information or evidence to be false or misleading in a material particular, or
+(c)  intentionally delay or obstruct an authorised officer in the exercise of the officer’s functions under this Act or the regulations, or
+(d)  falsely represent himself or herself to be an authorised officer.
+Maximum penalty—500 penalty units in the case of a corporation and 150 penalty units in the case of an individual.
+Note—
+Sections 50 and 52 contain specific offences relating to notices issued and labels affixed by authorised officers under those sections.
+(2)  If an authorised officer makes a requirement under section 54 (2) (b), of a person who appears to the officer to be doing electrical wiring work or gasfitting work, that person is not guilty of the offence of failing to comply with that requirement if it is proved that the person was not actually doing the electrical wiring work or gasfitting work.
+(3)  It is a sufficient defence to a prosecution for an offence arising under subsection (1) (a) because of the failure of a defendant to answer a question asked by an authorised officer under a power conferred by this Act or the regulations if the defendant satisfies the court that the defendant did not know, and could not with reasonable diligence ascertain, the answer to the question.
+(4)  A person cannot be prosecuted for both an offence against this section and an offence against section 23 (Obstruction etc of employees) of the Fair Trading Act 1987 in relation to the same act or omission.
+(5)  A person is not guilty of an offence of failing to comply with a requirement under this section to provide documents or information or to answer a question unless the person was warned on that occasion that a failure to comply is an offence.
+Division 2 Investigation and inspection powers
+46   Definitions
+In this Division—
+autogas installation includes the vehicle, vessel or machine that an autogas installation is installed in, or forms part of.
+possession includes custody or control.
+47   Restrictions on power of entry to residential premises
+The powers of entry and inspection conferred by this Act are not exercisable in relation to any premises or part of premises that are being used for residential purposes except—
+(a)  with the permission of the occupier of the premises or that part of the premises, or
+(b)  under the authority conferred by a search warrant, or
+(c)  for the sole purpose of reading an electricity meter.
+Note—
+Section 59 enables authorised officers to obtain search warrants to search residential premises in certain circumstances.
+48   Inspection of documents evidencing prohibited conduct
+If the Secretary believes on reasonable grounds that there are in any place documents evidencing conduct in connection with—
+(a)  an electrical article or a gas appliance, or
+(b)  an electrical installation or a gas installation, or
+(b1)  an autogas installation, or
+(c)  a serious electrical accident or a serious gas accident,
+in contravention of this Act or the regulations, an authorised officer may, with the written authority of the Secretary, enter the place, inspect any documents and make copies of them or take extracts from them.
+49   Investigations relating to manufacture or sale of electrical articles or gas appliances
+An authorised officer may, at any reasonable time, enter any place that the officer suspects on reasonable grounds to be a place in which the manufacture or sale of electrical articles or gas appliances, is being, or may be, carried on and may do any one or more of the following—
+(a)  inspect and test any electrical article or gas appliance or prototype of an electrical article or a gas appliance,
+(b)  inspect any manufacturing assembly or testing plant or equipment used in respect of any electrical article or gas appliance,
+(c)  open any container or package which the authorised officer has reasonable grounds to believe contains any electrical article or gas appliance or require the person having possession of the container or package to open it,
+(d)  seize, detain or remove, for the purpose of examination or testing, any electrical article or gas appliance or any container or package in which an electrical article or a gas appliance is contained or has been contained, if the authorised officer has reasonable cause to believe that—
+(i)  an offence has been committed against this Act or the regulations in respect of the electrical article or gas appliance, or
+(ii)  the electrical article or gas appliance is or is likely to become unsafe,
+(e)  require any person in the place to produce any accounts, records, books or other documents in the possession of that person relating to the manufacture or sale of any electrical article or gas appliance in the place,
+(f)  take copies of, or extracts or notes from, any such accounts, records, books or other documents,
+(g)  require any person in the place to answer questions or otherwise provide information relating to the manufacture or sale of electrical articles or gas appliances in the place where the articles or appliances are in the possession of that person,
+(h)  require the owner or occupier of the place to provide the authorised officer with any assistance and facilities that are reasonably necessary to enable the authorised officer to exercise the functions of the authorised officer.
+50   Prohibition of sale of certain electrical articles, gas appliances and autogas installations and labelling of those articles, appliances and installations
+(1)  An authorised officer who believes on reasonable grounds that an electrical article or more than one electrical article of a particular model, a gas appliance or more than one gas appliance of a particular type, or an autogas installation or more than one autogas installation of a particular class, is, or is likely to become, unsafe, may—
+(a)  by written notice served on the person—
+(i)  having possession of the electrical article or electrical articles of that model, prohibit the sale by that person of the electrical article or of all electrical articles of that model, or
+(ii)  having possession of the gas appliance or gas appliances of that type, prohibit the sale by that person of the gas appliance or of all gas appliances of that type, or
+(iii)  having possession of the autogas installation or autogas installations of that class, prohibit the sale by that person of the autogas installation or of all autogas installations of that class, and
+(b)  affix in some conspicuous position—
+(i)  on the electrical article or each of the electrical articles, the gas appliance or each of the gas appliances or the autogas installation or each of the autogas installations, or
+(ii)  on any container or package that contains an electrical article, gas appliance or autogas installation,
+a label indicating that the electrical article, gas appliance or autogas installation is to be considered dangerous and must not be sold or used until specified repairs necessary to make it safe to use have been effected by the person having possession of the article, appliance or installation.
+(2)  A notice served on a person under this section ceases to have effect 2 weeks after the day on which it is served unless within that period the Secretary has, by further written notice served on the person—
+(a)  confirmed or varied the terms of the notice, or
+(b)  revoked the notice.
+(3)  A person must not—
+(a)  sell an electrical article, gas appliance or autogas installation in contravention of a notice in force under this section, or
+(b)  remove or alter a label affixed to an electrical article, gas appliance or autogas installation or a container or package under this section unless directed to do so by an authorised officer.
+Maximum penalty (subsection (3))—
+(a)  in the case of an individual—
+(i)  500 penalty units for a first offence, or
+(ii)  750 penalty units or imprisonment for 2 years, or both, for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  5,000 penalty units for a first offence, or
+(ii)  7,500 penalty units for a second or subsequent offence.
+Note—
+An offence against subsection (3) committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+51   Investigation of unsafe use of electrical articles, gas appliances or autogas, electrical or gas installations
+An authorised officer may, at any reasonable time, enter any place that the officer suspects on reasonable grounds to be a place in which an electrical article or a gas appliance, or an electrical installation or autogas installation or a gas installation, is being, or is likely to be, used in a manner that presents a significant risk of the death of, or injury to, any person, or significant damage to any property, and may do any one or more of the following—
+(a)  inspect and test any electrical article or gas appliance, or electrical, autogas or gas installation, or equipment used in respect of any such article, appliance or installation,
+(b)  if the authorised officer has reasonable cause to believe that the electrical article or gas appliance, or electrical, autogas or gas installation, is being, or is likely to be, used in a manner that presents a significant risk of the death of, or injury to, any person, or significant damage to any property—
+(i)  disconnect the article or appliance concerned from an installation, or
+(ii)  take appropriate measures to have the installation concerned disconnected from its supply of electricity or gas,
+(c)  require any person in the place who has possession of the electrical article or gas appliance, or the electrical, autogas or gas installation, to answer questions or otherwise provide information relating to the use of the electrical article or gas appliance, or the electrical, autogas or gas installation,
+(d)  require the owner or occupier of the place to provide the authorised officer with any assistance and facilities that are reasonably necessary to enable the authorised officer to exercise the functions of the authorised officer.
+52   Prohibition of unsafe use of electrical articles, gas appliances or autogas, electrical or gas installations
+(1)  An authorised officer who believes on reasonable grounds that an electrical article or a gas appliance, or an electrical installation, an autogas installation or a gas installation, is being used in a manner that presents a significant risk of—
+(a)  the death of, or injury to, any person, or
+(b)  significant damage to any property,
+may, by written notice served on the person having possession of the electrical article or gas appliance, or the electrical, autogas or gas installation, prohibit its use in such a manner.
+(2)  A notice served on a person under this section ceases to have effect 2 weeks after the day on which it is served unless within that period the Secretary has, by further written notice served on the person—
+(a)  confirmed or varied the terms of the notice, or
+(b)  revoked the notice.
+(3)  A person must not use an electrical article or a gas appliance, or an electrical installation, an autogas installation or a gas installation, in contravention of a notice in force under this section.
+Maximum penalty (subsection (3))—
+(a)  in the case of an individual—
+(i)  100 penalty units for a first offence, or
+(ii)  150 penalty units for a second or subsequent offence, or
+(b)  in the case of a corporation—
+(i)  1,000 penalty units for a first offence, or
+(ii)  1,500 penalty units for a second or subsequent offence.
+Note—
+An offence against subsection (3) committed by a corporation is an executive liability offence attracting executive liability for a director or other person involved in the management of the corporation—see section 63.
+53   Investigation of serious electrical or gas accidents
+(1)  An authorised officer who is investigating an accident under Part 6 may, in any place where a serious electrical accident or a serious gas accident has or may reasonably be expected to have occurred, do any one or more of the following—
+(a)  enter and inspect the place,
+(b)  examine and test (in the case of an electrical accident) any electrical article, electrical installation or other electrical equipment or (in the case of a gas accident) any gas appliance, gas installation or autogas installation,
+(b1)  seize, detain or remove, for the purpose of examination or testing, any part of a medical gas installation,
+(c)  take photographs or other recordings,
+(d)  take for analysis a sample of any substance or thing that in the authorised officer’s opinion may relate to the accident,
+(e)  require any person in the place to produce any record that may be of relevance to the occurrence of the accident,
+(f)  take copies of, or extracts or notes from, any such record,
+(g)  require any person in the place to answer questions or otherwise provide information relating to the accident,
+(h)  require the owner or occupier of the place to provide the authorised officer with any assistance and facilities that are reasonably necessary to enable the authorised officer to exercise the authorised officer’s functions under this section.
+(2)  An authorised officer who is investigating an accident under Part 6 may be accompanied by a police officer or another person who the authorised officer believes will assist in the investigation, or both.
+54   Inspection of electrical, autogas and gas installations
+(1)  An authorised officer may enter any place at any reasonable time for the purpose of inspecting any electrical installation, autogas installation or gas installation in the place.
+(2)  The authorised officer may require—
+(a)  any person who claims to be an authorised electrician or authorised gasfitter to produce for inspection by the authorised officer, within such time as the authorised officer specifies, the person’s licence or other authority to do electrical wiring work, autogas work or gasfitting work, or
+(b)  any person who appears to the authorised officer to be doing electrical wiring work, autogas work or gasfitting work to satisfy the authorised officer, within such time as the authorised officer specifies, that the person is not prohibited under the Home Building Act 1989 from doing that electrical wiring work, or under this Act from doing that autogas work or gasfitting work (as the case may be).
+(3)  The regulations may make provision for or with respect to the issue by authorised officers of directions or notices to rectify electrical installation work, autogas work or gasfitting work that is found on inspection to be non-compliant, and enforcement of those directions or notices.
+55   Inspection of electricity meters
+(1)  This section applies to an electrical installation that includes the installation of an electricity meter.
+(2)  Without limiting section 54, an authorised officer may inspect an electrical installation to which this section applies to ensure that the installation complies with this Act and any standards or requirements imposed by the regulations.
+(3)  The regulations may prescribe a fee for or in connection with the inspection by an authorised officer of an electrical installation to which this section applies.
+55A   Powers of entry—electricity works and meters
+(1)  An authorised officer of a network operator may enter premises for the purpose of exercising the following functions—
+(a)  carrying out preliminary investigations in connection with the proposed installation or extension of electricity works,
+(b)  reading electricity meters.
+(2)  An authorised officer of a retailer may enter the premises of a customer for the following purposes—
+(a)  reading, testing, maintaining, inspecting or altering any meter installed at the premises,
+(b)  calculating or measuring energy supplied or taken at the premises,
+(c)  checking the accuracy of metered consumption at the premises,
+(d)  replacing meters,
+(e)  any other purpose prescribed by the regulations relating to metering.
+(3)  A power of entry to premises under this section may be exercised—
+(a)  if there is a problem with a meter on the premises that poses a risk to safety, by an authorised officer of a retailer—at any time, or
+(b)  otherwise—only during daylight hours.
+(4)  In exercising a power under this section, an authorised officer must do as little damage as possible.
+(5)  Without limiting subsection (4) and as far as practicable, entry onto fenced land—
+(a)  is to be made through an existing opening in the fence, or
+(b)  if entry through an existing opening is not practicable—
+(i)  through a new opening, and
+(ii)  the new opening is to be properly closed when the need for entry ends.
+(6)  In this section—
+authorised officer of a network operator or retailer has the meaning given by the Electricity Supply Act 1995, section 94.
+Division 3 Seizure and forfeiture of electrical articles and gas appliances
+56   Meaning of “seized article or appliance”
+In this Division—
+seized article or appliance means an electrical article or a gas appliance that is seized under section 49 (d).
+57   Return of seized electrical articles and gas appliances
+(1)  The Secretary must, within the prescribed period, return a seized article or appliance to the person from whom it was seized.
+(2)  Subsection (1) does not apply if, within the prescribed period—
+(a)  the Secretary has determined that the article or appliance is unsafe and applied under section 58 for the forfeiture of the article or appliance, or
+(b)  proceedings are brought against the person or any other person in connection with the article or appliance for an offence against this Act or the regulations.
+(3)  The Secretary must provide compensation for the seized article or appliance if, within the prescribed period—
+(a)  the Secretary does not find the article or appliance to be unsafe or apply for the forfeiture of the article or appliance, or
+(b)  proceedings for an offence against this Act or the regulations are not brought against a person in connection with the article or appliance.
+(4)  If proceedings are brought within the prescribed period against a person in connection with a seized article or appliance for an offence against this Act or the regulations—
+(a)  the Secretary may retain the article or appliance until the proceedings are finally determined, and
+(b)  the Secretary must immediately return the article or appliance to the person from whom it was seized if the defendant in the proceedings is acquitted of the offence.
+(5)  Compensation provided under this section is to be determined in accordance with the regulations.
+(6)  In this section—
+prescribed period means no later than 12 months after the seizure or, if the regulations prescribe a different period, the period so prescribed.
+58   Forfeiture of certain electrical articles and gas appliances
+(1)  The Secretary may apply to the Local Court for the forfeiture of an electrical article or a gas appliance to the Crown if—
+(a)  a court has found a person guilty of an offence against this Act or the regulations in connection with the electrical article or gas appliance, or
+(b)  the Secretary determines that a seized article or appliance is unsafe.
+(2)  The Secretary is to make the application in the manner prescribed by the regulations.
+(3)  On the making of an order by the Local Court for the forfeiture of an electrical article or a gas appliance, the electrical article or gas appliance is forfeited to the Crown.
+(4)  Any electrical article or gas appliance forfeited to the Crown may be disposed of as the Secretary directs.
+Division 4 Search warrants
+59   Search warrants
+(1)  An authorised officer may apply to an authorised warrants officer for a search warrant in respect of a place if the authorised officer has reasonable grounds for believing that—
+(a)  an unsafe electrical installation or gas installation is in the place, or
+(b)  a serious electrical accident or a serious gas accident has occurred in the place, or
+(c)  a provision of this Act or the regulations has been or is being contravened in the place.
+(2)  An authorised warrants officer to whom an application is made under this section may, if satisfied that there are reasonable grounds for doing so, issue a search warrant authorising the authorised officer named in the warrant—
+(a)  to enter the place concerned, and
+(b)  to search the place for evidence of a contravention of this Act or the regulations.
+(3)  Division 4 of Part 5 of the Law Enforcement (Powers and Responsibilities) Act 2002 applies to a search warrant issued under this section.
+(4)  In this section—
+authorised warrants officer means an authorised officer within the meaning of the Law Enforcement (Powers and Responsibilities) Act 2002.
+Division 5 Undertakings
+60   Application of section 218 of the Australian Consumer Law (NSW) to undertakings given for purposes of this Act
+(1)  Section 218 (Regulator may accept undertakings) of the Australian Consumer Law (NSW) applies in connection with a matter in relation to which the Secretary has a function under this Act as if the function were a function under that Law.
+Note—
+Section 218 of the Australian Consumer Law (NSW) enables the Secretary to accept a written undertaking given by a person in connection with a matter in relation to which the Secretary has a function under that Law. Any such undertaking is enforceable by the Supreme Court.
+(2)  The costs incurred by the Secretary in taking action under section 218 of the Australian Consumer Law (NSW) to enforce an undertaking are recoverable from the person who gave the undertaking, as a debt due to the Crown, in a court of competent jurisdiction.
+Division 6 Authorised officers
+61   Appointment and identification of authorised officers
+(1)  The Secretary may appoint any person (other than an investigator) as an authorised officer for the purposes of any or all of the provisions of this Act or the regulations.
+Note—
+Any investigator under the Fair Trading Act 1987 is an authorised officer for the purposes of this Act without further need for appointment under this section because of paragraph (a) of the definition of authorised officer in section 4 (1).
+(2)  The Secretary may at any time and for any reason revoke a person’s appointment under subsection (1).
+(3)  An authorised officer is to be provided by the Secretary with a certificate of identification.
+(4)  An authorised officer must, when exercising in any place any function of the authorised officer under this Act or the regulations, produce the officer’s certificate of identification to any person apparently in charge of the place who requests its production.
+62   Powers of authorised officers who are investigators under Fair Trading Act 1987 not limited
+The powers conferred by this Act or the regulations on persons who are authorised officers because they are investigators are in addition to, and not in derogation of, the powers conferred on investigators by Division 1 of Part 2A of the Fair Trading Act 1987.
+Division 7 Proceedings for offences
+63   Liability of directors etc for offences by corporation—offences attracting executive liability
+(1)  For the purposes of this section, an executive liability offence is an offence against any of the following provisions of this Act that is committed by a corporation—
+(a)  section 8 (1) or (2),
+(b)  section 11 (1),
+(c)  section 21,
+(d)  section 31 (1)–(3),
+(e)  section 34,
+(e1)  section 38A,
+(f)  section 50 (3),
+(g)  section 52 (3).
+(2)  A person commits an offence against this section if—
+(a)  a corporation commits an executive liability offence, and
+(b)  the person is—
+(i)  a director of the corporation, or
+(ii)  an individual who is involved in the management of the corporation and who is in a position to influence the conduct of the corporation in relation to the commission of the executive liability offence, and
+(c)  the person—
+(i)  knows or ought reasonably to know that the executive liability offence (or an offence of the same type) would be or is being committed, and
+(ii)  fails to take all reasonable steps to prevent or stop the commission of that offence.
+Maximum penalty—The maximum penalty for the executive liability offence if committed by an individual.
+(3)  The prosecution bears the legal burden of proving the elements of the offence against this section.
+(4)  The offence against this section can only be prosecuted by a person who can bring a prosecution for the executive liability offence.
+(5)  This section does not affect the liability of the corporation for the executive liability offence, and applies whether or not the corporation is prosecuted for, or convicted of, the executive liability offence.
+(6)  This section does not affect the application of any other law relating to the criminal liability of any persons (whether or not directors or other managers of the corporation) who are accessories to the commission of the executive liability offence or are otherwise concerned in, or party to, the commission of the executive liability offence.
+(7)  In this section—
+director has the same meaning it has in the Corporations Act 2001 of the Commonwealth.
+reasonable steps, in relation to the commission of an executive liability offence, includes, but is not limited to, such action (if any) of the following kinds as is reasonable in all the circumstances—
+(a)  action towards—
+(i)  assessing the corporation’s compliance with the provision creating the executive liability offence, and
+(ii)  ensuring that the corporation arranged regular professional assessments of its compliance with the provision,
+(b)  action towards ensuring that the corporation’s employees, agents and contractors are provided with information, training, instruction and supervision appropriate to them to enable them to comply with the provision creating the executive liability offence so far as the provision is relevant to them,
+(c)  action towards ensuring that—
+(i)  the plant, equipment and other resources, and
+(ii)  the structures, work systems and other processes,
+relevant to compliance with the provision creating the executive liability offence are appropriate in all the circumstances,
+(d)  action towards creating and maintaining a corporate culture that does not direct, encourage, tolerate or lead to non-compliance with the provision creating the executive liability offence.
+64   Liability of directors etc for offences by corporation—accessory to the commission of the offences
+(1)  For the purposes of this section, a corporate offence is an offence against this Act or the regulations that is capable of being committed by a corporation, whether or not it is an executive liability offence referred to in section 63.
+(2)  A person commits an offence against this section if—
+(a)  a corporation commits a corporate offence, and
+(b)  the person is—
+(i)  a director of the corporation, or
+(ii)  an individual who is involved in the management of the corporation and who is in a position to influence the conduct of the corporation in relation to the commission of the corporate offence, and
+(c)  the person—
+(i)  aids, abets, counsels or procures the commission of the corporate offence, or
+(ii)  induces, whether by threats or promises or otherwise, the commission of the corporate offence, or
+(iii)  conspires with others to effect the commission of the corporate offence, or
+(iv)  is in any other way, whether by act or omission, knowingly concerned in, or party to, the commission of the corporate offence.
+Maximum penalty—The maximum penalty for the corporate offence if committed by an individual.
+(3)  The prosecution bears the legal burden of proving the elements of the offence against this section.
+(4)  The offence against this section can only be prosecuted by a person who can bring a prosecution for the corporate offence.
+(5)  This section does not affect the liability of the corporation for the corporate offence, and applies whether or not the corporation is prosecuted for, or convicted of, the corporate offence.
+(6)  This section does not affect the application of any other law relating to the criminal liability of any persons (whether or not directors or other managers of the corporation) who are concerned in, or party to, the commission of the corporate offence.
+65   Evidentiary provisions relating to electrical articles
+A certificate purporting to be signed by the Secretary (or any person employed in the Department authorised in writing by the Secretary) to the effect that at any time, or during any period, specified in the certificate—
+(a)  an electrical article was a declared electrical article, or
+(b)  a standard, code, rule, testing requirement or other specification specified or described in the certificate (whether with or without modifications so specified or described) was a class specification or a model specification for a specified model of electrical article, or
+(c)  an electrical article described in the certificate was or was not of a particular model that had a model approval or of a class, description or model approved or registered by a relevant authority for another State or a Territory, or
+(d)  a scheme for the approval or certification of models of electrical articles was a recognised external approval scheme,
+is admissible in any proceedings and is evidence of the matters certified.
+66   Penalty notices
+(1)  An authorised officer may issue a penalty notice to a person if it appears to the officer that the person has committed a penalty notice offence.
+(2)  A penalty notice offence is an offence against this Act or the regulations that is prescribed by the regulations as a penalty notice offence.
+(3)  The Fines Act 1996 applies to a penalty notice issued under this section.
+Note—
+The Fines Act 1996 provides that, if a person issued with a penalty notice does not wish to have the matter determined by a court, the person may pay the amount specified in the notice and is not liable to any further proceedings for the alleged offence.
+(4)  The amount of penalty prescribed under this section for an offence may not exceed—
+(a)  an amount equivalent in value to $10,000, or
+(b)  the maximum amount of penalty that could be imposed for the offence by a court,
+whichever is the lesser.
+(5)  This section does not limit the operation of any other provision of, or made under, this or any other Act relating to proceedings that may be taken in respect of offences.
+67   Nature of proceedings for offences
+(1)  Proceedings for an offence against this Act or the regulations may be dealt with—
+(a)  summarily before the Local Court, or
+(b)  summarily before the Supreme Court in its summary jurisdiction.
+(2)  If proceedings are brought in the Local Court, the maximum monetary penalty that the Local Court may impose for the offence is 200 penalty units, despite any higher maximum monetary penalty provided in respect of the offence.
+68   Commencement of proceedings
+(1)  Proceedings for an offence against this Act or the regulations may be commenced at any time within the period of 2 years after the date on which the offence is alleged to have been committed.
+(2)  Proceedings for an offence against this Act or the regulations may also be commenced within the period of 2 years after the date evidence of the offence that is alleged to have been committed first came to the attention of an authorised officer.
+(3)  However, nothing in subsection (2) permits the commencement of proceedings if a period of 5 years or more has elapsed after the date on which the offence is alleged to have been committed.
+(4)  If subsection (2) is relied on for the purpose of commencing proceedings for an offence, the process commencing proceedings for the offence must contain particulars of the date on which evidence of the offence first came to the attention of an authorised officer and need not contain particulars of the date on which the offence was committed. The date on which evidence first came to the attention of an authorised officer is the date specified in the process commencing proceedings for the offence, unless the contrary is established.
+(5)  This section applies despite anything in the Criminal Procedure Act 1986 or any other Act.
+(6)  In this section—
+authorised officer means any person who is an authorised officer for the purposes of this Act, whether or not the person has the functions of an authorised officer in connection with the offence concerned.
+evidence of an offence means evidence of any act or omission constituting the offence.
+process commencing proceedings for an offence includes—
+(a)  in the case of proceedings for an offence commenced in the Local Court—a court attendance notice issued under the Criminal Procedure Act 1986 in respect of the person alleged to have committed the offence, and
+(b)  in the case of proceedings for an offence commenced in the Supreme Court in its summary jurisdiction—an application for an order under section 246 of the Criminal Procedure Act 1986 in respect of the person alleged to have committed the offence.
+68A   Continuing offences
+(1)  A person who is guilty of an offence because the person contravenes a requirement made by or under this Act or the regulations (whether the requirement is imposed by a notice or in another way) to do or cease to do something (whether or not within a specified period or before a particular time)—
+(a)  continues, until the requirement is complied with and despite the fact that any specified period has expired or time has passed, to be liable to comply with the requirement, and
+(b)  is guilty of a continuing offence for each day the contravention continues.
+(2)  This section does not apply to an offence if the relevant provision of this Act or the regulations does not provide for a penalty for a continuing offence.
+(3)  This section does not apply to the extent that a requirement of a notice is revoked.
+Part 8 Miscellaneous
+69   Registers
+(1)  The Secretary is to cause the following registers to be maintained—
+(a)  a register of model approvals granted under Part 2,
+(b)  a register of persons granted a certification authority under Part 3.
+(2)  The regulations may make provision for or with respect to the form in which a register is to be kept and the particulars that are to be recorded in a register.
+70   Disclosure of information
+(1)  A person must not disclose any information relating to any manufacturing or commercial secrets or working processes obtained by the person in connection with the administration or execution of this Act, unless the disclosure of information is—
+(a)  made in connection with the administration or execution of this Act, or
+(b)  made with the prior permission of the Minister, or
+(c)  ordered by a court, or by any other body or person authorised by law to examine witnesses, in the course of, and for the purpose of, the hearing and determination by that court, body or person of any matter or thing.
+Maximum penalty—100 penalty units.
+(2)  The Minister may grant the permission referred to in subsection (1) (b) only if the Minister is satisfied that to do so would be in the public interest.
+(3)  Despite subsection (1), a person employed in the Department may, with the consent of the Secretary, communicate any matter that comes to the knowledge of the employee in the exercise of the functions of the employee under this Act to an officer or body engaged in administering or executing a law of the Commonwealth or of another State or a Territory relating to electrical articles or electrical installations or gas appliances, gas installations, medical gas installations or autogas installations.
+71   Exclusion of personal liability
+(1)  Anything done or omitted to be done by—
+(a)  the Minister, or a person acting under the direction of the Minister, or
+(b)  the Secretary, or a person acting under the direction of the Secretary, or
+(c)  an authorised officer,
+does not subject the Minister, Secretary, person or authorised officer personally to any action, liability, claim or demand if the thing was done, or omitted to be done, in good faith for the purpose of executing this Act.
+(2)  However, any such liability attaches instead to the Crown.
+72   Service of documents
+(1)  A document that is authorised or required by this Act or the regulations to be served on any person may be served by any of the following methods—
+(a)  in the case of an individual—by personal delivery to the person,
+(b)  by post to the address specified by the person for the service of documents of that kind,
+(c)  in the case of an individual who has not specified such an address—by post to the residential or business address of the person last known to the person serving the document,
+(d)  in the case of a corporation—by post to the registered office or any other office of the corporation or by leaving it at any such office with a person apparently over the age of 16 years,
+(e)  by email to an email address specified by the person for the service of documents of that kind,
+(f)  by any other method authorised by the regulations for the service of documents of that kind.
+(2)  Nothing in this section affects the operation of any provision of a law or of the rules of a court authorising a document to be served on a person by any other method.
+(3)  In this section, serve includes give or send.
+73   Provision of documents to Secretary
+(1)  A document may be served on, or given to, or lodged with, the Secretary by leaving it at, or by sending it by post to—
+(a)  the office of the Secretary, or
+(b)  if the Secretary has more than one office, any one of the Secretary’s offices.
+(2)  Nothing in subsection (1) affects the operation of any provision of a law or of the rules of a court authorising a document to be served on the Secretary in a manner not provided for by subsection (1).
+74   Delegation of functions
+(1)  The Minister may delegate to an authorised person any of the functions of the Minister under this Act or the regulations, other than this power of delegation.
+(2)  The Secretary may delegate to any other authorised person any of the functions of the Secretary under this Act or the regulations, other than this power of delegation.
+(3)  A delegate may sub-delegate to an authorised person any function delegated by the Minister or the Secretary if the delegate is authorised in writing to do so by the Minister or Secretary (as the case may be).
+(4)  In this section—
+authorised person means—
+(a)  a public authority or local authority or a member of staff of a public authority or local authority, or
+(b)  a person employed in the Public Service, or
+(c)  a person of a class prescribed by the regulations.
+75   Regulations
+(1)  The Governor may make regulations, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+(2)  Without limiting subsection (1), the regulations may make provision for or with respect to any of the following matters—
+(a)  the provision of reports, information, particulars, returns and statistics for the purposes of this Act and the time and mode of providing and the manner of verification,
+(b)  the constitution, functions and procedures of a committee to advise the Secretary in relation to any matters relating to the approval or sale of electrical articles or gas appliances that may be referred to it by the Secretary,
+(c)  the making of applications for the purposes of this Act,
+(d)  fees or charges for the purposes of this Act (including the waiver, reduction, postponement or refund of fees or charges),
+(e)  standards for electrical articles or gas appliances and for the materials used in their manufacture,
+(f)  the design and construction of electrical articles or gas appliances,
+(g)  the testing and inspection of electrical articles or gas appliances,
+(h)  the approval, and the withholding and withdrawal of approval, of electrical articles or gas appliances (including of models or types) and the renewal of an approval,
+(i)  the marking or labelling of electrical articles or gas appliances and the improper use of marks or labels,
+(j)  guarantees to be given with respect to electrical articles or gas appliances,
+(k)  the connection, alteration, maintenance, repair, replacement and operation of electrical articles or gas appliances,
+(l)  the disposal, whether by way of sale or otherwise, of electrical articles or gas appliances (including the imposition of conditions on their sale to ensure their safe use) and the display of electrical articles or gas appliances in connection with their disposal,
+(m)  electrical installations, gas installations, medical gas installations or autogas installations, or associated fittings or equipment,
+(n)  the carrying out of electrical installation work, gasfitting work, medical gasfitting work, medical gas technician work or autogas work,
+(o)  the examination and testing of gas meters.
+(3)  The regulations may exempt or provide for the exemption, unconditionally or subject to conditions, of persons or things or classes of persons or things from any or all of the provisions of this Act.
+(3A)  Despite subsection (3), the regulations cannot exempt, or provide for the exemption, of a person from the requirements of Part 5A.
+(4)  The regulations may create offences punishable by a penalty not exceeding 500 penalty units in the case of a corporation and 250 penalty units in the case of an individual.
+(5)  The regulations may apply, adopt or incorporate (with or without modification) any publication as in force at a particular time or from time to time.
+(6)  The regulations may provide for an application to be made to the Civil and Administrative Tribunal by a person for an administrative review under the Administrative Decisions Review Act 1997 of a decision, of a class prescribed by the regulations, that is made under this Act or the regulations.
+(7)  The Minister is not to recommend the making of a regulation containing provisions for the purposes of subsection (6) unless the Minister certifies that the Minister administering the Civil and Administrative Tribunal Act 2013 has agreed to the provisions.
+(8)  The regulations prevail over regulations made under the Local Government Act 1993, to the extent of any inconsistency.
+76   (Repealed)
+77   Review of Act
+(1)  The Minister is to review this Act to determine whether the policy objectives of the Act remain valid and whether the terms of the Act remain appropriate for securing those objectives.
+(2)  The review is to be undertaken as soon as possible after the period of 5 years from the date of assent to this Act.
+(3)  A report on the outcome of the review is to be tabled in each House of Parliament within 12 months after the end of the period of 5 years.
+Schedule 1 Savings, transitional and other provisions
+Part 1 General
+1   Regulations
+(1)  The regulations may contain provisions of a savings or transitional nature consequent on the enactment of this Act or any Act that amends this Act.
+(2)  Any such provision may, if the regulations so provide, take effect from the date of assent to the Act concerned or a later date.
+(3)  To the extent to which any such provision takes effect from a date that is earlier than the date of its publication on the NSW legislation website, the provision does not operate so as—
+(a)  to affect, in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the date of its publication, or
+(b)  to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of its publication.
+(4)  Regulations made as referred to in subclause (1) may have effect despite the terms of any savings or transitional provisions contained in this Schedule, if the regulations so provide.
+(5)  The regulations under this Part may make separate savings and transitional provisions or amend this Schedule to consolidate the savings and transitional provisions.
+Part 2 Provisions arising from enactment of this Act
+Division 1 General provisions
+2   Definition
+In this Division—
+former legislation means the following—
+(a)  the Electricity (Consumer Safety) Act 2004,
+(b)  the Gas Supply (Consumer Safety) Regulation 2012,
+as in force immediately before their repeal by this Act.
+3   General savings provision
+(1)  Anything done or omitted to be done or commenced to be done under or in relation to a provision of the former legislation is taken to have been done or omitted or commenced to be done under or in relation to the corresponding provision of this Act.
+(2)  This clause does not apply—
+(a)  to the extent that its application is inconsistent with any other provision of this Schedule or a provision of a regulation made under this Schedule, or
+(b)  to the extent that its application would be inappropriate in a particular case.
+4   Construction of references
+(1)  Subject to the regulations, in any Act or instrument—
+(a)  a reference to the former legislation extends to this Act, and
+(b)  a reference to a provision of the former legislation for which there is a corresponding provision in this Act extends to the corresponding provision of this Act, and
+(c)  a reference to any act, matter or thing referred to in a provision of the former legislation for which there is a corresponding provision in this Act extends to the corresponding act, matter or thing referred to in the corresponding provision of this Act.
+(2)  Subclause (1) does not apply to section 135 (a1), or (c) (to the extent section 135 refers to a statutory instrument made under the Gas Supply Act 1996), of the Home Building Act 1989.
+5   Commencement and nature of proceedings for offences
+(1)  Sections 67 and 68 of this Act extend to offences or alleged offences against the former legislation for which no proceedings had been commenced before the commencement of those sections.
+(2)  Despite subclause (1), section 68 (2) of this Act does not extend to offences or alleged offences under the Gas Supply (Consumer Safety) Regulation 2012 for which no proceedings had been commenced before that commencement.
+6   Registers
+A register kept under the former legislation immediately before the commencement of section 69 of this Act is taken to be the corresponding register required to be kept under that section.
+Division 2 Further provisions consequent on repeal of Electricity (Consumer Safety) Act 2004
+7   Definition
+In this Division—
+former Act means the Electricity (Consumer Safety) Act 2004, as in force immediately before its repeal by this Act.
+8   Declared electrical articles
+An order in force under section 5 of the former Act immediately before the commencement of section 12 of this Act is taken to be an order under section 12 of this Act.
+9   Offences under former Act may be taken into account in determining penalties
+(1)  An offence against a corresponding provision of the former Act may be taken into account in deciding if an offence against a provision of this Act is a second or subsequent offence against that provision for the purposes of determining the penalty for the offence.
+(2)  In this clause—
+corresponding provision means the following—
+(a)  in relation to an offence against section 8 of this Act—section 16 of the former Act,
+(b)  in relation to an offence against section 31 of this Act (to the extent that it relates to an electrical article)—section 24 of the former Act,
+(c)  in relation to an offence against section 34 of this Act (to the extent that it relates to electrical installation work)—section 31 of the former Act,
+(d)  in relation to an offence against section 50 of this Act (to the extent that it relates to an electrical article)—section 27 of the former Act.
+10   Model approvals for electrical articles
+(1)  An application for a model approval made under section 11 of the former Act but not finally determined immediately before the commencement of section 16 of this Act is taken to be made, and may be determined, under section 16 of this Act.
+(2)  A model approval in force under section 11 of the former Act immediately before the commencement of section 16 of this Act is taken to be a model approval in force on the same terms under section 16 of this Act.
+(3)  A suspension of a model approval under section 13 of the former Act that had effect immediately before the commencement of section 18 of this Act is taken to be a suspension for the same period in force under section 18 of this Act.
+(4)  An application to the Civil and Administrative Tribunal under section 14 of the former Act but not finally determined immediately before the commencement of section 19 of this Act is taken to be made under section 19 of this Act.
+(5)  For the purposes of section 19 (3) of this Act, the date on which an application for a model approval to which subclause (2) applies was lodged is the date on which it was actually lodged.
+11   Recognised external approval schemes
+A scheme for the approval or certification of models of electrical articles that was a declared recognised external approval scheme under section 15 of the former Act immediately before the commencement of section 20 of this Act is taken to be a recognised external approval scheme declared under section 20 of this Act.
+12   Exemptions from restrictions on sale of electrical articles
+An order in force under section 16 (2) of the former Act immediately before the commencement of section 8 (3) of this Act is taken to be an order made under section 8 (3) of this Act on the same terms and subject to the same conditions.
+13   Notices issued by Secretary relating to unsafe electrical articles
+A notice issued by the Secretary under section 21, 22 or 23 of the former Act that had effect immediately before the commencement of section 28, 29 or 30 of this Act, is taken to be a notice issued under section 28, 29 or 30, respectively, of this Act.
+14   Notices issued by authorised officers relating to unsafe electrical articles
+(1)  A notice issued, or a label affixed, by an authorised officer under section 27 of the former Act that had effect immediately before the commencement of section 50 of this Act is taken to be a notice issued or a label affixed under section 50 of this Act.
+(2)  For the purposes of section 50 (2) of this Act, the date on which a notice to which subclause (1) applies was issued is the date on which it was actually issued.
+15   Arrangements with public authorities regarding investigable electrical incidents
+An arrangement entered into under section 38 of the former Act that had effect immediately before the commencement of section 44 of this Act is taken to be an arrangement under section 44 of this Act.
+16   Authorised officers
+A person whose appointment as an authorised officer under section 39 of the former Act was in force immediately before the commencement of section 61 of this Act is taken to be appointed under section 61 of this Act.
+17   Search warrants
+A search warrant under section 42 of the former Act that was in force immediately before the commencement of section 59 of this Act is taken to be a search warrant under section 59 of this Act.
+18   Evidentiary certificates
+Any evidentiary certificate under section 46 of the former Act is taken to be an evidentiary certificate under section 65 of this Act.
+19   Disclosure of information
+Any information obtained by a person in connection with the administration or execution of the former Act is taken to have been obtained by the person in connection with the administration or execution of this Act.
+20   Delegations
+Any delegation of a function made under section 54 of the former Act and in force immediately before the commencement of section 74 of this Act is taken to be a delegation under section 74 of this Act.
+Division 3 Further provisions consequent on repeal of Gas Supply (Consumer Safety) Regulation 2012
+21   Definition
+In this Division—
+former Regulation means the Gas Supply (Consumer Safety) Regulation 2012, as in force immediately before its repeal by this Act.
+22   Certified gas appliances
+A gas appliance that was a certified gas appliance immediately before the commencement of section 22 of this Act is taken to be a certified gas appliance under this Act.
+23   Certification authority
+(1)  An application for a certification authority made under clause 8 of the former Regulation but not finally determined immediately before the commencement of section 23 of this Act is taken to be made, and may be determined, under section 23 of this Act.
+(2)  A certification authority in force under clause 8 of the former Regulation immediately before the commencement of section 23 of this Act is taken to be a certification authority on the same terms under section 23 of this Act.
+(3)  Any condition to which a certification authority referred to in subclause (2) was subject immediately before the commencement of section 24 of this Act is taken to be imposed on the certification authority under section 24 of this Act.
+(4)  A show cause notice given under clause 12 of the former Regulation that had effect immediately before the commencement of section 26 of this Act, is taken to be a show cause notice on the same terms under section 26 of this Act.
+(5)  A suspension of a certification authority under clause 12 of the former Regulation that had effect immediately before the commencement of section 26 of this Act is taken to be a suspension for the same period in force under section 26 of this Act.
+Schedule 2 (Repealed)"

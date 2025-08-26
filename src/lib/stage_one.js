@@ -17,12 +17,12 @@ const ai = new GoogleGenAI({
 // We can easily add to this list and the code will update the prompt and structured output
 const acts = [
   { 
-    act_name: "Electricity (Consumer Safety) Act 2004", 
-    key_name: "electricityConsumerSafetyAct"
+    act_name: "Gas and Electricity (Consumer Safety) Act 2017", 
+    key_name: "gasAndElectricityConsumerSafetyAct"
   },
   { 
-    act_name: "Electricity (Consumer Safety) Regulation 2015", 
-    key_name: "electricityConsumerSafetyRegulation"
+    act_name: "Gas and Electricity (Consumer Safety) Regulation 2018", 
+    key_name: "gasAndElectricityConsumerSafetyRegulation"
   },
   { 
     act_name: "Plumbing and Drainage Act 2011", 
@@ -96,23 +96,40 @@ const acts_structured_output_function = () => {
 
 /*  -------   Example returned AI Prompt   --------
 
-Given the question: "I'm building a sewerage treatment plant, what do I need to consider?",
-return whether each of the following NSW Acts are worth investigating 
-in detail in order to answer the question comprehensively. 
-Acts:
-1. Environmental Planning and Assessment Act 1979 (NSW)
-2. Biodiversity Conservation Act 2016 (NSW)
-3. Protection of the Environment Operations Act 1997 (NSW)
+You are checking which NSW Acts or Codes are likely relevant to the following question: 
+"I want to install a powerpoint outside the house".
 
-Responses to each Act should include:
-- applies: boolean indicating if the Act applies
-- comment: a brief explanation as to why the Act applies or does not apply
+Instructions:
+- Base your reasoning on the most common or likely interpretation of what the user is doing.
+- If the question is ambiguous as to what the user is doing, briefly consider other reasonable interpretations before deciding.
+- Be conservative: assume Acts apply only when there is a clear and probable link. Do not assume rare or unusual scenarios.
+
+Acts to check:
+1. Electricity (Consumer Safety) Act 2004 (NSW)
+2. Electricity (Consumer Safety) Regulation 2015 (NSW)
+3. Plumbing and Drainage Act 2011 (NSW)
+4. Plumbing and Drainage Regulation 2023 (NSW)
+5. National Construction Code – Building Code of Australia (BCA) (NSW)
+6. National Construction Code – Plumbing Code of Australia (PCA) (NSW)
+7. AS/NZS 3000:2018 Wiring Rules (NSW)
+8. AS/NZS 3500 Plumbing and Drainage Standards (NSW)
+9. NSW Service and Installation Rules (NSW)
+
+For each Act, return:
+- applies: boolean (true only if it is clearly or very likely relevant)
+- comment: short explanation why it does or does not apply
 
 Respond ONLY as valid JSON, matching EXACTLY the following schema:
 {
-  "environmentalPlanningAssessmentAct": { "applies": boolean, "comment": string },
-  "biodiversityConservationAct": { "applies": boolean, "comment": string },
-  "protectionOfEnvironmentOperationsAct": { "applies": boolean, "comment": string }
+"electricityConsumerSafetyAct": { "applies": boolean, "comment": string },
+"electricityConsumerSafetyRegulation": { "applies": boolean, "comment": string },
+"plumbingDrainageAct": { "applies": boolean, "comment": string },
+"plumbingDrainageRegulation": { "applies": boolean, "comment": string },
+"nationalConstructionCodeBCA": { "applies": boolean, "comment": string },
+"nationalConstructionCodePCA": { "applies": boolean, "comment": string },
+"asNz3000WiringRules": { "applies": boolean, "comment": string },
+"asNz3500PlumbingDrainage": { "applies": boolean, "comment": string },
+"nswServiceInstallationRules": { "applies": boolean, "comment": string }
 }
 
 */

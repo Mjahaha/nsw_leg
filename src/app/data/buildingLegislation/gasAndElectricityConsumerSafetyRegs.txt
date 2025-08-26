@@ -1,0 +1,1355 @@
+Status Information
+Currency of version
+Current version for 13 January 2023 to date (accessed 26 August 2025 at 22:18)
+Legislation on this site is usually updated within 3 working days after a change to the legislation.
+
+Provisions in force
+The provisions displayed in this version of the legislation have all commenced.
+
+Notes—
+Staged repeal status
+This legislation is currently due to be automatically repealed under the Subordinate Legislation Act 1989 on 1 September 2026
+
+Authorisation
+This version of the legislation is compiled and maintained in a database of legislation by the Parliamentary Counsel's Office and published on the NSW legislation website, and is certified as the form of that legislation that is correct under section 45C of the Interpretation Act 1987.
+
+File last modified 15 August 2025
+
+Part 1 Preliminary
+1   Name of Regulation
+This Regulation is the Gas and Electricity (Consumer Safety) Regulation 2018.
+2   Commencement
+This Regulation commences on the commencement of the Gas and Electricity (Consumer Safety) Act 2017 and is required to be published on the NSW legislation website.
+3   Definitions
+(1)  In this Regulation—
+apparent defect means a defect that presents an immediate or potential danger to persons and that is apparent on testing or inspection, and apparently defective has a corresponding meaning.
+AS/NZS 1425 means—
+(a)  until and including 31 December 2018—the Australian and New Zealand Standard entitled AS/NZS 1425:2007, LP Gas fuel systems for vehicle engines, and
+(b)  on and from 1 January 2019—the Australian and New Zealand Standard entitled AS/NZS 1425:2013, LP Gas fuel systems for vehicle engines.
+AS/NZS 2739 means the Australian and New Zealand Standard entitled AS/NZS 2739:2009, Natural gas (NG) fuel systems for vehicle engines.
+AS/NZS 5601.2 means the Australian and New Zealand Standard entitled AS/NZS 5601.2:2020, Gas installations, Part 2: LP Gas installations in caravans and boats for non-propulsive purposes.
+Australian/New Zealand Wiring Rules means—
+(a)  until and including 31 December 2018—the Australian and New Zealand Standard, entitled AS/NZS 3000:2007, Electrical installations, published jointly by Standards Australia and Standards New Zealand, and
+(b)  on and from 1 January 2019—the Australian and New Zealand Standard, entitled AS/NZS 3000:2018, Electrical installations, (known as the Australian/New Zealand Wiring Rules), as in force from time to time, published jointly by Standards Australia and Standards New Zealand.
+Australian Standard or Australian and New Zealand Standard means such a standard published by Standards Australia as in force from time to time.
+authority number, in relation to a person who carries out or supervises the carrying out of the following work, means the licence number or certificate number for a contractor licence or certificate issued under the Home Building Act 1989 that authorises the person to contract to do or to carry out, or supervise the carrying out of, the work—
+(a)  electrical installation work,
+(b)  medical gasfitting work,
+(c)  medical gas technician work,
+(d)  mechanical services and medical gas work.
+autogas (CN Gas) installation means an autogas installation that is designed for use with compressed natural gas.
+autogas (LP Gas) installation means an autogas installation that is designed for use with liquefied petroleum gas.
+business day means a day that is not a Saturday, Sunday or public holiday.
+compliance label, in relation to a gas appliance or type of gas appliance, means a label attached to the gas appliance or type of gas appliance containing the particulars specified in clause 25 (2).
+defect notice means a defect notice referred to in clause 47.
+distribution system, in relation to—
+(a)  electricity—has the same meaning as in the Electricity Supply Act 1995, and
+(b)  gas—has the same meaning as in the Gas Supply Act 1996.
+distributor, in relation to—
+(a)  electricity—has the same meaning as in the Electricity Supply Act 1995, and
+(b)  gas—has the same meaning as in the Gas Supply Act 1996.
+dwelling means a building, or a portion of a building, that is occupied or used, or so constructed or adapted as to be capable of being occupied or used, as a separate residence.
+electrical installation work provider—see clause 37 (3) (c) (ii).
+free-standing electrical installation means an electrical installation that is used for (or for purposes incidental to) the conveyance, control and use of electricity in connection with a dwelling where the only source for the electricity is, or is to be, a stand-alone power system.
+model approval certificate—see clause 17.
+model reference code means, in relation to an electrical article, a model name, model number, catalogue number, series number or similar indication of the model of the article given by its manufacturer or by a seller of the article.
+qualified person, for Part 13A, means, in relation to the following work, a person authorised under the Home Building Act 1989 to do the work without supervision—
+(a)  medical gasfitting work,
+(b)  medical gas technician work,
+(c)  mechanical services and medical gas work.
+register, in Part 3, means the register of model approvals.
+register of certification authorities means the register referred to in section 69 (1) (b) of the Act.
+register of model approvals means the register referred to in section 69 (1) (a) of the Act.
+relevant distributor, in relation to an electrical installation or gas installation or place at which a serious electrical accident or serious gas accident occurs, means a distributor that owns or controls the distribution system that is used (or is intended to be used) to convey, or control the conveyance of, electricity or gas (as applicable) to the installation or place.
+relevant fee, in relation to a matter, means the fee specified in Schedule 2 in relation to that matter.
+responsible contractor means, in relation to the carrying out of the following work, the person who supervises the carrying out of the work, under the authority of an appropriately endorsed contractor licence or appropriate supervisor certificate—
+(a)  autogas work,
+(b)  electrical installation work,
+(c)  gasfitting work,
+(d)  mechanical services and medical gas work,
+(e)  medical gas technician work,
+(f)  medical gasfitting work.
+safety and compliance test means the following—
+(a)  in relation to electrical installation work on an electrical installation, or part of an electrical installation—a test referred to in clause 36,
+(b)  in relation to work on a medical gas installation, or part of a medical gas installation—a test referred to in clause 69B.
+stand-alone power system means a system for the supply of electricity that is not connected to a distribution system of a distributor.
+switchboard means a switchboard within the meaning of the Australian/New Zealand Wiring Rules.
+the Act means the Gas and Electricity (Consumer Safety) Act 2017.
+trade certificate—see section 33 (3) of the Act.
+tradesperson certificate—see section 33 (3) of the Act.
+Note.
+The Act and the Interpretation Act 1987 contain definitions and other provisions that affect the interpretation and application of this Regulation.
+(2)  A reference in this Regulation to a newspaper is to a newspaper, whether published in print or on a publicly accessible website.
+(3)  Notes included in this Regulation do not form part of this Regulation.
+3A   Definition of “medical gas”
+For the purposes of the definition of medical gas in section 4(1) of the Act, the following substances are prescribed—
+(a)  oxygen,
+(b)  nitrous oxide,
+(c)  helium,
+(d)  nitrogen,
+(e)  carbon dioxide,
+(f)  medical air,
+(g)  surgical tool gas,
+(h)  common mixtures of the gases referred to in paragraphs (a)–(g),
+(i)  air at a negative pressure,
+(j)  waste anaesthetic gas.
+4   Definition of “relevant authority”
+For the purposes of the definition of relevant authority in section 4 (1) of the Act, the following authorities are prescribed for each of the following States and Territories—
+(a)  the Electrical Safety Office, Office of Industrial Relations, Treasury in relation to Queensland,
+(b)  Energy Safe Victoria in relation to Victoria,
+(c)  the Office of the Technical Regulator, Department for Energy and Mining in relation to South Australia,
+(d)  Consumer, Building and Occupational Services, Department of Justice in relation to Tasmania,
+(e)  EnergySafety, Department of Mines, Industry Regulation and Safety in relation to Western Australia,
+(f)  NT WorkSafe, Department of Attorney-General and Justice in relation to the Northern Territory,
+(g)  the Construction, Environment and Workplace Protection Division, Access Canberra in relation to the Australian Capital Territory.
+5   Definition of “specification”
+For the purposes of paragraph (b) of the definition of specification in section 4 (1) of the Act, the following are prescribed—
+(a)  international standards published by the International Electrotechnical Commission,
+(b)  European standards published by the European Committee for Electrotechnical Standardisation,
+(c)  standards published by UL (Underwriters Laboratories Inc),
+(d)  standards published by Standards New Zealand.
+Note.
+Copies of standards referred to in paragraph (a) are available for purchase from the International Electrotechnical Commission at www.iec.ch, in paragraph (b), from IHS Markit at https://global.ihs.com, in paragraph (c), from UL at www.shopulstandards.com and in paragraph (d), from https://shop.standards.govt.nz.
+Part 2 Electrical articles—restrictions on sale
+Note.
+Part 6 provides for general restrictions on the sale or other disposal of electrical articles and gas appliances.
+6   Marking of declared electrical articles
+(1)  For the purposes of sections 8 (2) (a) and 9 (2) (b) (ii) of the Act, a declared electrical article is to be marked with at least one of the following marks that applies to the article—
+(a)  a mark approved by the Secretary for articles of the model to which the article belongs,
+(b)  a mark in accordance with the requirements of the relevant authority for another State or a Territory by which the model to which the article belongs is approved or registered,
+(c)  a mark in accordance with the requirements of a recognised external approval scheme.
+(2)  A mark is not in accordance with subclause (1) unless it is made in a manner that is legible and permanent.
+(3)  The mark may be made on the article itself or on a container, or a label affixed to a bundle, in which the articles are sold, as indicated on the relevant model approval certificate.
+(4)  A person must not mark an article of one model (or a container, or bundle, of articles of one model) with a mark that properly relates only to one or more other models.
+Maximum penalty—20 penalty units.
+7   Prescribed requirements for electrical articles that are not declared electrical articles
+(1)  The specifications with which an electrical article that is not a declared electrical article must comply for the purposes of sections 8 (2) (b) (iii) and 9 (2) (b) (iii) of the Act are those set out in—
+(a)  clauses 4.1, 4.2 and 4.3 of AS/NZS 3820:2009, and
+(b)  if the article is a toy within the meaning of AS/NZS 3820:2009—clause 4.4, and
+(c)  clause 4.5 of AS/NZS 3820:2009.
+(2)  In this clause—
+AS/NZS 3820:2009 means the Australian and New Zealand Standard entitled AS/NZS 3820:2009, Essential safety requirements for electrical equipment, as in force from time to time, published jointly by Standards Australia and Standards New Zealand.
+Part 3 Electrical articles—model approvals
+Division 1 Applications for model approvals
+8   Application for model approval
+(1)  An application under section 16 (1) (a) of the Act for an approval of a model of electrical article must be in the form approved by the Secretary and must be lodged with the Secretary.
+(2)  The application must be accompanied by the following—
+(a)  the relevant fee for the application,
+(b)  in the case of a model of electrical article that is a declared electrical article—evidence that the model complies with—
+(i)  any class specification to the extent that the specification applies to electrical articles of that model, and
+(ii)  any model specification that applies to the electrical articles of that model,
+(c)  in the case of a model of electrical article that is not a declared electrical article—evidence that the model complies with—
+(i)  any specification or requirement prescribed by this Regulation for the purposes of section 8 (2) (b) (iii) or (iv) of the Act to the extent that the specification or requirement applies to electrical articles of that model, and
+(ii)  any model specification that applies to electrical articles of that model, and
+(iii)  if the Secretary requires—any other specification identified by the Secretary,
+(d)  a sample article of the model,
+(e)  any other documents and particulars (including, for example, the drawings and manufacturing specifications in accordance with which electrical articles of the model are, or are to be, constructed) that the Secretary may require.
+(3)  The Secretary may waive any of the requirements of subclause (2) in respect of an application if the Secretary considers that the requirement is inappropriate to that application.
+9   Particulars of approval
+The following particulars are prescribed for the purposes of section 16 (4) (a) of the Act—
+(a)  the name of the model approval holder,
+(b)  a description of the model,
+(c)  the fact that the Secretary has approved the model,
+(d)  the date of the approval,
+(e)  the duration of the approval,
+(f)  the mark (if any) approved by the Secretary for articles of the model,
+(g)  the location where any mark approved by the Secretary may be made if not on the articles themselves (for example on a container, or a label affixed to a bundle, in which the articles are sold),
+(h)  the model reference code for articles of the model concerned.
+Division 2 Extensions and renewals of model approvals
+10   Extension of model approval
+(1)  For the purposes of section 17 (1) of the Act, the period for which a model approval is in force may be extended by the Secretary once or more if—
+(a)  it would not be appropriate, in the opinion of the Secretary, to renew the approval for more than the period of extension, and
+(b)  the Secretary is satisfied that the model continues to be safe to use.
+(2)  An extension may be granted without application for renewal by the model approval holder.
+(3)  However, the total of all the extensions of a particular model approval must not exceed 12 months.
+(4)  Any application for extension by the model approval holder must—
+(a)  be in the form approved by the Secretary, and
+(b)  be accompanied by the relevant fee for the application, and
+(c)  be lodged with the Secretary no later than 1 month before the model approval is due to expire.
+11   Application for renewal of approval
+(1)  For the purposes of section 17 (1) of the Act, the Secretary may renew a model approval on application by the model approval holder on or after the expiry of the model approval, but only if the Secretary is satisfied that the design, material and construction of the current model is not significantly different from that of the model for which the approval was granted.
+(2)  A model approval may—
+(a)  be renewed more than once, and
+(b)  extend to both the original approval and any modifications to the approval that were previously granted.
+(3)  The application must—
+(a)  be in the form approved by the Secretary, and
+(b)  be lodged with the Secretary no later than 1 month before the model approval is due to expire, and
+(c)  be accompanied by the relevant fee for the application, and
+(d)  in the case of a model of electrical article that is a declared electrical article—be accompanied by evidence that electrical articles of that model comply with any class specification to the extent that the specification applies to those articles, and any model specification that applies to those articles, and
+(e)  in the case of a model of electrical article that is not a declared electrical article—be accompanied by evidence that electrical articles of that model comply with any specification or requirement prescribed by this Regulation for the purposes of section 8 (2) (b) (iii) or (iv) of the Act that applies to those articles, and
+(f)  be accompanied by a declaration as to whether the model has been modified since the model approval was given or previously renewed (as the case may be), and
+(g)  be accompanied by a sample article of the model, and
+(h)  be accompanied by any other documents and particulars (including, for example, the drawings and manufacturing specifications in accordance with which electrical articles of the model are, or are to be, constructed) that the Secretary may require.
+(4)  The Secretary may waive any of the requirements of subclause (3) (other than subclause (3) (f)) in respect of an application if the Secretary considers that the requirement is inappropriate to that application.
+12   Notice of renewal
+If the Secretary renews a model approval, the Secretary must give written notice of the renewal to the person who applied for the renewal.
+13   Refusal of application for renewal
+(1)  The Secretary may refuse an application for renewal of a model approval if—
+(a)  the application has not been made in accordance with this Regulation, or
+(b)  in the case of a model of electrical article that is a declared electrical article—electrical articles of the model do not comply with any class specification that is applicable to them at the time the Secretary determines the application, or
+(c)  in the case of a model of electrical article that is not a declared electrical article—electrical articles of that model do not comply with any specification or requirement prescribed by this Regulation for the purposes of section 8 (2) (b) (iii) or (iv) of the Act that is applicable to them at the time the Secretary determines the application, or
+(d)  the Secretary is not satisfied that, by reason of their design or construction, articles of the type are safe.
+(2)  If the Secretary refuses an application for renewal, the Secretary must give written notice of the refusal to the person who applied for the renewal within 21 days after making the refusal. The notice is to set out the reasons for the refusal.
+Division 3 Modification of model approval and changes in details
+14   Application for modification of model approval
+(1)  A model approval holder may apply to the Secretary for modification of the approval—
+(a)  so that it will apply to a modification to that model (whether in addition to, or in substitution for, the model for which the approval was originally granted), or
+(b)  so that the mark (if any) approved by the Secretary for articles of the model or the location where the mark may be made may be changed, or so as to allow an alternate mark or location to be used in respect of that model of electrical article.
+(2)  Application is to be made by lodging with the Secretary the following—
+(a)  an application in the form approved by the Secretary,
+(b)  the relevant fee for the application,
+(c)  an electrical article of the modified model and an electrical article of the model for which the approval is in force,
+(d)  in the case of a model of electrical article that is a declared electrical article—evidence that articles of the modified model comply with any class specification to the extent that the specification applies to those articles,
+(e)  in the case of a model of electrical article that is not a declared electrical article—evidence that articles of the modified model comply with any specification or requirement prescribed by this Regulation for the purposes of section 8 (2) (b) (iii) or (iv) of the Act to the extent that the specification or requirement applies to electrical articles of that model,
+(f)  any other documents and particulars (including, for example, the drawings and manufacturing specifications in accordance with which electrical articles of the model are, or are to be, constructed) that the Secretary may require.
+(3)  The Secretary may waive any of the requirements of subclause (2) in respect of an application if the Secretary considers that the requirement is inappropriate to that application.
+15   Approval or refusal of modification
+(1)  The Secretary may grant an application for a modification of a model approval or may refuse to do so.
+(2)  If the Secretary grants the application, the Secretary must give written notice of the grant of the application to the person who applied for the modification.
+(3)  If the Secretary refuses to grant the application, the Secretary must give written notice to the person who applied for the modification of the refusal, including the reasons for the refusal.
+(4)  The modification of a model approval does not alter the date of expiry of the approval.
+16   Notice of changes in other particulars
+(1)  A model approval holder must give the Secretary written notice of any change in the name of the holder, the model reference code for electrical articles of the model concerned or the description of the model, not later than 21 days after the change occurs.
+Maximum penalty—20 penalty units.
+(2)  The notice is to be in the form approved by the Secretary and accompanied by the relevant fee for the notice.
+(3)  If the Secretary is given a notice under this clause, the Secretary must—
+(a)  cause the register to be amended to reflect the changes specified in the notice, and
+(b)  give the model approval holder a written notice, as soon as is reasonably practicable after the register is amended, indicating that the Secretary has received the notice and that the register has been amended.
+Division 4 Model approval certificates
+17   Model approval certificates
+The written notice referred to in section 16 (4) of the Act is to be in the form of a certificate (a model approval certificate) in which the Secretary certifies the particulars referred to in clause 9 (c)–(h), in relation to the model approval holder and the model concerned.
+18   Duplicate model approval certificates
+The Secretary may issue a duplicate model approval certificate to the approval holder.
+19   Particulars concerning model approvals
+Any person may obtain particulars concerning a model approval (as in force at the time the particulars are requested) from the Secretary in the form approved by the Secretary.
+20   Notice suspending or cancelling a model approval
+The following matters are prescribed for the purposes of section 18 (3) (a) of the Act—
+(a)  the name of the model approval holder,
+(b)  the reasons for the suspension or cancellation of the approval,
+(c)  a description of the model,
+(d)  the mark (if any) approved by the Secretary for the model of electrical article,
+(e)  the date of the suspension or cancellation of the approval,
+(f)  in the case of a suspension, the period of suspension,
+(g)  in the case of a suspension, the remedial action (if any) necessary before the suspension is lifted.
+Part 4 Electrical articles—recognised external approval schemes
+21   Declaration of recognised external approval schemes
+(1)  The Minister is not to declare a scheme to be a recognised external approval scheme for the purposes of section 20 of the Act unless—
+(a)  an application is made to the Minister for the declaration under this Part, and
+(b)  the Minister is satisfied that the person that conducts the scheme is appropriately accredited (or will be appropriately accredited within the next 12 months) by the Joint Accreditation System of Australia and New Zealand established on 30 October 1991, as competent to certify that electrical articles comply with relevant Australian Standards, and
+(c)  the person that conducts the scheme has agreed to implement any systems for the approval and marking of electrical articles that the Minister may direct from time to time, and
+(d)  the Minister has advertised his or her intention to make a declaration in respect of a specified scheme, as provided by this Part, and considered any submissions made concerning the proposed declaration.
+(2)  An application must—
+(a)  be in the form approved by the Secretary, and
+(b)  be accompanied by the relevant fee for the application.
+(3)  The Minister must specify a period (not exceeding 5 years) for the duration of the declaration of a recognised external approval scheme.
+(4)  The Minister may impose conditions on the declaration of a recognised external approval scheme for the purposes of section 20 of the Act and may vary or revoke any such conditions.
+(5)  Without limiting subclause (4), a condition may limit the approval or certification of models of electrical articles that may be provided under a recognised external approval scheme to a specified class or specified classes of models of electrical articles.
+(6)  The Minister may not impose or vary a condition under subclause (4) after declaring a scheme to be a recognised external approval scheme unless—
+(a)  the person conducting the scheme has been given written notice of the Minister’s intention to impose or vary the condition, and
+(b)  the person has been given the opportunity to make written submissions to the Minister concerning the proposed imposition or variation within a specified period (not being less than 7 days), and
+(c)  the Minister has taken into account any such written submissions.
+(7)  The imposition, variation or revocation of a condition under subclause (4) does not take effect until the person conducting the recognised external approval scheme has been given written notice of the imposition, variation or revocation of the condition.
+(8)  The Minister may revoke a declaration made under section 20 of the Act for the breach of a condition imposed under subclause (4) or for any other reason, but only if—
+(a)  the person conducting the scheme has been given written notice of the Minister’s intention to revoke the declaration, and
+(b)  the person has been given the opportunity to make written submissions to the Minister concerning the proposed revocation (not being less than 7 days), and
+(c)  the Minister has taken into account any such written submissions.
+(9)  In this clause—
+Australian Standard means a standard published by or on behalf of Standards Australia and includes a standard that is published jointly with Standards New Zealand.
+22   Applications for declaration of scheme
+(1)  A person who conducts a scheme for the approval or certification of electrical articles may apply to the Secretary for the scheme to be declared to be a recognised external approval scheme.
+(2)  An application must—
+(a)  be in the form approved by the Secretary, and
+(b)  be accompanied by a statement of the particulars (if any) and any other documentation in support of the application that are required by the Secretary.
+(3)  The Minister need not consider any application that the Minister is satisfied does not comply with this clause or for any other reason.
+23   Applications for declaration to be advertised
+(1)  The Minister must publish a notice indicating the Minister’s intention to make a declaration under section 20 of the Act in respect of a specified scheme for the approval or certification of models of specified kinds of electrical articles.
+(2)  The notice must specify a period of at least 14 days during which submissions may be made to the Minister about the proposed declaration (the submission period).
+(3)  The notice is to be published in a manner that the Minister is satisfied is likely to bring the notice to the attention of members of the public.
+(4)  During the submission period, any person may make a written submission to the Minister on the proposed declaration.
+24   Reporting requirements for recognised external approval schemes
+(1)  The Secretary may, by written order given to a person that conducts a recognised external approval scheme, require the person to provide the Secretary with either or both of the following—
+(a)  any reports or particulars about the number and nature of approvals of models of electrical articles given under the scheme that are specified in the order and at the times so specified,
+(b)  any reports, particulars or other information about the level of compliance with the conditions imposed under clause 21 (4) on the declaration of the scheme that are specified in the order and at the times so specified.
+(2)  A person to whom an order is given under subclause (1) must comply with the requirements of the order.
+Maximum penalty—100 penalty units (in the case of a corporation) and 50 penalty units (in the case of an individual).
+Note.
+It is an offence to provide false or misleading information or documents to the Secretary in purported compliance with an order given under subclause (1). See sections 307B (False or misleading information) and 307C (False or misleading documents) of the Crimes Act 1900.
+Part 5 Gas appliances
+Division 1 Restrictions on sale of gas appliances
+Note.
+Part 6 provides for general restrictions on the sale or other disposal of electrical articles and gas appliances.
+25   Labelling of gas appliances
+(1)  For the purposes of section 21 (1) (b) of the Act, a compliance label in the form approved by the Secretary and inscribed with the particulars referred to in subclause (2) must be attached to the appliance in the manner approved by the Secretary.
+(2)  A compliance label relating to a gas appliance or type of gas appliance must be inscribed with—
+(a)  the registered mark of the holder of the certification authority that certified the appliance or type of appliance, and
+(b)  the certification number for the appliance or type of appliance, and
+(c)  the type of gas that is to be used by the appliance.
+(3)  In this clause—
+certification number means the number issued by the holder of a certification authority to identify a gas appliance or type of appliance that has been certified by the holder or a person authorised to certify it on behalf of the holder.
+registered mark for the holder of a certification authority means the mark registered in relation to the holder under clause 75 (2) (c).
+Division 2 Certification of gas appliances
+26   Application for authority to certify gas appliances
+For the purposes of section 23 (1) of the Act, an application for an authority to certify a gas appliance or type of gas appliance—
+(a)  is to be made in writing in the form approved by the Secretary, and
+(b)  must be accompanied by—
+(i)  the fee determined by the Secretary for the application, and
+(ii)  a description of the mark to be used to identify the holder of the proposed certification authority.
+27   Change of particulars
+A holder of a certification authority must give the Secretary written notice of any change in the name and address of the holder, not later than 21 days after the change occurs.
+Maximum penalty—20 penalty units.
+28   Conditions of certification authority
+(1)  For the purposes of section 24 (1) (a) of the Act, a certification authority is subject to the following prescribed conditions—
+(a)  the holder of the certification authority must not certify a gas appliance or type of gas appliance knowing that it is unsafe to use,
+(b)  the holder of the certification authority must attach, or cause to be attached, to each gas appliance or type of gas appliance that he or she certifies a compliance label in relation to the appliance.
+(2)  In subclause (1), holder of the certification authority includes any person authorised by the holder to certify a gas appliance or type of gas appliance on the holder’s behalf.
+(3)  For the purposes of section 24 (1) (b) and (2) of the Act, the Secretary may by order in writing given to the holder of a certification authority—
+(a)  impose further conditions on the grant of the authority, or
+(b)  vary or revoke any condition referred to in section 24 (1) (b) of the Act to which the authority is subject.
+(4)  The Secretary must not impose a further condition, or vary a condition, unless the Secretary—
+(a)  has given the holder of the certification authority written notice of the intention to impose or vary the condition, and
+(b)  has given the holder the opportunity to make oral or written submissions within a period of at least 21 days after the notice is given that is specified in the notice concerning the imposition or variation of the condition, and
+(c)  has taken into account any submissions made by the holder.
+Division 3 Offences relating to compliance labels for gas appliances
+29   Offences relating to compliance labels
+A person must not—
+(a)  attach a compliance label to a gas appliance or type of gas appliance that is not a certified gas appliance, or
+(b)  attach a compliance label to a gas appliance or type of gas appliance that is not a compliance label in relation to that gas appliance or type of gas appliance, or
+(c)  remove a compliance label that has been attached to a gas appliance or type of gas appliance in accordance with this Regulation unless the person is authorised in writing by the Secretary to do so, or
+(d)  falsify the particulars inscribed on a compliance label or attach a compliance label that is inscribed with false particulars to a gas appliance or type of gas appliance, or
+(e)  attach a compliance label to a gas appliance or type of gas appliance that is not in the form approved by the Secretary.
+Maximum penalty—100 penalty units (in the case of a corporation) and 25 penalty units (in the case of an individual).
+Part 6 General restrictions on sale or other disposal of electrical articles and gas appliances
+30   Warnings to accompany certain articles and appliances
+(1)  The Secretary may, by written notice, specify one or more directions (including warnings) as to the safe use of electrical articles of a model or gas appliances of a type specified in the notification.
+(2)  A notice may specify the content of a direction and the manner in which it is to appear. For example, the notice may require it to be marked on electrical articles of the model or gas appliances of the type, or on a label or information sheet accompanying them.
+(3)  The notice may be served on—
+(a)  the model approval holder for the model approval for the model of electrical article, or
+(b)  a manufacturer, importer, wholesaler or retailer of electrical articles of the model or gas appliances of the type, or
+(c)  any other person.
+31   Offence of disposing of articles or appliances that do not carry warnings
+(1)  A person served with a notice under clause 30 must not dispose of an electrical article of the model or a gas appliance of the type specified in the notice—
+(a)  unless all the directions specified in the notice appear in relation to the article or appliance and in accordance with the notice at the time of the disposal, or
+(b)  if a representation that is inconsistent with any such direction appears in relation to the article or appliance at the time of the disposal.
+Maximum penalty—40 penalty units.
+(2)  In this clause, dispose means sell or dispose of by any other means specified in the relevant notice.
+32   Offence of disposing of non-conforming article or appliance
+(1)  If it would be an offence against section 8 or 21 of the Act to sell an electrical article or gas appliance, a person must not make the article or appliance available, or dispose of it, by doing any one or more of the following—
+(a)  offering it as a prize or reward, whether for the purposes of entertainment or in furtherance of trade or business or otherwise,
+(b)  giving it away for the purposes of an advertisement or in furtherance of trade or business,
+(c)  exposing or depositing it in or on any premises for the purpose of its being so offered as a prize or reward or being so given away,
+(d)  leaving or placing it in a public place for removal, destruction or burial as rubbish.
+Maximum penalty—40 penalty units.
+(2)  A person does not commit an offence against this clause if the disposal takes place with the written consent of the Secretary.
+Part 7 Unsafe electrical articles and gas appliances
+33   Publicising prohibition of sale of unsafe electrical articles and gas appliances
+The newspapers prescribed for the purposes of section 28 (5) of the Act are—
+(a)  the Sydney Morning Herald, the Daily Telegraph or any other newspaper approved by the Secretary for the purposes of the notification concerned, or
+(b)  if the relevant electrical article, model of electrical article or type of gas appliance would typically be sold only within a particular section of the public—a newspaper or other publication circulating generally within that section of the public, or
+(c)  if the relevant electrical article, model of electrical article or type of gas appliance would typically be sold only within a particular region of the State—a newspaper or other publication circulating generally within that region of the State.
+Part 8 Electrical installations—standards and requirements for electrical installation work
+Note.
+The term electrical installation is defined in the Act to mean any fixed appliances, wires, fittings, meters, apparatus or other electrical equipment used for (or for purposes incidental to) the conveyance, measuring, control and use of electricity in a particular place, but is defined not to include any of the following—
+(a)  subject to any regulation made under section 4 (4) of the Act—any electrical equipment (other than a meter) used, or intended for use, in the generation, transmission or distribution of electricity that is—
+(i)  owned or used by an electricity supply authority, or
+(ii)  located in a place that is owned or occupied by such an authority,
+(b)  any electrical article connected to, and extending or situated beyond, any electrical outlet socket,
+(c)  any electrical equipment in or about a mine,
+(d)  any electrical equipment operating at not more than 50 volts alternating current or 120 volts ripple-free direct current,
+(e)  any other electrical equipment, or class of electrical equipment, prescribed by the regulations.
+Section 14 (Unqualified electrical wiring work) of the Home Building Act 1989 makes it an offence for a person to carry out electrical wiring work unless the person is authorised to do so under that Act.
+34   Standards and requirements for electrical installation work
+(1)  For the purposes of section 34 (a) of the Act, electrical installation work is required to be carried out in accordance with the standards and requirements specified in this clause.
+Note.
+Section 34 (a) of the Act makes it an offence for a person to carry out electrical installation work that is not in accordance with the standards or requirements (if any) prescribed by the regulations. This clause sets out those standards and requirements.
+(2)  The following electrical installations, or parts of electrical installations, may not be energised unless the relevant distributor first authorises it—
+(a)  any new electrical installation (other than a free-standing electrical installation) that has not previously been energised,
+(b)  any alteration of, or addition to, an electrical installation (other than a free-standing electrical installation) that will require a change to the network connection.
+(3)  Electrical installation work is required to be carried out in accordance with the Australian/New Zealand Wiring Rules.
+Note.
+Persons carrying out electrical installation work on electrical installations connected, or intended for connection, to a distribution system within the meaning of the Electricity Supply Act 1995 should also have regard to the Service and Installation Rules of New South Wales published on the energy.nsw.gov.au website from time to time.
+(4)  An electrical installation, or part of an electrical installation, must not be energised unless its safe operation and compliance with the Australian/New Zealand Wiring Rules have been established by a safety and compliance test.
+(5)  A free-standing electrical installation must not be energised unless the stand-alone power system to which it is to be connected complies with the requirements for such systems specified in the Australian and New Zealand Standard entitled AS/NZS 4509.1:2009, Stand-alone power systems, Part 1: Safety and installation, as in force from time to time, published by Standards Australia.
+(6)  In this clause—
+energise, in relation to an electrical installation, means the connection of the installation (or part of the installation) to the distribution system of a distributor or to a stand-alone power system.
+35   Exclusion from application of Parts 8 and 9
+This Part and Part 9 do not apply to or in respect of electrical installation work if it is carried out by a law enforcement officer (within the meaning of the Surveillance Devices Act 2007) that is authorised by a surveillance device warrant as referred to in section 21 (3) (g) of that Act.
+Part 9 Electrical installations—testing, inspection and compliance following electrical installation work
+36   Conduct of safety and compliance tests
+(1)  A safety and compliance test on electrical installation work on an electrical installation, or part of an electrical installation, must be carried out by a qualified person in accordance with the requirements of this clause after the completion of the work.
+(2)  A safety and compliance test on electrical installation work must verify whether the work complies with the requirements of the Australian/New Zealand Wiring Rules, including in relation to (but not limited to) the following—
+(a)  continuity of the earthing system,
+(b)  insulation resistance,
+(c)  polarity,
+(d)  circuit connections.
+(3)  A safety and compliance test on electrical installation work must—
+(a)  include an inspection of switchboards and any other electrical equipment that is required by the Australian/New Zealand Wiring Rules, and
+(b)  ensure that the electrical equipment used is designed to enable the electrical installation concerned to function for the use intended.
+(4)  If one or more residual current devices are installed or replaced as part of electrical installation work, each device must be tested in accordance with the Australian/New Zealand Wiring Rules to determine whether it complies with the requirements of those Rules for such devices.
+(5)  In this Part—
+qualified person means—
+(a)  a person authorised under the Home Building Act 1989 to do electrical wiring work without supervision, and
+(b)  in relation to the testing of a consumer’s aerial wiring system (within the meaning of the Australian/New Zealand Wiring Rules)—includes a person who is authorised to test a distributor’s overhead lines.
+37   Notification of results of safety and compliance tests
+(1) Notices relating to network connected electrical installations As soon as is reasonably practicable (but in any event no later than 7 days) after the completion of any safety and compliance test on electrical installation work, the results of the test are to be notified by the person who conducted the test (the tester), as follows—
+(a)  to the person for whom the work is carried out,
+(b)  in relation to an electrical installation that is connected, or is intended to be connected, to the distribution system of a distributor—to the distributor and to the Secretary, but only if the electrical installation work concerned involves—
+(i)  a new electrical installation, or
+(ii)  any alterations or additions to an existing electrical installation that will require additional work to be done by or on behalf of the distributor in relation to the network connection for the installation, or
+(iii)  work on a switchboard or associated electrical equipment (other than work to repair or replace equipment that does not alter the electrical loading, method of electrical protection, system of earthing or physical location of the switchboard or equipment being repaired or replaced),
+Note.
+Work on a switchboard or associated electrical equipment includes, for this purpose, the addition of new subcircuits or submains and any work that increases the rating of existing subcircuits or submains.
+(c)  in the case where the electrical installation work concerned involves the connection of the installation to a stand-alone power system—to the Secretary,
+(d)  in the case where the electrical installation is connected, or is intended to be connected, to a distribution system and the electrical installation includes the installation, alteration or replacement of an electricity meter—to the Secretary.
+Note.
+It is an offence to provide false or misleading information or documents in purported compliance with subclause (1). See sections 307B (False or misleading information) and 307C (False or misleading documents) of the Crimes Act 1900.
+(2) Notice must be given to owner or owner’s agent If the person for whom the electrical installation work is carried out is not the owner of the installation or the owner’s agent, that person must as soon as is reasonably practicable (but in any event no later than 7 days) after receiving the results of a test in accordance with subclause (1) notify the owner by giving a copy of the results to the owner of the installation or the owner’s agent.
+(3) Content of notice The notice must—
+(a)  be in the form approved by the Secretary, and
+(b)  describe the electrical installation work done and identify the electrical installation concerned, and
+(c)  specify—
+(i)  the name and authority number of each person who carried out, or supervised the carrying out of, the electrical installation work concerned, and
+(ii)  if applicable, the name and authority number of any person engaged by the owner of the installation or the occupier of the place in which the installation is located (whether or not for fee or reward) to provide, or arrange for the provision of, the electrical installation work concerned (the electrical installation work provider), and
+(d)  specify the name and authority number of the tester and the date on which the test was carried out, and
+(e)  be signed by the tester and the electrical installation work provider (if any).
+(4) Offence: failure to give notice If the results of the test are not notified in accordance with this clause, the person required by subclause (1) or (2) to give notice of the results of the test is guilty of an offence.
+Maximum penalty—40 penalty units (in the case of a corporation) and 20 penalty units (in the case of an individual).
+(5) Offences: failure to retain notices or produce copies The tester—
+(a)  must keep a copy of the notice for at least 5 years from when the notice was given, and
+(b)  if it relates to an electrical installation other than a free-standing electrical installation—must produce a copy of the notice to any of the following persons on written demand made by the person at any time during that 5-year period—
+(i)  the Secretary,
+(ii)  the relevant distributor,
+(iii)  an authorised officer, and
+(c)  if it relates to a free-standing electrical installation—must produce a copy of the notice to any of the following persons on written demand made by the person at any time during that 5-year period—
+(i)  the Secretary,
+(ii)  an authorised officer.
+Maximum penalty—40 penalty units (in the case of a corporation) and 20 penalty units (in the case of an individual).
+38   Unqualified persons not to carry out safety and compliance tests
+(1)  A person must not carry out a safety and compliance test on electrical installation work if the person is not a qualified person.
+Maximum penalty—200 penalty units.
+(2)  An electrical installation work provider must not cause or permit an employee, agent or contractor of the provider to carry out a safety and compliance test on the electrical installation work concerned unless the employee, agent or contractor is a qualified person.
+Maximum penalty—500 penalty units (in the case of a corporation) and 200 penalty units (in the case of an individual).
+Part 9AA Electrical meter installations
+38AA   Definitions
+In this Part—
+metering provider has the same meaning as it has in the National Electricity Rules.
+metering safety management system means a safety management system that—
+(a)  complies with the Act, section 38AB(1), and
+(b)  satisfies the requirements of the Code for Safe Meter Installation.
+National Electricity (NSW) Law means the provisions applying because of the National Electricity (New South Wales) Act 1997, section 6, and includes the National Electricity Rules.
+National Electricity Rules has the same meaning as it has in the National Electricity (NSW) Law.
+38AB   Exemptions for metering coordinators
+For the purposes of the Act, section 75(3), a metering coordinator is exempt from the Act, section 38AB(4), if—
+(a)  the metering coordinator engages a metering provider to install, maintain or replace an advanced meter, and
+(b)  the metering provider ensures the Asbestos Management Code of Practice is complied with for the installation, maintenance or replacement of the advanced meter.
+38AC   Metering safety management system—exemptions
+(1)  For the purposes of the Act, section 75(3), a metering coordinator is exempt from the Act, section 38AC(1), if—
+(a)  the metering coordinator engages a metering provider to provide, install, maintain or replace an advanced meter, and
+(b)  the metering coordinator ensures that the metering provider has a metering safety management system in place.
+(2)  For the purposes of the Act, section 75(3), a retailer is exempt from the Act, section 38AC(2) if—
+(a)  the metering coordinator engaged by the retailer engages a metering provider to install, maintain or replace an advanced meter, and
+(b)  the metering provider—
+(i)  has a metering safety management system in place, and
+(ii)  installs, maintains or replaces the advanced meter in a way that ensures the safety of persons and property, and
+(c)  the retailer ensures—
+(i)  the metering provider has a metering safety management system in place, and
+(ii)  the metering provider installs, maintains or replaces the advanced meter in a way that ensures the safety of persons and property.
+(3)  For the purposes of the Act, section 75(3), a metering coordinator is exempt from the Act, section 38AC(5) if—
+(a)  the metering coordinator engages a metering provider to provide, install, maintain or replace an advanced meter, and
+(b)  the metering provider—
+(i)  has provided documentation relating to the provider’s metering safety management system to the Secretary before providing, installing, maintaining or replacing the advanced meter, and
+(ii)  ensures the metering safety management system is brought to the attention of the persons engaged by the metering coordinator to install, replace or maintain an advanced meter, and
+(iii)  ensures a copy of the documents relating to the system are made readily available to those persons.
+Part 9A Remote de-energisation and remote re-energisation of premises of small customers by metering providers and retailers
+38A   Definitions
+In this Part—
+in force, in relation to a plan, means the Secretary has confirmed receipt of the plan under clause 38E and the plan has not expired or otherwise ceased to be in force under this Part.
+metering provider means—
+(a)  a metering provider within the meaning of the National Electricity Rules, and
+(b)  for an embedded network within the meaning of those Rules—the metering co-ordinator for the embedded network within the meaning of those rules.
+National Electricity Rules has the same meaning as it has in the National Electricity (NSW) Law.
+National Energy Retail Rules has the same meaning as it has in the National Energy Retail Law (NSW).
+plan, for the remote de-energisation and remote re-energisation of premises, means—
+(a)  in relation to a metering provider—a safety management and technical procedures plan, and
+(b)  in relation to a retailer—a safety management and customer procedures plan.
+premises means the premises of a small customer.
+qualified person means a person authorised under the Home Building Act 1989 to do electrical wiring work without supervision.
+remote de-energisation means the de-energisation of premises from a place other than the premises concerned using an electricity meter.
+remote re-energisation means the re-energisation of premises from a place other than the premises concerned using an electricity meter.
+retailer has the same meaning as in the National Energy Retail Law (NSW).
+safety management and customer procedures guidelines means the Safety management and customer procedures guidelines for remote de-energisation and remote re-energisation of small customer premises, published by the Department of Customer Service on a Government website, as in force from time to time.
+safety management and customer procedures plan, for a retailer, means the safety management and customer procedures plan prepared by the retailer and submitted to the Secretary under this Part.
+safety management and technical procedures guidelines means the Safety management and technical procedures guidelines for remote de-energisation and remote re-energisation of small customer premises, published by the Department of Customer Service on a Government website, as in force from time to time.
+safety management and technical procedures plan, for a metering provider, means the safety management and technical procedures plan prepared by the metering provider and submitted to the Secretary under this Part.
+38B   Metering provider must not remotely de-energise or remotely re-energise premises without safety management and technical procedures plan
+(1)  For the purposes of section 34(a) of the Act, electrical installation work that is remote de-energisation or remote re-energisation of premises is required to be carried out in accordance with the requirements specified in this clause.
+(2)  A metering provider must not carry out the remote de-energisation or remote re-energisation of premises unless the metering provider—
+(a)  has a safety management and technical procedures plan in force, and
+(b)  carries out the remote de-energisation or remote re-energisation in accordance with the plan, and
+(c)  has received a request under this Part from a retailer for the remote de-energisation or remote re-energisation of the premises.
+38C   Retailer must not remotely de-energise or remotely re-energise premises without safety management and customer procedures plan
+A retailer must not arrange the remote de-energisation or remote re-energisation of premises under this Part with a metering provider unless the retailer—
+(a)  has a safety management and customer procedures plan in force, and
+(b)  arranges for the remote de-energisation or remote re-energisation in accordance with the plan.
+Maximum penalty—500 penalty units for a corporation or 250 penalty units for an individual.
+Note.
+The National Energy Retail Rules set out grounds on which a retailer may request the de-energisation of premises.
+38D   Customer may request retailer arrange de-energisation or re-energisation of premises
+(1)  This clause applies if—
+(a)  a small customer has requested that a retailer arrange the de-energisation or re-energisation of the small customer’s premises, and
+(b)  the retailer intends to arrange the remote de-energisation or remote re-energisation of the premises.
+(2)  As soon as practicable after receiving the small customer’s request for re-energisation, the retailer is to require the customer to provide the following—
+(a)  if the premises have been de-energised for 6 months or more—a remote re-energisation safety statement, in the form approved by the Secretary, completed by a qualified person,
+(b)  if the premises have been de-energised for less than 6 months and wiring work has been done at the premises since the de-energisation— a copy of the notice given to the owner or the owner’s agent under clause 37,
+(c)  if premises have been de-energised for less than 6 months and no wiring work has been done at the premises since the de-energisation—a statement that no wiring work has been done since the de-energisation of the premises.
+(3)  If a statement or notice is required under subclause (2), the request for the remote re-energisation is taken not to have been made until the statement or notice has been provided by the customer.
+38E   Retailer and metering provider to have plan for remote de-energisation and remote re-energisation
+(1)  A retailer or metering provider may prepare and submit to the Secretary a proposed plan for the safe remote de-energisation and remote re-energisation of premises.
+(2)  In particular, a proposed plan must make provision for the following—
+(a)  in relation to the plan for a retailer—
+(i)  the safety and customer procedures to be followed by the retailer before arranging the remote de-energisation or remote re-energisation of premises, and
+(ii)  details of the safety and risk assessment conducted by the retailer in relation to customer safety prior to arranging for the remote de-energisation or remote re-energisation of premises, and
+(iii)  details of the mitigation strategy prepared by the retailer for the risks identified by the safety and risk assessment referred to in subparagraph (ii), and
+(iv)  the anticipated time that it would take for the retailer to arrange for a metering provider to carry out the remote de-energisation or remote re-energisation of premises, and
+(v)  the steps to be undertaken by the retailer to ensure that the remote de-energisation or remote re-energisation of premises can be safely carried out, and
+(vi)  the information to be provided to a small customer about the process for remote de-energisation or remote re-energisation of the customer’s premises, and
+(vii)  the script to be followed when communicating with a small customer in relation to the remote de-energisation or remote re-energisation of the customer’s premises, including actions to be taken by the retailer as a result of the customer’s responses, and
+(viii)  the information to be provided to small customers about complaint processes and dispute resolution as required under the National Electricity Rules and the National Energy Retail Rules, and
+(ix)  the matters required by the safety management and customer procedures guidelines, if any,
+(b)  in relation to the plan for a metering provider—
+(i)  the safety and technical procedures to be followed by the metering provider for the remote de-energisation or remote re-energisation of premises, and
+(ii)  details of the safety and risk assessment conducted by the metering provider with regard to the meter technology used to perform the remote de-energisation or remote re-energisation of premises, and
+(iii)  details of the mitigation strategy prepared by the metering provider for the risks identified by the safety and risk assessment referred to in subparagraph (ii), and
+(iv)  the anticipated time that it would take for the metering provider to carry out the remote de-energisation or remote re-energisation of premises in response to a request from a retailer, and
+(v)  the steps to be undertaken by the metering provider to ensure the safe remote de-energisation or remote re-energisation of premises, and
+(vi)  the matters required by the safety management and technical procedures guidelines, if any.
+(3)  The Secretary is, as soon as practicable after receiving a proposed plan submitted by a retailer or metering provider, to give the retailer or metering provider a written notice confirming receipt of the proposed plan.
+(4)  Despite subclause (3), the Secretary must refuse to receive a proposed plan if the proposed plan does not make provision for each of the matters required by subclause (2).
+(5)  If the Secretary refuses to receive a proposed plan under subclause (4), the Secretary must give written notice to the retailer or metering provider concerned—
+(a)  stating that the proposed plan has not been received, and
+(b)  identifying the matter required by subclause (2) that was not included in the plan.
+(6)  The Secretary is taken to have refused to receive a proposed plan if the Secretary has not given notice under subclause (3) within 2 months after the submission of the plan.
+38F   Duration of plans for remote de-energisation and remote re-energisation of premises
+(1)  A plan for the remote de-energisation and remote re-energisation of premises takes effect on the day on which the retailer or metering provider is given notice under clause 38E(3) in relation to the plan.
+(2)  A plan expires 2 years after the day on which it takes effect, unless terminated earlier under this Part.
+38G   Termination of plan for offences against Part
+(1)  A retailer or metering provider’s plan is terminated immediately after the retailer or metering provider concerned—
+(a)  pays an amount under a penalty notice issued for a relevant offence, or
+(b)  is convicted of a relevant offence.
+(2)  In this clause—
+relevant offence means an offence against—
+(a)  for a retailer—clause 38C, or
+(b)  for a metering provider—section 34(a) of the Act in relation to a requirement set out in clause 38B.
+38H   Secretary may require submission of revised plan
+(1)  The Secretary may, by written notice to a retailer or metering provider, require the retailer or metering provider to submit a revised plan if—
+(a)  in relation to a retailer—the safety management and customer procedures guidelines are amended or replaced while the retailer’s plan is in force, or
+(b)  in relation to a metering provider—the safety management and technical procedures guidelines are amended or replaced while the metering provider’s plan is in force.
+(2)  A retailer or metering provider’s plan is terminated if the retailer or metering provider does not submit a revised plan within 10 business days after notice of the requirement to provide a revised plan is given or within a longer period specified by the Secretary in the notice.
+(3)  Clause 38E(3)–(6) applies to a revised plan submitted under subclause (1) as if it were a proposed plan.
+(4)  However, if the Secretary confirms receipt of the revised plan, the revised plan—
+(a)  replaces the plan of the retailer or metering provider that was in force immediately before the revised plan was submitted, and
+(b)  remains in force until the plan it replaced would have expired.
+38I   Secretary may audit plan for remote de-energisation and remote re-energisation
+(1)  The Secretary may, while a plan for the remote de-energisation or remote re-energisation of premises is in force, conduct an audit of the plan to determine whether the plan makes appropriate provision for the following—
+(a)  the safe remote de-energisation and remote re-energisation of premises,
+(b)  each matter required to be included in the plan under clause 38E(2).
+(2)  If the Secretary determines that a plan does not make satisfactory provision for the safe remote de-energisation and remote re-energisation of premises or for one or more of the matters required to be included in a plan under clause 38E(2), the Secretary may, by written notice given to the retailer or metering provider concerned—
+(a)  require the retailer or metering provider to submit a revised plan, and
+(b)  specify the issues identified by the Secretary.
+(3)  A retailer or metering provider’s plan is terminated if the retailer or metering provider does not submit a revised plan within 10 business days after the notice is given or within a longer period specified by the Secretary in the notice.
+(4)  As soon as practicable after receiving a revised plan, the Secretary must, by written notice to the retailer or metering provider concerned—
+(a)  accept the revised plan, or
+(b)  if the Secretary determines that the revised plan has not resolved the issues previously identified by the Secretary—reject the revised plan.
+(5)  If the Secretary accepts a revised plan submitted by a retailer or metering provider under this clause—
+(a)  the revised plan replaces the plan of the retailer or metering provider that was in force immediately before it was submitted, and
+(b)  the revised plan remains in force until the plan it replaced would have expired.
+(6)  If the Secretary rejects a revised plan, the following apply—
+(a)  the retailer or metering provider concerned may submit one or more subsequent revised plans,
+(b)  subclauses (4) and (5) apply to a subsequent revised plan in the same way as they apply to the first revised plan,
+(c)  the retailer or metering provider’s plan, as in force on the date the first revised plan was rejected under subclause (4)(b), expires 10 business days after that rejection unless a subsequent revised plan is accepted by the Secretary.
+Part 10 Gas and autogas installations—standards for gasfitting work and autogas work
+39   Gasfitting work to comply with certain standards
+(1)  For the purposes of section 34(b) of the Act, each of the following standards is prescribed for the type of gasfitting work to which the standard applies—
+(a)  the Australian and New Zealand Standard entitled AS/NZS 5601.1:2013, Gas installations, Part 1: General installations,
+(b)  AS/NZS 5601.2,
+(c)  the Australian and New Zealand Standard entitled AS/NZS 1596:2014, The storage and handling of LP Gas,
+(d)  the Australian Standard entitled AS 4041—2006, Pressure piping.
+(2)  For the purposes of this clause, if a standard mentioned in subclause (1)(a)–(c) is amended, or a new version of the standard is published, gasfitting work is taken to comply with the standard, as prescribed for that type of work by subclause (1), if it complies with the standard—
+(a)  as in force when the work is carried out, or
+(b)  as in force immediately before the amendment or publication, if the work is carried out during the 6-month period commencing on the date of the amendment or publication.
+40   Autogas work to comply with certain standards
+For the purposes of section 34 (c) of the Act, the following standards are prescribed for autogas work carried out on an autogas installation—
+(a)  AS/NZS 1425—for work on an autogas (LP Gas) installation, or
+(b)  AS/NZS 2739—for work on an autogas (CN Gas) installation.
+Part 11 Gas and autogas installations—testing, inspection and compliance following gasfitting or autogas work
+Division 1 Gas installations (supplied from a gas network)
+41   Application of Division
+(1)  This Division applies only in relation to gasfitting work carried out—
+(a)  on a gas installation to which gas is supplied from a gas network, or
+(b)  for the purpose of connecting a gas appliance to such a gas installation.
+(2)  This Division does not apply to the connection of a gas installation to, or the disconnection of a gas installation from, a gas supply point.
+42   Testing for defects and certificates of compliance
+(1)  Immediately after completing gasfitting work on a gas installation, the responsible contractor for the carrying out of the gasfitting work—
+(a)  must test the installation for defects, and
+(b)  must inspect all gas appliances connected to the installation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  Within 5 business days after testing a gas installation following the completion of gasfitting work, the responsible contractor for the carrying out of the gasfitting work must issue a certificate of compliance that complies with this clause, with respect to that work—
+(a)  to the owner of the installation or a person having the control or management of the installation, and
+(b)  to the Secretary.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(3)  A certificate of compliance—
+(a)  must be in the form approved by the Secretary, and
+(b)  must indicate the nature of the gasfitting work that has been carried out, and
+(c)  must state that the gasfitting work has been carried out in accordance with a relevant Standard referred to in clause 39, and
+(d)  must indicate whether or not the gas installation is in safe working order.
+(4)  The responsible contractor for the carrying out of the gasfitting work must, within 5 business days after completing the gasfitting work, send a copy of the certificate of compliance to the relevant network operator (within the meaning of the Gas Supply Act 1996).
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(5)  A person who issues a certificate of compliance must keep a copy of the certificate for 5 years from the date on which it was issued.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+Division 2 Gas installations (not supplied from a gas network)
+43   Division does not apply to certain gasfitting work
+This Division does not apply in relation to—
+(a)  a gas installation to which gas is supplied from a gas network, or
+(b)  gasfitting work carried out—
+(i)  on a gas installation to which gas is supplied from a gas network, or
+(ii)  for the purpose of connecting a gas appliance to such a gas installation.
+44   Testing for apparent defects
+Immediately after the completion of gasfitting work on a gas installation, the responsible contractor for the carrying out of the work—
+(a)  in the case of work comprising the installation of a new gas installation—
+(i)  must inspect all gas containers, gas regulators and gas appliances connected to the installation, and
+(ii)  must test the whole installation for apparent defects, or
+(b)  in the case of work comprising the alteration, extension or repair of an existing gas installation—
+(i)  must inspect such part of the installation as has been altered, extended or repaired, and
+(ii)  must inspect all gas containers, gas regulators and gas appliances connected to such part of the installation as has been altered, extended or repaired, and
+(iii)  must test the whole installation for apparent defects.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+45   Certificates of inspection
+(1)  Within 5 business days after testing a gas installation following the completion of gasfitting work, the responsible contractor for the carrying out of the work must issue a certificate of inspection for the installation—
+(a)  to the owner of the installation or a person having the control or management of the installation, and
+(b)  to the Secretary.
+(2)  In the case of a gas installation that is installed in any premises (or in any machine that forms part of any premises), the responsible contractor for carrying out the work must also send a copy of the certificate within the 5-business day period referred to in subclause (1) to any other person who appears to be the usual supplier of gas for use in connection with the installation if the certificate indicates that the installation is apparently defective.
+(3)  A certificate of inspection—
+(a)  must be serially numbered and in the form approved by the Secretary, and
+(b)  if it indicates that the installation to which it relates is apparently defective, must specify what work needs to be done to rectify the apparent defect.
+(4)  A person must not issue a certificate of inspection with respect to a gas installation that is apparently defective unless the nature of the apparent defect is indicated on the certificate.
+(5)  A person who issues a certificate of inspection under this clause must keep a copy of the certificate for 5 years from the date on which it is issued.
+(6)  A certificate of inspection issued in respect of a gas installation ceases to have effect if a further certificate of inspection is issued in respect of the same installation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+46   Compliance plates
+(1)  The responsible contractor for the carrying out of gasfitting work on a gas installation—
+(a)  must detach any compliance plate from the installation before the work is carried out, and
+(b)  must attach a compliance plate to the installation after the work is carried out, unless the certificate of inspection issued as a result of the work being carried out indicates that the installation is apparently defective.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  A compliance plate attached to an installation in accordance with this clause must comply with the requirements set out in clause 55 or 55A (as appropriate).
+47   Defect notices
+(1)  The responsible contractor for the carrying out of gasfitting work on a gas installation—
+(a)  if satisfied that the gas installation, or any gas container, gas regulator or gas appliance connected to the installation, is apparently defective, must attach a defect notice to the installation, container, regulator or appliance, and
+(b)  if the apparent defect cannot be isolated from the installation, must remove any compliance plate from the installation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  A defect notice—
+(a)  must have the word “DEFECT” clearly printed on it in upper case letters in type at least 20 millimetres high, and
+(b)  must be made of durable and weather-resistant material, and
+(c)  must be securely attached to the gas installation, gas container, gas regulator or gas appliance in a conspicuous position, and
+(d)  must be in the form approved by the Secretary.
+Division 3 Autogas installations
+48   Testing for apparent defects
+Immediately after the completion of autogas work on an autogas installation, the responsible contractor for the carrying out of the work—
+(a)  must inspect all gas cylinders and gas regulators connected to the installation, and
+(b)  must test the whole installation for apparent defects.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+49   Certificates of inspection
+(1)  Within 5 business days after testing an autogas installation following the completion of autogas work, the responsible contractor for the carrying out of the work must issue a certificate of inspection for the installation—
+(a)  to the owner of the installation or a person having the control or management of the installation, and
+(b)  to the Secretary.
+(2)  A certificate of inspection—
+(a)  must be serially numbered and in the form approved by the Secretary, and
+(b)  if it indicates that the installation to which it relates is apparently defective, must specify what work needs to be done to rectify the apparent defect.
+(3)  A person must not issue a certificate of inspection with respect to an autogas installation that is apparently defective unless the nature of the apparent defect is indicated on the certificate.
+(4)  A person who issues a certificate of inspection under this clause must keep a copy of the certificate for 5 years from the date on which it is issued.
+(5)  A certificate of inspection issued in respect of an autogas installation ceases to have effect if a further certificate of inspection is issued in respect of the same installation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+50   Compliance plate
+(1)  The responsible contractor for the carrying out of autogas work on an autogas installation must attach a compliance plate to the installation after it has been tested unless the certificate of inspection issued as a result of the test indicates that the installation is apparently defective.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  A compliance plate attached to an installation in accordance with this clause must comply with the requirements set out in clause 55.
+51   Identification labels
+(1)  The responsible contractor for fitting an autogas installation to any vehicle, vessel or machine must ensure that an identification label is attached to the outside of the vehicle, vessel or machine in a conspicuous position.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  In the case of a vehicle that is registered within the meaning of the Road Transport Act 2013, the identification label must be attached to both the front and back number plates of the vehicle.
+(3)  An identification label must comply with—
+(a)  AS/NZS 1425, in the case of work on an autogas (LP Gas) installation, or
+(b)  AS/NZS 2739, in the case of work on an autogas (CN Gas) installation.
+Division 4 Other provisions relating to compliance plates and defect notices
+52   Unauthorised removal of defect notices
+A person must not remove a defect notice from a gas installation, gas container, gas regulator or gas appliance until the relevant apparent defect has been rectified or is found not to exist.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+53   Unauthorised attachment of compliance plates
+A person must not attach to a gas installation or an autogas installation any compliance plate, or any device that resembles a compliance plate, otherwise than as authorised by this Regulation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+54   Removal of compliance plates by investigators
+An investigator may remove a compliance plate from a gas installation or autogas installation if the investigator is satisfied that the installation (or any gas container, gas regulator, gas cylinder or gas appliance connected to it) is not in safe working order.
+55   Requirements for compliance plates—general
+(1)  A compliance plate—
+(a)  must be in the form approved by the Secretary, and
+(b)  must be constructed of material approved by the Secretary that is at least 0.5 millimetres thick, and
+(c)  must have a display area of at least 70 millimetres by 45 millimetres, and
+(d)  must be attached to the installation in a conspicuous position adjacent to the control valve or other point by which the installation is designed to be connected to a gas cylinder or other gas container.
+(2)  A compliance plate must be permanently and legibly inscribed, in figures at least 6 millimetres high, with the following information—
+(a)  the serial number of the certificate of inspection for the installation,
+(b)  the date on which the testing of the installation was carried out,
+(c)  in the case of a compliance plate to be attached to a gas installation—
+(i)  the serial number of the supervisor certificate held by the person by whom the installation was tested, and
+(ii)  the serial number of the contractor’s licence held by that person or by the contractor by whom that person is employed, and
+(iii)  an indication of the number and types of gas appliances connected to the installation,
+(d)  in the case of a compliance plate to be attached to an autogas installation—
+(i)  the serial number of the trade certificate or supervisor certificate held by the person by whom the installation was tested, and
+(ii)  the serial number of the repairer’s licence held by the repairer, if any, by whom that person is employed, and
+(iii)  the engine number and vehicle identification number, if any, of the vehicle, vessel or machine to which the installation is fitted.
+(3)  In subclause (2)—
+contractor’s licence, in relation to a particular kind of gasfitting work, means a licence in force under the Home Building Act 1989 authorising the holder to contract to carry out that kind of work.
+repairer means a motor vehicle repairer within the meaning of the Motor Dealers and Repairers Act 2013.
+repairer’s licence means a motor vehicle repairer’s licence granted under the Motor Dealers and Repairers Act 2013.
+(4)  For the purposes of subclause (2) (c) (iii), the type of gas appliance specified in Column 1 of the Table to this subclause is to be indicated by the numeral specified opposite that appliance in Column 2 of that Table.
+Table
+Column 1
+Column 2
+Type of appliance
+Numeral
+Stationary engine power generator or air conditioner
+0
+Cooktop or wok cooker
+1
+Refrigerator or absorption chiller
+2
+Instantaneous water, pool or spa heater
+3
+Tank hot water heater
+4
+Hot plate, grill or BBQ
+5
+Oven for baking, curing or drying
+6
+Decorative flare or gas light
+7
+Room heater or space heater
+8
+Other appliance
+9
+(5)  In the case of a vehicle manufactured before 1 January 1989, the reference in subclause (2) (d) (iii) to the vehicle’s vehicle identification number is a reference to the vehicle’s chassis number.
+(6)  This clause does not apply to a gas installation to which AS/NZS 5601.2 applies.
+55A   Requirements for compliance plates—certain gas installations in caravans and boats
+(1)  This clause applies to a gas installation to which AS/NZS 5601.2 applies.
+(2)  A compliance plate attached to a gas installation to which AS/NZS 5601.2 applies must comply with the requirements set out in section 10.1 of that Standard.
+(3)  For the purposes of this clause, if AS/NZS 5601.2 is amended, or a new version of the standard is published, a compliance plate is taken to comply with the relevant section of the standard, as prescribed by subclause (2), if it complies with the section—
+(a)  as in force when the compliance plate is attached, or
+(b)  as in force immediately before the amendment or publication, if the compliance plate is attached during the 6-month period commencing on the date of the amendment or publication.
+Part 12 Gas and autogas installations—related offences
+Division 1 Offences relating to gas installations (not supplied from a gas network)
+56   Division does not apply to certain gasfitting work
+This Division does not apply in relation to—
+(a)  a gas installation to which gas is supplied from a gas network, or
+(b)  gasfitting work carried out—
+(i)  on a gas installation to which gas is supplied from a gas network, or
+(ii)  for the purpose of connecting a gas appliance to such a gas installation.
+57   Sale of gas installations
+A person must not sell any gas installation unless a compliance plate is attached to the installation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+58   Use of gas installations
+(1)  A person must not use a gas installation unless a compliance plate is attached to the installation.
+(2)  A person must not use any of the following to which a defect notice is attached—
+(a)  a gas installation,
+(b)  a gas container, gas regulator or gas appliance.
+(3)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of gasfitting work, or
+(b)  anything that is done in the course of the testing of a gas installation by a person by whom gasfitting work is being carried out or by the holder of an appropriate supervisor certificate, or
+(c)  the use of a gas installation that is installed in a vehicle, vessel or machine registered or licensed under the laws of any State, Territory or country outside New South Wales.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+59   Supply of gas for use in gas installations
+(1)  A person must not supply gas to a gas container that is connected to a gas installation unless a compliance plate is attached to the installation.
+(2)  A person must not supply gas to a gas container that is connected to a gas installation if a defect notice is attached to the installation.
+(3)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of gasfitting work, or
+(b)  anything that is done in the course of the testing of a gas installation by a person by whom gasfitting work is being carried out or by the holder of an appropriate supervisor certificate, or
+(c)  the supply of gas to a gas container that is connected to a gas installation that is installed in a vehicle, vessel or machine registered or licensed under the laws of any State, Territory or country outside New South Wales.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+60   Connection of gas containers to gas installations
+(1)  A person must not connect a gas container to a gas installation unless—
+(a)  a compliance plate is attached to the installation, and
+(b)  the gas container is suitable and safe for use with the gas with which it is designed to be used, and
+(c)  if the gas container is a gas cylinder, pressure vessel or gas tank of a type for which a design is registered by SafeWork NSW or a corresponding regulator under a relevant law, it is of the registered design.
+(2)  A person must not connect a gas container to a gas installation if a defect notice is attached to the container or installation.
+(3)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of gasfitting work, or
+(b)  anything that is done in the course of the testing of a gas installation by a person by whom gasfitting work is being carried out or by the holder of an appropriate supervisor certificate, or
+(c)  the connection of a gas container to a gas installation that is installed in a vehicle, vessel or machine registered or licensed under the laws of any State, Territory or country outside New South Wales.
+(4)  In this clause—
+relevant law means the following—
+(a)  in relation to SafeWork NSW, the Work Health and Safety Act 2011,
+(b)  in relation to a corresponding regulator, a corresponding WHS law (within the meaning of that Act).
+Maximum penalty (subclauses (1) and (2)): 100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+61   Connection of gas regulators to gas installations
+(1)  A person must not connect a gas regulator to a gas installation unless the gas regulator—
+(a)  is suitable and safe for use with the gas with which it is designed to be used, and
+(b)  is, or is of a type that is, approved by the Secretary.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of gasfitting work, or
+(b)  anything that is done in the course of the testing of a gas installation by a person by whom gasfitting work is being carried out or by the holder of an appropriate supervisor certificate.
+62   Connection of gas appliances to gas installations
+(1)  A person must not connect a gas appliance to a gas installation unless the appliance—
+(a)  is a certified gas appliance and has a compliance label, and
+(b)  is suitable and safe for use with the gas with which it is designed to be used.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of gasfitting work, or
+(b)  anything that is done in the course of the testing of a gas installation by a person by whom gasfitting work is being carried out or by the holder of an appropriate supervisor certificate.
+Division 2 Offences relating to autogas installations
+63   Sale of gas cylinders
+A person must not sell any gas cylinder for use in connection with an autogas installation unless the cylinder—
+(a)  is suitable and safe for use with the gas with which it is designed to be used, and
+(b)  if of a type for which a design is registered by SafeWork NSW or a corresponding regulator under a relevant law (within the meaning of clause 60)—is of the registered design.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+64   Use of autogas installations
+(1)  A person must not use a vehicle, vessel or machine to which an autogas installation is fitted unless—
+(a)  a compliance plate is attached to the installation, and
+(b)  an identification label is attached to the vehicle, vessel or machine.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of autogas work, or
+(b)  anything that is done in the course of the testing of an autogas installation by a person by whom autogas work is being carried out or by the holder of an appropriate trade certificate, or
+(c)  the use of a vehicle, vessel or machine registered or licensed under the laws of any State, Territory or country outside New South Wales.
+65   Supply of gas for use in autogas installations
+(1)  A person must not supply gas to a gas cylinder that is connected to an autogas installation unless a compliance plate is attached to the installation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of autogas work, or
+(b)  anything that is done in the course of the testing of an autogas installation by a person by whom autogas work is being carried out or by the holder of an appropriate trade certificate, or
+(c)  the supply of gas to a gas cylinder that is connected to an autogas installation that forms part of a vehicle, vessel or machine registered or licensed under the laws of any State, Territory or country outside New South Wales.
+66   Connection of gas cylinders to autogas installations
+(1)  A person must not connect a gas cylinder to an autogas installation unless a compliance plate is attached to the installation.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  This clause does not apply to—
+(a)  anything that is done in the course of the carrying out of autogas work, or
+(b)  anything that is done in the course of the testing of an autogas installation by a person by whom autogas work is being carried out or by the holder of an appropriate trade certificate, or
+(c)  the connection of a gas cylinder to an autogas installation that forms part of a vehicle, vessel or machine registered or licensed under the laws of any State, Territory or country outside New South Wales.
+Division 3 Offences relating to gas regulators
+67   Sale of gas regulators
+(1)  A person must not sell any gas regulator unless the gas regulator—
+(a)  is suitable and safe for use with the gas with which it is designed to be used, and
+(b)  is, or is of a type that is, approved by the Secretary.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+(2)  This clause does not apply to a gas regulator intended to be fitted to a gas installation to which gas is supplied from a gas network.
+68   Connection of gas regulators to gas container
+A person must not connect any gas regulator to a gas container unless the gas regulator—
+(a)  is suitable and safe for use with the gas with which it is designed to be used, and
+(b)  is, or is of a type that is, approved by the Secretary.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in the case of an individual).
+Part 13 Maintenance of electrical and gas installations
+69   Maintenance of electrical and gas installations
+(1)  For the purposes of section 35 (1) of the Act, all parts of an electrical installation or a gas installation are prescribed.
+(2)  For the purposes of section 35 (1) of the Act, all parts of an electrical installation, or a gas installation while it is connected to the supply of gas, must be maintained so as to ensure that—
+(a)  the safe and satisfactory operation of the installation is not impaired by interference, damage, ageing or wear, and
+(b)  the installation is not used in a manner that exceeds the operating limits imposed by its design or installation, and
+(c)  the installation does not become a significant potential cause of fire for the environment surrounding the installation, and
+(d)  in the case of an electrical installation—
+(i)  the live parts of the installation remain properly insulated, or protected, against inadvertent contact with any person, and
+(ii)  the earthing system for the installation operates effectively, and
+(e)  in the case of a gas installation—combustible materials are not stored in the vicinity of the gas outlet for a gas installation.
+Part 13A Medical gas
+69AA   Meaning of “work provider”
+(1)  In this Part, work provider means a person engaged by the owner or occupier of a medical facility, whether or not for fee or reward, to provide, or arrange for the provision of medical gasfitting work, medical gas technician work or mechanical services and medical gas work, and includes the following, as applicable—
+(a)  for work carried out by a subcontractor—the head contractor,
+(b)  for work carried out by an employee—the employer.
+(2)  However, a person who carries out medical gasfitting work, medical gas technician work or mechanical services and medical gas work is not a work provider for the purposes of this Part.
+69A   Work to comply with certain Australian Standards
+For the purposes of sections 38A(1)(a) and 38B(1)(a) of the Act, the following Australian Standards are prescribed—
+(a)  AS 2896:2021, Medical gas systems—Installation and testing of non-flammable medical gas pipeline systems,
+(b)  AS/NZS 4774.2:2019, Work in compressed air and hyperbaric facilities—Hyperbaric oxygen facilities.
+Note.
+Section 38A(1)(a) of the Act makes it an offence for a person to carry out medical gasfitting work, medical gas technician work or mechanical services and medical gas work that is not in accordance with Australian standards prescribed by the regulations. This clause sets out those standards.
+Section 38A(1)(c) of the Act also makes it an offence for a person to carry out medical gasfitting work, medical gas technician work or mechanical services and medical gas work that is not in accordance with the standards or requirements, if any, specified by the Health Secretary by order in writing and published on the website of the Ministry of Health.
+Section 38B(1)(a) of the Act makes it an offence for an occupier or owner of a place to not maintain a medical gas installation at the place, to the best of the person’s ability and knowledge, in accordance with Australian standards prescribed by the regulations.
+69B   Conduct of safety and compliance tests
+(1)  This clause applies to medical gasfitting work and mechanical services and medical gas work on a medical gas installation or part of a medical gas installation.
+(2)  A responsible person must conduct a safety and compliance test on work to which this clause applies, immediately after the completion of the work, in accordance with the requirements of the following Australian Standards—
+(a)  AS 2896:2021, Medical gas systems—Installation and testing of non-flammable medical gas pipeline systems,
+(b)  AS/NZS 4774.2:2019, Work in compressed air and hyperbaric facilities—Hyperbaric oxygen facilities.
+(3)  A person who fails to comply with a requirement under subclause (2) is guilty of an offence.
+Maximum penalty—25 penalty units.
+(4)  In this clause—
+responsible person means—
+(a)  the qualified person who carried out the work, or
+(b)  if a qualified person did not carry out the work—the qualified person under whose supervision the work was carried out.
+69C   Notification of results of safety and compliance tests
+(1) Notices relating to medical gas installations As soon as is reasonably practicable, but no later than 7 days, after the completion of a safety and compliance test, the results of the test are to be notified by the person who conducted the test (the tester), as follows—
+(a)  to the person for whom the work is carried out,
+(b)  to the Secretary.
+Note.
+It is an offence to provide false or misleading information or documents in purported compliance with subclause (1). See sections 307B (False or misleading information) and 307C (False or misleading documents) of the Crimes Act 1900.
+(2) Notice must be given to owner or owner’s agent If the person for whom the work is carried out is not the owner of the medical gas installation or the owner’s agent, that person must as soon as is reasonably practicable, but no later than 7 days, after receiving the results of a test in accordance with subclause (1) notify the owner by giving a copy of the results to the owner of the medical gas installation or the owner’s agent.
+(3) Content of notice The notice must—
+(a)  be in the form approved by the Secretary, and
+(b)  describe the work done and identify the medical gas installation concerned, and
+(c)  specify—
+(i)  the name and authority number of each person who carried out, or supervised the carrying out of, the work concerned, and
+(ii)  if applicable, the name and authority number of the work provider, and
+(d)  specify the name and authority number of the tester and the date on which the test was carried out, and
+(e)  be signed by the tester and the work provider (if any).
+(4) Offence—failure to give notice If the results of the test are not notified in accordance with this clause, the person required by subclause (1) or (2) to give notice of the results of the test is guilty of an offence.
+Maximum penalty—100 penalty units for a corporation and 25 penalty units for an individual.
+(5) Offences—failure to retain notices or produce copies The tester and, if applicable, the work provider—
+(a)  must keep a copy of the notice for at least 5 years from when the notice was given, and
+(b)  must produce, as soon as is reasonably practicable but no later than 48 hours after receiving the written demand, a copy of the notice to any of the following persons on written demand made by the person at any time during that 5-year period—
+(i)  the Secretary,
+(ii)  an authorised officer.
+Maximum penalty—100 penalty units for a corporation and 25 penalty units for an individual.
+69D   Unqualified persons not to carry out safety and compliance tests
+(1)  A person must not carry out a safety and compliance test on medical gasfitting work, medical gas technician work or mechanical services and medical gas work on a medical gas installation, or part of a medical gas installation, if the person is not a qualified person.
+Maximum penalty—200 penalty units.
+(2)  A work provider, within the meaning of clause 69C(3)(c)(ii), must not cause or permit an employee, agent or contractor of the provider to carry out a safety and compliance test on the work concerned unless the employee, agent or contractor is a qualified person.
+Maximum penalty—500 penalty units (for a corporation) and 200 penalty units (for an individual).
+69E   Same person not to carry out medical gasfitting and medical gas technician work
+A person must not carry out medical gas technician work in relation to a medical gas installation, or part of a medical gas installation, if the person has carried out medical gasfitting work on the medical gas installation or the part of the medical gas installation.
+Maximum penalty—200 penalty units.
+69F   Temporary provision for conducting of tests by unqualified persons
+(1)  Despite clauses 69B(3) and 69D, a person who is not a qualified person (an unqualified person) may, until the end of 1 May 2022, conduct a safety and compliance test required by clause 69B(2) on work carried out by the unqualified person.
+(2)  Clause 69C does not apply to the test.
+(3)  However, the unqualified person must make a record of the results of the test as soon as is reasonably practicable, but no later than 7 days, after completing the test.
+(4)  The record is to be signed by the unqualified person and, if applicable, the work provider.
+(5)  The unqualified person and, if applicable, the work provider must—
+(a)  keep a copy of the results of the test for at least 5 years after the notification was given, and
+(b)  produce, as soon as is reasonably practicable but no later than 48 hours after receiving the written demand, a copy of the results to an authorised officer on written demand made by the officer at any time during the 5-year period.
+Maximum penalty—100 penalty units for a corporation and 25 penalty units for an individual.
+69G   Notification of results of commissioning of medical gas installation
+(1)  This clause applies to the commissioning of a medical gas installation.
+Note.
+The Act, section 4 defines medical gasfitting work to include the commissioning of a medical gas installation.
+(2)  As soon as is reasonably practicable, but no later than 7 days, after the commissioning of the installation, the person carrying out the commissioning must give written notice of the results of the commissioning to the following—
+(a)  the person for whom the commissioning is carried out,
+(b)  the Secretary.
+(3)  If the person for whom the commissioning is carried out is not the owner of the medical gas installation or the owner’s agent, the person must, as soon as is reasonably practicable, but no later than 7 days after receiving the written notice, give a copy of the results to the owner or the owner’s agent.
+(4)  The notice must—
+(a)  be in the form approved by the Secretary, and
+(b)  describe the work done and identify the medical gas installation concerned, and
+(c)  certify the commissioning complied with the Act, section 38A(1), and
+(d)  if applicable, specify the name and authority number of the work provider, and
+(e)  specify the name and authority number of the person carrying out the commissioning and the date on which the commissioning was carried out, and
+(f)  be signed by the person carrying out the commissioning.
+(5)  If the results of the commissioning are not notified in accordance with this clause, the person carrying out the commissioning is guilty of an offence.
+Maximum penalty—25 penalty units.
+(6)  The person carrying out the commissioning and, if applicable, the work provider—
+(a)  must keep a copy of the notice for at least 5 years from when the notice was given, and
+(b)  must produce, as soon as is reasonably practicable but no later than 48 hours after receiving the written demand, a copy of the notice to the following persons on written demand made by the person at any time during the 5-year period—
+(i)  the Secretary,
+(ii)  an authorised officer.
+Maximum penalty—100 penalty units for a corporation and 25 penalty units for an individual.
+Part 14 Accident reporting
+70   Notification of serious electrical, gas accident or medical gas accident
+(1)  For the purposes of section 40 (1) of the Act, the following person is prescribed—
+(a)  if there is no occupier of the place at which the serious electrical accident or serious gas accident concerned occurred—the owner of the place,
+(a1)  for a serious medical gas accident—the person apparently in charge of the medical facility concerned,
+(b)  in the case of a serious electrical accident or serious gas accident of which the occupier or owner of that place notifies the relevant distributor for the place—the relevant distributor.
+Note.
+Section 40 of the Act provides that a serious electrical accident or a serious gas accident that occurs at a place must be notified by the occupier of the place at which the accident occurred (or any other person the regulations may prescribe) within 7 days of the accident in the manner prescribed by the regulations.
+Section 39 of the Act defines a serious electrical accident and serious gas accident.
+Section 5A(2) of the Act defines serious medical gas accident.
+(2)  For the purposes of section 40 (1) (b) of the Act, a notice of a serious electrical accident or a serious gas accident or a serious medical gas accident must be given within 7 days after the accident and in any of the following manners—
+(a)  by written notice given to the Secretary providing the information requested by the Secretary,
+(b)  by electronic communication (using a mode of electronic communication approved by the Secretary) providing the information requested by the Secretary,
+(c)  by telephone to NSW Fair Trading, giving such information as may be requested of the caller.
+(3)  A person is exempt from the requirement under section 40 (2) of the Act to notify the Secretary of a serious electrical accident or a serious gas accident or a serious medical gas accident if notice of the accident has already been given (whether by that person or another person) within 7 days of its occurrence—
+(a)  in accordance with section 38 of the Work Health and Safety Act 2011 or section 44 of the Workplace Injury Management and Workers Compensation Act 1998, or
+(b)  in the case of a serious electrical accident—in accordance with section 63R of the Electricity Supply Act 1995.
+71   Interference with site of serious electrical accident, gas accident or medical gas accident
+For the purposes of section 42 (c) of the Act, a person may disturb or interfere with the site of a serious electrical accident or a serious gas accident or a serious medical gas accident if—
+(a)  the person has the permission of an inspector within the meaning of the Work Health and Safety Act 2011, or
+(b)  in the case of a serious electrical accident—the person has the permission of an inspector within the meaning of the Electricity Supply Act 1995, or
+(c)  the person is taking action—
+(i)  to help or remove a trapped or injured person or to remove a body, or
+(ii)  to avoid injury to a person or damage to property, or
+(iii)  for the purposes of a police investigation or coronial inquiry.
+Part 15 Enforcement
+Division 1 Investigations and inspections
+72   Inspection of installation of electricity meters
+For the purposes of section 55 (3) of the Act, the fee payable in respect of the inspection of an electrical installation that includes the installation of an electricity meter is specified in Part 2 of Schedule 2.
+72A   Rectification of defective electrical, gas or medical gas installation work
+(1)  This clause applies to the following work that is found to be non-compliant with this Act or the regulations (non-compliant work)—
+(a)  electrical installation work,
+(b)  gasfitting work,
+(c)  mechanical services and medical gas work, to the extent the work relates to medical gas,
+(d)  medical gasfitting work.
+(2)  For the purposes of section 54(3) of the Act, an authorised officer may, by written notice given to the responsible contractor for the non-compliant work, direct the responsible contractor to rectify the work.
+(3)  Without limiting subclause (2), the direction may require the responsible contractor to—
+(a)  repair, as specified by the authorised officer, work done otherwise than in a proper and skilful manner, or
+(b)  make compliant work that is not compliant with the relevant standards set out in clause 34, 39 or 69A, or
+(c)  repair, as specified by the authorised officer, a defective fitting used in the work done, or
+(d)  replace an electrical article or a gas component that is not authorised with an authorised article or component, or
+(e)  disconnect the supply of electricity, gas or medical gas, as applicable, to premises, or part of premises, if the authorised officer considers, on reasonable grounds, that there is a risk to public health, or
+(f)  disconnect an installation installed by the responsible contractor that is connected to another installation that has previously been installed in contravention of the Act or these regulations, or
+(g)  give a notice or other document required to be given under clause 37, 42, 45, 49, 69C, 69F or 69G, in accordance with the requirements of the relevant clause, if the responsible contractor has failed to do so.
+(4)  A responsible contractor to whom a direction is given must comply with the direction within the period specified, unless the responsible contractor has a reasonable excuse.
+Maximum penalty—100 penalty units and, for a continuing offence, a further penalty of 50 penalty units for each day the offence continues.
+(5)  If a direction is given to a responsible contractor, the responsible contractor must comply with the direction before continuing with the work.
+Maximum penalty—100 penalty units.
+(6)  A direction ceases to have effect if work the subject of the direction is the subject of an order made by the Civil and Administrative Tribunal under the Home Building Act 1989.
+(7)  A direction may require remedial work to be approved by an authorised officer.
+(8)  To avoid doubt—
+(a)  a single written notice may contain more than one direction, and
+(b)  a direction may be subject to conditions, and
+(c)  a direction may be varied by giving a further written notice containing the variation to the responsible contractor.
+(9)  A direction is of no effect if it is issued more than 2 years after the work to which it relates has been completed.
+(10)  For the purposes of subclause (9), work is completed by a responsible contractor when the responsible contractor completes, in accordance with the Act, the whole of the work that the person was engaged to carry out, and any notice or other document required to be given under clause 37, 45 or 49 has been provided.
+(11)  This clause does not have effect until 1 May 2021.
+Division 2 Seizure and forfeiture of electrical articles and gas appliances
+73   Return of seized electrical articles and gas appliances and compensation
+(1)  For the purposes of section 57 (5) of the Act, compensation for a seized electrical article or gas appliance is to be determined as the amount actually paid for the seized electrical article or gas appliance by the person from whom the article or appliance was seized.
+(2)  In determining the amount actually paid for a seized electrical article or gas appliance for the purposes of subclause (1), the Secretary may require the person from whom the electrical article or gas appliance was seized to forward to the Secretary evidence of any payment which the person made for the article or appliance.
+74   Application for forfeiture of electrical articles or gas appliances
+(1)  For the purposes of section 58 (2) of the Act, an application to the Local Court for the forfeiture of an electrical article or a gas appliance is to be made by lodging an application in Form 1 (in Schedule 1) with the registrar of the court.
+(2)  The Secretary must, not less than 28 days before lodging the application, serve a copy of the application on the person from whom the electrical article or gas appliance was seized.
+Part 16 Miscellaneous
+75   Registers
+(1)  The register of model approvals is to contain the following particulars in relation to each model approval that is currently in force—
+(a)  the name of the approval holder,
+(b)  a description of the model to which the approval relates,
+(c)  the date of the approval,
+(d)  the duration of the approval,
+(e)  the mark (if any) approved by the Secretary for electrical articles of the model,
+(f)  the model reference code for the model concerned,
+(g)  any modifications to the model approval granted by the Secretary,
+(h)  any other particulars that the Secretary considers appropriate.
+(2)  The register of certification authorities is to contain the following particulars in relation to a person or organisation granted a certification authority—
+(a)  the name of the person or organisation,
+(b)  the full address of the person or organisation, being (in the case of an individual) his or her principal place of residence or (in the case of a corporation or organisation) its registered office or principal office or place of business in New South Wales,
+(c)  the identifying mark for the person or organisation supplied under clause 26 (b) (ii),
+(d)  any other details supplied in the application for the certification authority that the Secretary considers should be entered on the register.
+(3)  The registers are to be kept in the form the Secretary directs from time to time.
+(4)  The Secretary is to cause the register of model approvals to be published by any printed or electronic means that the Secretary considers appropriate.
+Note.
+This clause is subject to the provisions of Part 6 (Public registers) of the Privacy and Personal Information Protection Act 1998, which makes provision with respect to the disclosure of personal information on public registers.
+76   Delegated functions
+For the purposes of paragraph (c) of the definition of authorised person in section 74 (4) of the Act, any person to whom electricity network assets have been transferred under Part 2 of the Electricity Network Assets (Authorised Transactions) Act 2015, and a person employed or engaged by any such person, are prescribed.
+77   Provisions relating to gas meters
+Schedule 4 contains provisions relating to gas meters.
+78   Savings and transitional
+(1)  Any act, matter or thing that, immediately before the repeal of the Gas Supply (Consumer Safety) Regulation 2012 or the Electricity (Consumer Safety) Regulation 2015, had effect under that Regulation continues to have effect under the corresponding provision of this Regulation.
+(2)  Schedule 1 to the Gas Supply (Consumer Safety) Regulation 2012, as in force before its repeal by the Gas and Electricity (Consumer Safety) Act 2017, continues to apply, for a period of 12 months, in respect of—
+(a)  a gas installation or autogas installation with a carrying capacity greater than 200 kilopascals, or
+(b)  a gas appliance with an inlet pressure greater than 200 kilopascals,
+that is located partially or wholly within a workplace within the meaning of the Work Health and Safety Act 2011.
+Schedule 1 Forms
+Form 1   Application for order for forfeiture of electrical article or gas appliance
+(Clause 74 (1))
+(Section 58 (2) of the Gas and Electricity (Consumer Safety) Act 2017)
+To: The Local Court sitting at—
+On the [date], the *electrical article(s)/gas appliance(s) specified in the Schedule below was (were) seized by an authorised officer under section 49 (d) of the Gas and Electricity (Consumer Safety) Act 2017, at [address where seized] from [owner of *electrical article(s)/gas appliance(s)].
+Application is now made under section 58 (1) *(a) *and/or *(b) of the Gas and Electricity (Consumer Safety) Act 2017 for an order for forfeiture of the *electrical article(s)/gas appliance(s) to the Crown.
+Signed and dated—
+
+Secretary
+Schedule
+[Insert description of article(s) or appliance(s)]
+* Delete whatever is not applicable
+Schedule 2 Fees
+(Clauses 3 (1), definition of “relevant fee”, and 72)
+Part 1 Definitions
+1   Defined terms in Part 2 of this Schedule
+In Part 2 of this Schedule—
+Category 1 articles means any electrical articles of the following kind—
+(a)  appliance connectors,
+(b)  bayonet lampholder adaptors,
+(c)  bayonet lampholders,
+(d)  control or conditioning devices,
+(e)  cord extension sockets,
+(f)  cord-line switches,
+(g)  decorative lighting outfits,
+(h)  edison screw lampholders,
+(i)  fluorescent lamp ballasts,
+(j)  fluorescent lamp starters,
+(k)  inspection handlamps,
+(l)  luminaires (whether or not portable),
+(m)  outlet devices,
+(n)  plugs,
+(o)  socket-outlets,
+(p)  supply flexible cords,
+(q)  wall switches,
+(r)  any other apparatuses, fixtures, devices, materials or the like (other than electrical appliances) that are used, or are intended for use, as part of, or in connection with, electrical installations.
+Category 2 articles means any electrical articles that are not Category 1 articles.
+electrical appliance means a device in which electrical energy is consumed or substantially changed in character by conversion into heat, sound, motion, light or otherwise.
+Part 2 Fees payable
+Item
+Provision
+Matter
+Fee (in fee units)
+1
+Clause 8
+Application for model approval—
+ 
+ 	 	
+(a)  for Category 1 articles
+4.97
+ 	 	
+(b)  for Category 2 articles
+9.92
+2
+Clause 10
+Application for extension of model approval
+4.97
+3
+Clause 11
+Application for renewal of model approval
+4.97
+4
+Clause 14
+Application for modification of model approval
+3.73
+5
+Clause 16
+Lodgment of notice of change of particulars of model approval—
+ 
+ 	 	
+(a)  for change of no more than 4 model approvals by means of a single notice
+1.22 per notice
+ 	 	
+(b)  for change to each additional model approval specified by the notice
+0.36 per additional approval
+6
+Clause 21
+Application for declaration of recognised external approval schemes—
+ 
+ 	 	
+(a)  for an initial application
+38.37 plus cost of assessment of scheme calculated at an hourly rate of 1.66 per person
+ 	 	
+(b)  for a renewal application
+22.01 plus cost of assessment of scheme calculated at an hourly rate of 1.66 per person
+7
+Clause 72
+Inspection of an electrical installation that includes the installation of an electricity meter—
+ 
+ 	 	
+(a)  for the initial inspection of an installation
+0.16
+ 	 	
+(b)  for a second or subsequent inspection of an installation
+0.78
+Part 3 Adjustment of fees for inflation
+2   Definitions
+In this Part—
+CPI number means the Consumer Price Index (All Groups Index) for Sydney published by the Australian Bureau of Statistics in the latest published series of that index.
+financial year means a period of 12 months commencing on 1 July.
+3   Calculation of fee unit for purposes of Regulation
+(1)  For the purposes of this Regulation, a fee unit is—
+(a)  in the financial year 2018–19—$100, and
+(b)  in each subsequent financial year—the amount calculated as follows—
+ 
+where—
+A is the CPI number for the March quarter in the financial year immediately preceding the financial year for which the amount is calculated.
+B is the CPI number for the March quarter of 2018.
+(2)  The amount of a fee unit is to be rounded to the nearest cent (and an amount of 0.5 cent is to be rounded down).
+(3)  However, if the amount of a fee unit calculated for any financial year is less than the amount that applied for the previous financial year, then the amount for that previous financial year applies instead.
+Editorial note.
+Fee unit amount calculated under this clause—
+Financial year
+Fee unit amount
+2019–20
+$101.32
+2020–21
+$103.34
+2021–22
+$104.31
+2022–23
+$108.89
+2023–24
+$116.81
+2024–25
+$121.21
+2025–26
+$124.03
+4   Rounding of fee amounts
+The amount of a fee calculated by reference to a fee unit is to be rounded to the nearest dollar (and an amount of 50 cents is to be rounded down).
+5   Notice of indexed fees
+(1)  As soon as practicable after the CPI number for the March quarter is first published by the Australian Statistician, the Secretary is required to—
+(a)  notify the Parliamentary Counsel of the amount of the fee unit for the next financial year so that notice of that amount can be published on the NSW legislation website, and
+(b)  give public notice on an appropriate government website of the actual amounts of the fees applying in each financial year resulting from the application of the amount of a fee unit calculated under this Part.
+(2)  This Part operates to change an amount of a fee that is calculated by reference to a fee unit and that change is not dependent on the notification or other notice required by this clause.
+Schedule 3 Penalty notice offences
+For the purposes of section 66 of the Act—
+(a)  each offence specified in this Schedule is an offence for which a penalty notice may be issued, and
+(b)  the amount payable under any such penalty notice is the amount specified in this Schedule for the offence.
+Column 1
+Column 2
+Provision
+Penalty
+Offences under the Act
+Section 8 (1) or (2) (b)
+$1,000
+Section 8 (2) (a)
+$500
+Section 21 (1)
+$1,000
+Section 22
+$10,000 (in the case of a corporation) or $5,000 (in the case of an individual)
+Section 31 (1), (2) or (3)
+$10,000
+Section 33 (1) or (2)
+$1,000
+Section 34
+$5,000 (in the case of a corporation) or $1,000 (in the case of an individual)
+Section 38D(1) or (2)
+$1,100 (for a corporation) or $550 (for an individual)
+Section 40 (1)
+$100 (where the place at which the accident occurred is residential premises) or $1,000 (in any other case)
+Section 42
+$10,000
+Offences under this Regulation
+Clause 6 (4)
+$200
+Clause 16 (1)
+$200
+Clause 24 (2)
+$1,000 (in the case of a corporation) or $500 (in the case of an individual)
+Clause 31 (1)
+$500
+Clause 32 (1)
+$500
+Clause 37 (4) or (5)
+$1,000 (in the case of a corporation) or $500 (in the case of an individual)
+Clause 38 (1)
+$5,000
+Clause 38 (2)
+$10,000 (in the case of a corporation) or $5,000 (in the case of an individual)
+Clause 38C
+$10,000 (in the case of a corporation) or $5,000 (in the case of an individual)
+Clause 42 (1), (2), (4) or (5)
+$1,000 (in the case of a corporation) or $250 (in the case of an individual)
+Clause 61 (1)
+$1,000 (in the case of a corporation) or $250 (in the case of an individual)
+Clause 69B(3)
+$687.50
+Clause 69C(4) or (5)
+$2,750 for a corporation or $687.50 for an individual
+Clause 69D(1)
+$550
+Clause 69D(2)
+$1,100 (for a corporation) or $550 (for an individual)
+Clause 69E
+$550
+Clause 69F(5)
+$2,750 for a corporation or $687.50 for an individual
+Clause 69G(5)
+$687.50
+Clause 69G(6)
+$2,750 for a corporation or $687.50 for an individual
+Clause 72A(4)
+$2,200 and, for a continuing offence, an additional $1,100 for each additional day for which the offence continues
+Clause 72A(5)
+$2,200
+Schedule 4 Provisions relating to gas meters
+(Clause 77)
+Note.
+This Schedule re-enacts Schedule 1 to the Gas Supply (Consumer Safety) Regulation 2012 (repealed by the Act). That Schedule substantially re-enacted the provisions of the Gas Supply (Gas Meters) Regulation 2002 (repealed on 1 September 2011 by section 10 (2) of the Subordinate Legislation Act 1989).
+Part 1 Preliminary
+1   Interpretation
+(1)  In this Schedule—
+distribution system and network operator have the same meanings as they have in the Gas Supply Act 1996.
+interested party, in relation to a gas meter, means—
+(a)  a person (including an end user customer and a supplier) to whom gas is conveyed through the gas meter, or
+(b)  a supplier who supplies gas to other persons (including end user customers and other suppliers) through the gas meter, or
+(c)  a network operator from whose distribution system gas is conveyed through the gas meter.
+(2)  For the purposes of this Schedule, a gas meter is inaccurate—
+(a)  if a limit of error for gas meters has been prescribed under the National Measurement Act 1960 of the Commonwealth and the gas meter over-registers or under-registers the flow of gas by more than the limit prescribed under that Act, or
+(b)  if no such limit has been prescribed and—
+(i)  the gas meter over-registers the flow of gas by more than 2 per cent or if the Secretary determines, by order published in the Gazette, that a smaller percentage applies in relation to any particular class of gas meters, by more than that smaller percentage, or
+(ii)  the gas meter under-registers the flow of gas by more than 3 per cent or if the Secretary determines, by order published in the Gazette, that a smaller percentage applies in relation to any particular class of gas meters, by more than that smaller percentage.
+Part 2 Gas supply to be metered
+2   Gas supply to be metered
+(1)  A person must not convey gas to another person by means of a gas network otherwise than through a gas meter.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in any other case).
+(2)  This clause does not apply to—
+(a)  the conveyance of gas to a network operator or a retailer (within the meaning of the National Energy Retail Law (NSW)), or
+(b)  the conveyance of gas by or to any other person in accordance with an exemption referred to in subclause (3).
+(3)  The Secretary may exempt any person from the operation of subclause (1) if, in the special circumstances of the case, the Secretary considers it appropriate to do so.
+(4)  Such an exemption is to be in writing and may be granted unconditionally or subject to conditions.
+Part 3 Testing of gas meters and gas meter testing equipment
+Division 1 Authorisation of persons to conduct testing of gas meters and gas meter testing equipment
+3   Secretary may authorise persons to conduct testing
+(1)  The Secretary may, by instrument in writing, authorise any person to do either of the following—
+(a)  to test and to seal and stamp gas meters,
+(b)  to test and calibrate equipment used for testing gas meters.
+(2)  An authority may be granted subject to such conditions as the Secretary considers appropriate.
+(3)  The holder of an authority must comply with the conditions (if any) imposed on the authority by the Secretary.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in any other case).
+(4)  The Secretary may revoke any such authority, at any time and for any reason, by instrument in writing served on the holder of the authority.
+4   Authority holders to lodge description of testing procedures
+A person who holds an authority under clause 3 must lodge with the Secretary a description of the procedures to be used by the person for testing gas meters or gas meter testing equipment in accordance with the requirements of this Part.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in any other case).
+Division 2 Testing of gas meters before supply or installation and in-service testing
+5   Testing of meters before supply or installation
+(1)  A person must not supply or install a gas meter for the purpose of measuring, for revenue purposes, a quantity of gas supplied, unless the gas meter has been tested, sealed and stamped—
+(a)  by a person authorised under clause 3 (1) (a), or
+(b)  by an organisation approved under subclause (2).
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in any other case).
+(2)  The Secretary may, by order published in the Gazette, declare an organisation in another State or a Territory to be an approved organisation for the purposes of this clause.
+(3)  For the purposes of this clause—
+(a)  a gas meter is not sealed unless the seal is intact, and
+(b)  a gas meter is not stamped unless the seal applied to it is stamped with a stamp of a design approved by the Secretary.
+6   In-service testing of meters
+(1)  The owner of a gas meter used for registering the supply of gas must cause the gas meter to be in-service tested and resealed—
+(a)  in accordance with the owner’s program, if it has been approved by the Secretary, or (if there is no such approved program) at the intervals that the Secretary may from time to time require in respect of a particular meter or class of meters, and
+(b)  at any time, if the Secretary notifies the owner that the gas meter may be defective or inaccurate.
+Maximum penalty—20 penalty units.
+(2)  An owner may lodge with the Secretary a program for the in-service testing and resealing of meters owned by the owner. A program may provide for random sample in-service testing of meters.
+Division 3 Other testing of gas meters
+7   Meters to be tested if owner suspects inaccuracy
+(1)  If the owner of a gas meter suspects that the gas meter is inaccurate, or the gas meter’s seal is broken or illegible, the owner must arrange to have the gas meter tested.
+(2)  If the gas meter is inaccurate, the owner—
+(a)  must notify any relevant interested party in writing that the gas meter is inaccurate, and
+(b)  must record particulars of the inaccurate gas meter and of the date on which the gas meter was found to be inaccurate, and
+(c)  must, as soon as practicable, cause the gas meter to be replaced, repaired or adjusted, whichever is appropriate.
+(3)  Any record of an inaccurate gas meter kept under this clause must be retained by the owner for a period of not less than 2 years.
+8   Testing of meters at the request of an interested party
+(1)  An interested party may ask the owner of a gas meter to arrange to have the gas meter tested.
+(2)  The owner may request that the interested party pay in advance the reasonable cost of testing the meter. The owner is not required to test the meter if the interested party refuses to pay the amount in advance.
+(3)  If the meter is found to be inaccurate the owner—
+(a)  must refund any amount paid in advance and the interested party is not liable to pay the cost of testing if the meter is found to be inaccurate, and
+(b)  must, as soon as practicable, cause the gas meter to be replaced, repaired or adjusted, whichever is appropriate.
+(4)  The Secretary may, by order published in the Gazette, set a maximum fee that may be charged by the owner of a gas meter for testing the meter.
+9   Examining and testing of gas meters by Secretary
+(1)  The Secretary may, with the agreement of the occupier of the premises, examine or test any gas meter installed on premises for the purpose of registering the supply of gas to those premises.
+(2)  The gas meter may be examined or tested while on the premises or may be removed from the premises for examination or testing.
+(3)  If the gas meter is installed on premises supplied with gas at a gauge pressure of more than 35 kilopascals, the Secretary must give the owner of the gas meter, and any interested party, reasonable notice of the intention to conduct the examination or test.
+(4)  The owner of a gas meter who receives a notice under subclause (3) must ensure that a suitably qualified person is available to provide assistance during the examination or test and to ensure that the gas installation to which the meter is connected is safely recommissioned after completion of the examination or test.
+(5)  If, in the Secretary’s opinion, a gas meter cannot conveniently or safely be tested on the premises, the Secretary may require the owner of the gas meter to disconnect the gas meter and deliver it to a specified testing place.
+(6)  The owner of the gas meter—
+(a)  must as soon as practicable comply with the requirement, and
+(b)  may witness, or be represented by another person at, the test, and
+(c)  must, as soon as practicable after it has been tested, return and reconnect the gas meter, or supply and connect another gas meter, to the premises from which it has been removed.
+(7)  If a gas meter examined or tested under this clause is inaccurate, the owner must, as soon as practicable, cause the gas meter to be replaced, repaired or adjusted, whichever is appropriate.
+Division 4 Gas meter testing equipment
+10   Gas meter testing equipment to be tested and calibrated
+(1)  Gas meter testing equipment is not suitable for use in testing a gas meter unless it has been tested and calibrated, in accordance with a method approved by the Secretary—
+(a)  by a person authorised under clause 3 (1) (b), or
+(b)  by or under the supervision of an organisation approved under subclause (2).
+(2)  The Secretary may, by order published in the Gazette, declare an organisation in another State or a Territory to be an approved organisation for the purposes of this clause.
+Part 4 Miscellaneous
+11   Offences
+(1)  A person must not test a gas meter unless authorised to do so under this Schedule.
+Maximum penalty—100 penalty units (in the case of a corporation) or 25 penalty units (in any other case).
+(2)  A person must not remove, deface or break a gas meter’s seal or the stamp on a gas meter’s seal without notifying the owner of the gas meter and the Secretary, unless authorised to do so under this Schedule.
+Maximum penalty—20 penalty units.
+(3)  A person must not, unless authorised to do so under this Schedule—
+(a)  cause or knowingly allow a gas meter to be inaccurate, or
+(b)  prevent a gas meter from registering an amount of gas supplied, or
+(c)  otherwise affect the metrological performance of a gas meter,
+without notifying both the owner of the gas meter and the Secretary.
+Maximum penalty—20 penalty units.
+(4)  Any notification required by this clause must be made within 7 days after the occurrence of the notifiable event, in the form approved by the Secretary.
+12   Fees
+The fee payable to the Secretary by—
+(a)  the owner of a gas meter for the examination or testing of the gas meter by the Secretary, or
+(b)  the owner of gas meter testing equipment for the examination or testing of that equipment by the Secretary, or
+(c)  an applicant for authority to conduct in-service testing of gas meters for the examination of documents relating to the application, or
+(d)  an applicant for authority to test and calibrate gas meter testing equipment for the examination of documents relating to the application, or
+(e)  an owner of gas meters for approval of an in-service testing program, or
+(f)  a person authorised under clause 3 (1) (b) for approval of a method of testing and calibrating of gas meter testing equipment,
+is $136 for the first hour plus $35 for each quarter hour or part of a quarter hour after the first hour.
