@@ -148,7 +148,6 @@ export const main = async (question) => {
   const legislationsReturned = Object.keys(parsed);
   //console.log("Legislation array returned:\n" + legislationsReturned.join(", "));
   
-
   // Transform output to array with all options
   const finalArrayOutput = [];
   

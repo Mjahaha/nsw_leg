@@ -6,7 +6,7 @@ export async function GET(req) {
   const query = searchParams.get("query");
   if (!query) return new Response(JSON.stringify({ error: "Missing query" }), { status: 400 });
   
-
+  
   try {
     const response = await main(query);
     console.log("Response retrieved.");

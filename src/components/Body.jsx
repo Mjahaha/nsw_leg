@@ -13,11 +13,15 @@ export default function Body() {
 
   return (
     <main>
-      <section className="flex flex-col items-center justify-center min-h-screen bg-black-50 p-8 pb-10">
+      <section 
+        className={legislationList.length > 0 ? 
+        "flex flex-col items-center justify-center min-h-40 bg-black-50 p-8 pb-10" : 
+        "flex flex-col items-center justify-center min-h-120 bg-black-50 p-8 pb-10"}
+      >
         <h1 className="text-2xl font-bold">What is your question around NSW Planning?</h1>
-        <MainUserTextbox submitFunction={stageOneHandler} />
+        <MainUserTextbox submitFunction={stageOneHandler} legislationList={legislationList} />
       </section>
-      <section className={`flex flex-col items-center justify-center p-8 pb-10 transition-all duration-500 ${legislationList.length > 0 ? 'mt-4' : 'min-h-screen'}`}>
+      <section className={`flex flex-col items-center justify-center p-8 pb-10 transition-all duration-500 ${legislationList.length > 0 ? 'mt-4' : 'hidden'}`}>
         <StageOneDisplay legislationList={legislationList} />
       </section>
     </main>
