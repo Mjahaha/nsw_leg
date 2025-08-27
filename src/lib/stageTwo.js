@@ -95,7 +95,7 @@ const stageTwoAPICall = async (prompt) => {
 
 
 // Function to process all stage two requests
-export const processStageOneRequest = async (question, legislationKeyArray) => {
+export const processStageTwoRequest = async (question, legislationKeyArray) => {
   let allResponses = [];
   console.log("Processing Stage Two Request... commenced");
 
@@ -112,7 +112,8 @@ export const processStageOneRequest = async (question, legislationKeyArray) => {
 };
 
 
-// An example to call the API
+// An example to call the AI API for testing 
+/*
 const legislationArrayForExample = ["gasAndElectricityConsumerSafetyRegs", "plumbingDrainageRegulation"];
 const questionForExample = "What are the safety requirements for gas ovens?";
 const stageTwoExampleResults = await processStageOneRequest(questionForExample, legislationArrayForExample);
@@ -120,5 +121,6 @@ stageTwoExampleResults.map(result => {
   console.log(`\n=== Results for ${result.legislationKey} ===`);
   console.log(result.response);
 });
+*/
 
 
