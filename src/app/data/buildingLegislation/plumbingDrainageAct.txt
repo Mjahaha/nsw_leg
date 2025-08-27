@@ -1,0 +1,520 @@
+Part 1 Preliminary
+1   Name of Act
+This Act is the Plumbing and Drainage Act 2011.
+2   Commencement
+This Act commences on a day or days to be appointed by proclamation.
+3   Definitions
+(1)  In this Act—
+approved form means a form approved by the plumbing regulator.
+authorised fitting—see section 20.
+authorised person means an inspector or enforcement officer.
+certificate of compliance—see section 15.
+code compliant—see section 7.
+county council has the same meaning as in the Local Government Act 1993.
+enforcement officer means a person appointed as an enforcement officer under Part 4.
+function includes a power, authority or duty and exercise a function includes perform a duty.
+inspector means a person appointed as an inspector under Part 4.
+joint organisation has the same meaning as in the Local Government Act 1993.
+network utility operator means—
+(a)  the Hunter Water Corporation constituted under the Hunter Water Act 1991, and
+(b)  the Sydney Water Corporation constituted under the Sydney Water Act 1994, and
+(c)  a registered operator under the Water Industry Competition Act 2006, and
+(d)  a water supply authority under the Water Management Act 2000, and
+(e)  a local council or county council exercising water or sewerage functions.
+performance solution has the same meaning as in the Plumbing Code of Australia.
+plumbing and drainage work—see section 4.
+Plumbing Code of Australia means the document entitled the Plumbing Code of Australia, produced for all State governments by the Australian Building Codes Board, as in force from time to time.
+plumbing installation—see section 4.
+plumbing regulatormeans the Secretary of the department in which this Act is administered.
+pre-notified—see section 9.
+premises includes land and buildings.
+repair includes make good, replace, reconstruct, remove, alter, cleanse or clear.
+responsible person—see section 5.
+sanitary drainage system—see section 4.
+sanitary plumbing system—see section 4.
+Note—
+The Interpretation Act 1987 contains definitions and other provisions that affect the interpretation and application of this Act.
+(2)  Notes included in this Act do not form part of this Act.
+(3)  For the purposes of this Act, plumbing and drainage work does not involve a proposed performance solution if it is carried out in relation to an existing performance solution and it does not change the design of the existing performance solution.
+4   Plumbing and drainage work—meaning
+Note—
+The plumbing and drainage work to which this Act applies is commonly referred to as on-site plumbing and drainage work.
+(1)  In this Act, plumbing and drainage work means—
+(a)  the construction of, or work on, a plumbing installation that connects, directly or indirectly, with a network utility operator’s water supply system, downstream from the point of connection to a network utility operator’s water supply system, or
+(b)  the construction of, or work on, a plumbing installation that connects, directly or indirectly, with any other water supply system, if the construction or work is residential building work within the meaning of the Home Building Act 1989, or
+(c)  the construction of, or work on, a sanitary plumbing system, or
+(d)  the construction of, or work on, a sanitary drainage system upstream from its point of connection to—
+(i)  a system for the disposal of sewerage, or
+(ii)  a system for the re-use of sewerage or other wastewater, or
+(iii)  an on-site wastewater management or treatment system, or
+(iv)  a network utility operator’s sewerage system, or
+(e)  any other type of construction or work declared by the regulations to be plumbing and drainage work.
+(2)  A plumbing installation means an installation that conveys, or controls the conveyance of, water but does not include anything connected to, extending or situated beyond the outlet from a fixture, fitting or pressurised line.
+(3)  A sanitary plumbing system means an assembly of pipes, fittings, fixtures and appliances used to collect and convey sewage to a sanitary drainage system.
+(4)  A sanitary drainage system means an assembly of pipes, fittings and apparatus (usually located below ground level) used to collect and convey the discharge from a sanitary plumbing system, together with discharge from fixtures directly connected to a drain, to a sewer.
+(5)  Subject to the regulations, plumbing and drainage work does not include any of the following work—
+(a)  the construction of, or work on, stormwater pipes,
+(b)  the construction of, or work on, fire suppression systems,
+(c)  the construction of, or work on, network utility operator, local council, joint organisation or county council water or stormwater mains, sewers or sewerage systems,
+(d)  roof plumbing work (being work declared by the regulations under the Home Building Act 1989 to be roof plumbing work),
+(e)  exempt owner/occupier work, being work that—
+(i)  involves repairing a tap or showerhead in a dwelling (other than a repair of a thermostatic mixing valve, tempering valve or backflow prevention device) or the installation of water-restricting or flow-regulating devices to tap end fittings (including showerheads) in a dwelling, and
+(ii)  is carried out by the owner or occupier of the dwelling, or a person authorised to carry out the work by the owner or occupier of the dwelling who does not receive payment or other consideration for carrying out the work.
+Note—
+Work excluded from the definition of plumbing and drainage work still has to be done in accordance with any other relevant legislation, for example the Home Building Act 1989.
+5   Responsible person for plumbing and drainage work
+In this Act, the responsible person for plumbing and drainage work means—
+(a)  in the case of work carried out or proposed to be carried out by the holder of an endorsed contractor licence or a supervisor certificate under the Home Building Act 1989 authorising the holder to do the work, the holder of that licence or certificate, or
+(b)  in the case of work carried out or proposed to be carried out under the immediate or general supervision of the holder of an endorsed contractor licence or a supervisor certificate under the Home Building Act 1989 authorising the holder to supervise the work, the holder of the endorsed contractor licence or supervisor certificate.
+Part 2 Plumbing and drainage work
+Division 1 General requirements for plumbing and drainage work
+6   Plumbing and drainage work to be carried out only by authorised persons
+(1)  A person must not do any kind of plumbing and drainage work unless the person—
+(a)  holds an endorsed contractor licence or a supervisor certificate in force under the Home Building Act 1989 authorising the holder to do that kind of work, or
+(b)  does the work under the immediate supervision of the holder of such a licence or certificate, or
+(c)  holds a tradesperson certificate in force under the Home Building Act 1989 authorising the holder to do that work under supervision and does that work under the general supervision of the holder of a licence or certificate referred to in paragraph (a).
+Maximum penalty—100 penalty units.
+(2)  A person cannot be found guilty of both an offence under this section and a similar offence under another Act in respect of the same work done on the same occasion.
+(3)  A similar offence under another Act is an offence under another Act constituted by doing work that can only be done by or under the supervision of the holder of an authority under the Home Building Act 1989.
+Note—
+The Hunter Water Act 1991, the Local Government Act 1993, the Sydney Water Act 1994, the Water Industry Competition Act 2006 and the Water Management Act 2000 contain similar offences. Those offences apply to any water supply, sewerage or drainage work that affects the infrastructure of a network utility operator.
+7   Plumbing and drainage work to comply with certain standards
+(1)  The responsible person for plumbing and drainage work must ensure the work complies with—
+(a)  the Plumbing Code of Australia, and
+(b)  any other standards or requirements prescribed by the regulations.
+Maximum penalty—100 penalty units.
+(2)  Work done in accordance with this section is code compliant.
+8   Authorised fittings to be used for plumbing and drainage work
+The responsible person for plumbing and drainage work must ensure any fitting used in the plumbing and drainage work is an authorised fitting.
+Maximum penalty—100 penalty units.
+Division 2 Notice of plumbing and drainage work
+9   Plumbing and drainage work must be pre-notified to plumbing regulator
+(1)  The responsible person for plumbing and drainage work must ensure that no plumbing and drainage work is carried out by, or under the supervision of, the responsible person unless—
+(a)  the responsible person has given the plumbing regulator a notice of work in accordance with this section, and
+(b)  the work carried out corresponds to the specifications in the notice of work.
+Maximum penalty—100 penalty units.
+(2)  A notice of work is a notice in an approved form that specifies the work to be carried out and the responsible person for the work.
+(3)  The notice of work must be given to the plumbing regulator—
+(a)  in relation to plumbing and drainage work that involves a proposed performance solution—no later than 20 business days before the work is carried out, and
+(b)  in any other case—before—
+(i)  the work is carried out, and
+(ii)  any notice under section 13 is given in relation to the work.
+(4)  Work carried out corresponds to the specifications in a notice of work only if—
+(a)  the work is the same as or not materially different from the work as specified in the notice of work, and
+(b)  the work is carried out by or under the supervision of the responsible person specified in the notice of work.
+Note—
+Accordingly, if a notice of work is given to the plumbing regulator and the work proposed to be carried out is materially different from the work notified, or the responsible person for the work changes, the plumbing regulator must be given a further notice of work with the new specifications before that work is carried out.
+(5)  Work notified in accordance with this section is work that has been pre-notified.
+10   Emergency work does not have to be pre-notified
+(1)  Emergency work does not have to be pre-notified.
+(2)  Emergency work is plumbing and drainage work carried out in an emergency—
+(a)  to prevent waste of water, or
+(b)  to restore a water supply that has been shut off to prevent waste of water, or
+(c)  to free a choked pipe, or
+(d)  to protect public health or safety, or
+(e)  to prevent damage to property.
+(3)  The responsible person for any emergency work that is not pre-notified must give the plumbing regulator notice of the emergency work, in an approved form, within the period prescribed by the regulations after carrying out the work.
+Maximum penalty—100 penalty units.
+(4)  The responsible person for any emergency work must take all reasonable steps to ensure that the work does not threaten the health and safety of any occupier of premises affected by the work.
+Maximum penalty—100 penalty units.
+11   Notice of defective installation or system
+(1)  The responsible person for plumbing and drainage work carried out on land must, within the period prescribed by the regulations, give the following persons written notice of any defective installation or system on the land discovered in the course of carrying out the plumbing and drainage work—
+(a)  the owner of the land,
+(b)  the occupier of the land (if the owner does not occupy the land).
+Maximum penalty—100 penalty units.
+(2)  The responsible person for plumbing and drainage work carried out on land must, within the period prescribed by the regulations, give the plumbing regulator written notice of any defective installation or system on the land discovered in the course of carrying out the plumbing and drainage work that poses an imminent threat to public health or safety.
+Maximum penalty—100 penalty units.
+(3)  A defective installation or system is discovered if the responsible person, or a person carrying out the plumbing and drainage work under the responsible person’s supervision, becomes aware that the installation or system concerned is defective.
+(4)  For the purposes of this section, an installation or system is any plumbing installation, sanitary plumbing system or sanitary drainage system.
+Division 3 Inspection of plumbing and drainage work
+12   Inspection of plumbing and drainage work by plumbing regulator
+(1)  The plumbing regulator may, for the purpose of monitoring compliance with this Act, do either or both of the following—
+(a)  inspect any plumbing and drainage work,
+(b)  inspect any documents in the possession of the plumbing regulator in connection with the plumbing and drainage work.
+(2)  To avoid any doubt, the plumbing regulator may carry out more than one inspection under this section if the regulator considers it necessary in the circumstances.
+(3)  The regulations may make provision for the fee payable for inspections by the plumbing regulator.
+13   Responsible person to notify plumbing regulator when work is ready for inspection
+(1)  A responsible person for plumbing and drainage work must notify the plumbing regulator when the work will be ready for inspection by the plumbing regulator before, or within the period prescribed by the regulations after, completing the work.
+Maximum penalty—100 penalty units.
+(2)  Notice is duly given only if any fee required to be paid by the regulations for the inspection has been paid to the plumbing regulator.
+(3)  Before carrying out an inspection, the plumbing regulator must advise the responsible person—
+(a)  of the period during which the plumbing and drainage work must be available for inspection by the plumbing regulator (the inspection period), and
+(b)  that the responsible person must ensure the plumbing and drainage work is accessible for inspection during the inspection period.
+(4)  The inspection period is to be a period agreed between the plumbing regulator and the responsible person or, in the absence of an agreement, another period specified by the plumbing regulator that is reasonable in the circumstances.
+(5)  The responsible person must, unless the responsible person has a reasonable excuse—
+(a)  ensure the plumbing and drainage work is accessible and ready to be inspected during the inspection period, and
+(b)  be present, or ensure that an agreed representative of the responsible person is present, during the inspection period at the place at which the plumbing and drainage work has been carried out.
+Maximum penalty—100 penalty units.
+(6)  In this section, an agreed representative of a responsible person means a person who is qualified to carry out (without supervision) the work that is the subject of the inspection and who is nominated by the responsible person, with the agreement of the plumbing regulator, to attend the inspection as the responsible person’s representative.
+14   Defective or uninspected plumbing and drainage work
+(1)  The plumbing regulator may, by written notice given to the responsible person for plumbing and drainage work, direct the responsible person—
+(a)  to repair, as specified by the plumbing regulator, work done otherwise than in a proper and skilful manner, or
+(b)  to make code compliant work that is not code compliant, or
+(c)  to repair, as specified by the plumbing regulator, a defective fitting used in any of the work done, or
+(d)  if a fitting used in the plumbing and drainage work is not an authorised fitting, to replace the fitting with an authorised fitting, or
+(e)  to disconnect the supply of water to premises, or part of premises, if the plumbing regulator considers, on reasonable grounds, that there is a risk to public health, or
+(f)  to disconnect a sanitary plumbing system or sanitary drainage system from a sewer, if the plumbing regulator considers, on reasonable grounds, that there is a risk to public health, or
+(g)  to uncover all or part of the work to allow the plumbing regulator to inspect the work if—
+(i)  the responsible person failed to notify the plumbing regulator when the work was ready for inspection in accordance with section 13, or
+(ii)  the work was not accessible and ready to be inspected during the inspection period referred to in that section, or
+(h)  if the responsible person has failed to comply with section 9, 15 or 16, to give to the plumbing regulator any notice or other document required to be given under the section concerned, or
+(i)  to disconnect any plumbing or drainage installed by the responsible person that is connected to other plumbing and drainage work that has been previously installed in contravention of this Act, or
+(j)  if the responsible person has failed to comply with section 13 (5) (b), to re-notify the plumbing regulator when the work will be ready for inspection.
+(2)  A responsible person to whom a direction is given must comply with the direction within the period specified in the written notice, unless the responsible person has a reasonable excuse.
+Maximum penalty—100 penalty units and, in the case of a continuing offence, a further penalty of 50 penalty units for each day the offence continues.
+(3)  If a direction is given to a responsible person before a certificate of compliance is given for the plumbing and drainage work, the responsible person must comply with the direction before continuing with the work.
+Maximum penalty—100 penalty units.
+(4)  A direction ceases to have effect if the plumbing and drainage work that is the subject of the direction is the subject of an order made by the Civil and Administrative Tribunal under the Home Building Act 1989.
+(5)  A direction is of no effect if it is issued more than 2 years after the plumbing and drainage work to which it relates has been completed.
+(6)  A person who holds an endorsed contractor licence or supervisor certificate under the Home Building Act 1989 authorising the person to do plumbing and drainage work and who gives the plumbing regulator a certificate of compliance in respect of any plumbing and drainage work that the person is authorised to do or supervise is taken, for the purposes of this section, to be the responsible person in respect of all work that is the subject of the certificate of compliance.
+(7)  For the avoidance of doubt, a single written notice may contain more than one direction under this section.
+(8)  For the purposes of subsection (5), plumbing and drainage work is completed by a responsible person when the responsible person completes, in accordance with this Act, the whole of the plumbing and drainage work that the person was engaged to carry out, has given notice under section 13 (1) and the period during which the plumbing and drainage work must be available for inspection by the plumbing regulator has ended.
+(9)  Section 13 (2)–(6) apply to a re-notification in accordance with a direction under subsection (1) (j) in the same way as those provisions apply to a notification under section 13 (1).
+(10)  It is a defence to a prosecution under subsection (2) in relation to a direction under subsection (1) (g) if the responsible person concerned establishes that they took all reasonable steps to ensure the plumbing and drainage work or the part of the plumbing and drainage work concerned was uncovered in accordance with the direction.
+Division 4 Obligation to supply certificates and plans
+15   Person to give certificate of compliance after work completed
+(1)  The responsible person for plumbing and drainage work must—
+(a)  give the plumbing regulator a certificate of compliance—
+(i)  if a physical inspection of the plumbing and drainage work has been conducted—on the completion of the work, or
+(ii)  in any other case—within the period prescribed by the regulations after completing the work, and
+(b)  give a copy of that certificate of compliance to the person for whom the work is carried out, whether as contractor or employee, within the period prescribed by the regulations after completing the work.
+Maximum penalty—100 penalty units.
+(2)  A person who contracts with another person for that other person to carry out plumbing and drainage work in relation to premises, and who is not the owner of the premises, must, within the period prescribed by the regulations after receiving a copy of a certificate of compliance in relation to the work, give a copy of the certificate to the owner of the premises or the owner’s agent.
+Maximum penalty—100 penalty units.
+(3)  A certificate of compliance is a written document, in an approved form, that certifies that the plumbing and drainage work to which it relates is code compliant.
+(4)  For the purposes of this section, plumbing and drainage work is completed by a responsible person when the responsible person completes, in accordance with this Act, the whole of the plumbing and drainage work that the person was engaged to carry out and the period during which the plumbing and drainage work must be available for inspection by the plumbing regulator has ended.
+16   Supply of plans
+(1)  On completion of any part of plumbing and drainage work that consists of or includes carrying out work on a sanitary drainage system, the responsible person for the work must supply a plan of the work, in the approved form, to the following persons—
+(a)  the owner of the land or the owner’s agent,
+(b)  the plumbing regulator.
+Maximum penalty—100 penalty units.
+(2)  If a person prepares a plan of a sanitary drainage system other than under subsection (1) the person must supply a copy of the plan, in the approved form, to the following persons—
+(a)  the owner of the land or the owner’s agent,
+(b)  the plumbing regulator.
+Maximum penalty—100 penalty units in the case of an individual or 200 penalty units in the case of a corporation.
+(3)  A requirement to supply a plan or a copy of a plan to the plumbing regulator under this section may be satisfied by supplying the plan or copy to a local council of the area, a joint organisation of the joint organisation area, or county council of the area of operations, in which the sanitary drainage system is located, if the plumbing regulator has delegated its functions under this section to that local council, joint organisation or county council.
+(4)  A plan or a copy of a plan required to be supplied to the owner of the land or the owner’s agent under this section is required to be supplied no later than as prescribed by the regulations.
+(4A)  A plan or a copy of a plan required to be supplied to the plumbing regulator under this section is required to be supplied—
+(a)  if a physical inspection of the plumbing and drainage work has been conducted—on the completion of the work, or
+(b)  in any other case—no later than as prescribed by the regulations after completing the work.
+(5)  In this section, a plan of a sanitary drainage system includes a sewer service diagram or similar instrument.
+Division 5 Miscellaneous
+17   Obligation to prevent threats to public health or safety
+(1)  The owner or occupier of land who has control of a plumbing installation or a sanitary drainage system must take all reasonable steps to ensure the plumbing installation or sanitary drainage system does not threaten public health or safety.
+Maximum penalty—100 penalty units in the case of an individual or 200 penalty units in the case of a corporation.
+(2)  This section applies only to a plumbing installation or sanitary drainage system the construction of which would constitute plumbing and drainage work.
+18   Exemptions
+(1)  The regulations may exempt the following from any specified provision or provisions of this Part—
+(a)  specified kinds of plumbing and drainage works,
+(b)  specified persons or classes of persons.
+(2)  An exemption has effect subject to any conditions specified in the regulations.
+Part 3 Plumbing regulator
+19   Functions of plumbing regulator
+The plumbing regulator has the following functions—
+(a)  monitoring compliance with this Act,
+(b)  ensuring that any plumbing and drainage work carried out does not threaten public health or safety,
+(c)  any other functions conferred or imposed on the plumbing regulator by this Act.
+20   Authorisation of fittings used for plumbing and drainage work
+(1)  The plumbing regulator may, by order published in the Gazette, give directions as to the fittings that may be used in plumbing and drainage work (either by specifying fittings that may be used or specifying fittings that are not to be used).
+(2)  A direction may—
+(a)  apply generally or be limited in its application by reference to specified exceptions or factors, or
+(b)  apply differently according to different factors of a specified kind.
+(3)  For the purposes of this Act, a fitting is an authorised fitting in relation to plumbing and drainage work only if its use in the plumbing and drainage work concerned does not contravene a direction made by the plumbing regulator that is in force under this section.
+21   Delegation
+(1)  The plumbing regulator may delegate any of the plumbing regulator’s functions under this Act, other than this power of delegation, to—
+(a)  a local council, joint organisation or county council, or
+(b)  any other person whom the regulator considers has the necessary skills, knowledge or experience to exercise the function.
+(2)  A local council, joint organisation or county council may subdelegate any function delegated to it by the plumbing regulator to—
+(a)  the general manager of the council or executive officer of the joint organisation, or
+(b)  a person engaged as a contractor by the council or joint organisation whom the council or joint organisation considers has the necessary skills, knowledge or experience to exercise the function.
+Part 4 Inspection and enforcement powers
+Division 1 Appointment of inspectors and enforcement officers
+22   Appointment of inspectors
+(1)  The plumbing regulator may appoint persons as inspectors for the purposes of this Act.
+(2)  A person is eligible for appointment as an inspector only if the person is—
+(a)  a member of the Government Service, or
+(b)  an officer or employee of a local council, joint organisation or county council, or
+(c)  a person, or an officer or employee of a person, to whom the functions of the plumbing regulator have been delegated under this Act, or
+(d)  an investigator under the Fair Trading Act 1987.
+(3)  An inspector is an authorised person for the purposes of this Act.
+23   Appointment of enforcement officers
+(1)  The plumbing regulator may appoint persons as enforcement officers for the purposes of this Act.
+(2)  A person is eligible for appointment as an enforcement officer only if the person is—
+(a)  a member of the Government Service, or
+(b)  an officer or employee of a local council, joint organisation or county council, or
+(c)  an investigator under the Fair Trading Act 1987.
+(3)  An enforcement officer is an authorised person for the purposes of this Act.
+24   Identification card
+(1)  The plumbing regulator is to issue each authorised person with an identification card as an authorised person.
+(2)  An identification card must—
+(a)  state that it is issued under this Act, and
+(b)  state the name of the person to whom it is issued, and
+(c)  include a photograph of the person to whom it is issued, and
+(d)  indicate whether the authorised person is an inspector or an enforcement officer, and
+(e)  state the date (if any) on which it expires, and
+(f)  describe the powers conferred on the authorised person, and
+(g)  describe the kind of premises to which the power extends, and
+(h)  bear the signature of the plumbing regulator or the delegate of the plumbing regulator.
+(3)  A power conferred by this Part to enter premises, or to make an inspection or take other action on premises, may not be exercised unless the person proposing to exercise the power—
+(a)  is in possession of the identification card issued to the authorised person, and
+(b)  produces the identification card if required to do so by the owner or occupier of the premises.
+25   Purposes for which powers can be exercised
+A power conferred on an authorised person by this Part may be exercised for the following purposes only—
+(a)  for determining whether there has been compliance with or a contravention of this Act or the regulations,
+(b)  to enable or assist the plumbing regulator to exercise any of its functions under this Act,
+(c)  generally for administering this Act.
+Division 2 Powers of inspectors
+26   Power of entry
+An inspector may enter any premises at any time, but only with the consent of the occupier of the premises.
+27   Inspection powers
+An inspector who enters premises under this Division may with the consent of the occupier—
+(a)  inspect the premises and any article, matter or thing on the premises related to plumbing and drainage work, and
+(b)  for the purpose of an inspection, open any ground, remove any flooring and take such measures as may be necessary to ascertain the character and condition of the premises and of any pipe, sewer, drain or fitting, and
+(c)  take measurements, make surveys and take levels and, for those purposes, dig trenches, break up the soil and set up any posts, stakes or marks, and
+(d)  take samples or photographs in connection with any inspection, and
+(e)  take into or onto the premises any persons, equipment and materials the inspector reasonably requires for exercising a function under this Part.
+28   Obstruction of inspector
+(1)  A person must not, without reasonable excuse, hinder or obstruct an inspector in the exercise of a function under this Division.
+Maximum penalty—100 penalty units in the case of an individual or 200 penalty units in the case of a corporation.
+(2)  A person is not guilty of an offence under this section unless it is established that, if requested to do so at the material time, the inspector produced for inspection the identification card issued to the inspector under this Part.
+Division 3 Powers of enforcement officers
+29   Power of entry
+(1)  An enforcement officer may enter any premises—
+(a)  at a reasonable hour in the daytime, or
+(b)  at an hour during which business is in progress or is usually carried on at the premises.
+(2)  This section does not limit the power of an enforcement officer to enter premises under the authority conferred by a search warrant or with the consent of the occupier.
+30   Entry of residence
+An enforcement officer cannot enter any part of any premises being used for residential purposes except—
+(a)  with the consent of the occupier of that part of the premises, or
+(b)  under the authority conferred by a search warrant.
+31   Notice of entry
+(1)  Before an enforcement officer enters premises under this Division, the plumbing regulator must give the owner or occupier of the premises written notice of the intention to enter the premises.
+(2)  The notice must specify the day on which the enforcement officer intends to enter the premises and must be given before that day.
+(3)  This section does not require notice to be given—
+(a)  in the case of premises that are not being used for residential purposes—if entry to the premises is made with the consent of the owner or occupier of the premises, or
+(b)  if entry to the premises is made for the purposes of carrying out an inspection of plumbing and drainage work under Division 3 of Part 2 and the plumbing regulator has advised the responsible person for the work that it will be carrying out the inspection, or
+(c)  if entry is required urgently and the case is one in which the plumbing regulator has authorised in writing (either generally or in a particular case) entry without notice, or
+(d)  if entry is made under the authority conferred by a search warrant.
+(4)  To avoid doubt, this section does not confer power to enter premises being used for residential purposes otherwise than with the consent of the occupier or under the authority conferred by a search warrant.
+32   Use of force
+(1)  Reasonable force may be used for the purpose of gaining entry to premises (other than residential premises) under a power conferred by this Part, but only if authorised by the plumbing regulator in accordance with this section.
+(2)  The authority of the plumbing regulator—
+(a)  must be in writing, and
+(b)  must be given in respect of the particular entry concerned, and
+(c)  must specify the circumstances which are required to exist before force may be used.
+(3)  This section does not apply to premises entered under the authority conferred by a search warrant.
+33   Notification of use of force or urgent entry
+(1)  An enforcement officer must promptly advise the plumbing regulator if the enforcement officer—
+(a)  uses force for the purpose of gaining entry to the premises, or
+(b)  enters the premises in an emergency without giving written notice to the owner or occupier.
+(2)  The plumbing regulator must give notice of the entry to such persons or authorities as appear to the regulator to be appropriate in the circumstances.
+34   Inspections and investigations
+An enforcement officer who enters premises under this Division may—
+(a)  inspect the premises and any article, matter or thing on the premises related to plumbing and drainage work, and
+(b)  for the purpose of an inspection—
+(i)  open any ground, remove any flooring and take such measures as may be necessary to ascertain the character and condition of the premises and of any pipe, sewer, drain or fitting, and
+(ii)  require the opening, cutting into or pulling down of any work if the enforcement officer has reason to believe or suspect that anything on the premises has been done in contravention of this Act or the regulations, and
+(c)  take measurements, make surveys and take levels and, for those purposes, dig trenches, break up the soil and set up any posts, stakes or marks, and
+(d)  take samples or photographs in connection with any inspection, and
+(e)  take into or onto the premises any persons, equipment and materials the enforcement officer reasonably requires for exercising a function under this Division, and
+(f)  require any person at the premises to give the enforcement officer reasonable help to exercise the enforcement officer’s functions under paragraphs (a)–(e), and
+(g)  require any person at the premises to answer questions or otherwise furnish information in relation to the matter that is the subject of the inspection or investigation.
+35   Search warrants
+(1)  An enforcement officer may apply to an authorised warrants officer for a search warrant if the enforcement officer has reasonable grounds for believing that the provisions of this Act or the regulations have been or are being contravened in or on any premises.
+(2)  An authorised warrants officer to whom such an application is made may, if satisfied that there are reasonable grounds for doing so, issue a search warrant authorising an enforcement officer named in the warrant—
+(a)  to enter the premises, and
+(b)  to search the premises for evidence of a contravention of this Act or the regulations.
+(3)  Division 4 of Part 5 of the Law Enforcement (Powers and Responsibilities) Act 2002 applies to a search warrant issued under this section.
+(4)  Without limiting the generality of section 71 of the Law Enforcement (Powers and Responsibilities) Act 2002, a police officer—
+(a)  may accompany an enforcement officer executing a search warrant issued under this section, and
+(b)  may take all reasonable steps to assist the enforcement officer in the exercise of the officer’s functions under this section.
+(5)  In this section—
+authorised warrants officer means an authorised officer within the meaning of the Law Enforcement (Powers and Responsibilities) Act 2002.
+36   Obstruction of enforcement officer
+(1)  A person must not, without reasonable excuse—
+(a)  hinder or obstruct an enforcement officer in the exercise of a function under this Division, or
+(b)  fail to comply with any requirement made by an enforcement officer under this Division.
+Maximum penalty—100 penalty units in the case of an individual or 200 penalty units in the case of a corporation.
+(2)  A person is not guilty of an offence under this section unless it is established that, if requested to do so at the material time, the enforcement officer produced for inspection the enforcement officer’s identification card issued under this Part.
+(3)  A person is not guilty of an offence of failing to comply with a requirement made by an enforcement officer under this Division unless the person was warned on that occasion that a failure to comply with the requirement may constitute an offence.
+Division 4 General
+Note—
+Both inspectors and enforcement officers are authorised persons for the purposes of this Act.
+37   Care to be taken
+(1)  In the exercise of a function under this Part, an authorised person must do as little damage as possible.
+(2)  The plumbing regulator must provide, if necessary, other means of access in place of any access taken away or interrupted by an authorised person.
+(3)  As far as practicable, entry on to fenced land is to be made through an existing opening in the enclosing fence.
+(4)  If entry through an existing opening is not practicable, a new opening may be made in the enclosing fence, but the plumbing regulator is to fully restore the fence when the need for entry ceases.
+(5)  If, in the exercise of a function under this Part, any pit, trench, hole or bore is made, the plumbing regulator must—
+(a)  fence it and keep it securely fenced so long as it remains open or not sufficiently sloped down, and
+(b)  without unnecessary delay, fill it up or level it or sufficiently slope it down.
+(6)  For the purposes of complying with the plumbing regulator’s duty under subsection (4) or (5), the plumbing regulator may, by written notice given to the responsible person for the plumbing and drainage work that is the subject of the inspection, require the responsible person to carry out the work referred to in that subsection.
+(7)  The responsible person must not, without reasonable excuse, fail to comply with the written notice.
+Maximum penalty—100 penalty units.
+38   Recovery of costs of entry and inspection
+If an authorised person enters premises under this Part for the purpose of making an inspection and as a result of that inspection, under a power conferred on the plumbing regulator, the regulator requires any work to be carried out on or in the premises, the plumbing regulator may recover the reasonable costs of the entry and inspection from—
+(a)  the owner or occupier of the premises, or
+(b)  the responsible person for the plumbing and drainage work that is the subject of the inspection.
+Part 5 Criminal and other proceedings
+39   Appeals to Land and Environment Court against certain directions of plumbing regulator
+A person may appeal to the Land and Environment Court against a direction given to the person by the plumbing regulator under section 14.
+40   Injunctions
+(1)  If, on the application of the Minister, the plumbing regulator or any other person, the Land and Environment Court is satisfied that a person has engaged, or is proposing to engage, in plumbing and drainage work that constitutes or would constitute a serious risk to public health or safety or a serious risk to the public, the Court may grant an injunction in the terms the Court considers appropriate.
+(2)  If an application for an injunction under subsection (1) has been made, the Land and Environment Court may, if the Court considers it appropriate, grant an injunction by consent of all the parties to the proceedings, whether or not the Court is satisfied a person has engaged, or is proposing to engage, in conduct of a kind specified in subsection (1).
+(3)  If in the opinion of the Land and Environment Court it is desirable to do so, the Court may grant an injunction pending determination of an application under subsection (1).
+(4)  The Land and Environment Court may rescind or vary an injunction granted under subsection (1), (2) or (3).
+(5)  The power of the Land and Environment Court to grant an injunction restraining a person from engaging in conduct may be exercised—
+(a)  whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind, and
+(b)  whether or not the person has previously engaged in conduct of that kind, and
+(c)  whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
+(6)  The power of the Land and Environment Court to grant an injunction requiring a person to do an act or thing may be exercised—
+(a)  whether or not it appears to the Court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing, and
+(b)  whether or not the person has previously refused or failed to do that act or thing, and
+(c)  whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person refuses or fails to do that act or thing.
+(7)  If the Minister or the plumbing regulator makes an application to the Land and Environment Court for the grant of an injunction under this section, the Court must not require the applicant or any other person, as a condition of granting an interim injunction, to give any undertaking as to damages or costs.
+(8)  If—
+(a)  in a case to which subsection (7) does not apply, the Land and Environment Court would, but for this subsection, require a person to give an undertaking as to damages or costs, and
+(b)  the Minister gives the undertaking,
+the Court must accept the undertaking by the Minister and must not require a further undertaking from any other person.
+41   Penalty notices
+(1)  An enforcement officer may issue a penalty notice to a person if it appears to the officer that the person has committed a penalty notice offence.
+(2)  A penalty notice offence is an offence against this Act or the regulations that is prescribed by the regulations as a penalty notice offence.
+(3)  The Fines Act 1996 applies to a penalty notice issued under this section.
+Note—
+The Fines Act 1996 provides that, if a person issued with a penalty notice does not wish to have the matter determined by a court, the person may pay the amount specified in the notice and is not liable to any further proceedings for the alleged offence.
+(4)  The amount payable under a penalty notice issued under this section is the amount prescribed for the alleged offence by the regulations (not exceeding the maximum amount of penalty that could be imposed for the offence by a court).
+(5)  This section does not limit the operation of any other provision of, or made under, this or any other Act relating to proceedings that may be taken in respect of offences.
+42   Proceedings for offences
+(1)  Proceedings for an offence against this Act are to be dealt with—
+(a)  summarily before the Local Court, or
+(b)  summarily before the Land and Environment Court in its summary jurisdiction.
+(2)  Proceedings for an offence against the regulations are to be dealt with summarily before the Local Court.
+(3)  Proceedings for an offence against this Act or the regulations must be commenced within 3 years after the commission of the offence.
+42A   Continuing offences
+(1)  A person who is guilty of an offence because the person contravenes a requirement made by or under this Act or the regulations (whether the requirement is imposed by a notice or otherwise) to do or cease to do something (whether or not within a specified period or before a particular time)—
+(a)  continues, until the requirement is complied with and despite the fact that any specified period has expired or time has passed, to be liable to comply with the requirement, and
+(b)  is guilty of a continuing offence for each day the contravention continues.
+(2)  This section does not apply to an offence if the relevant provision of this Act or the regulations does not provide for a penalty for a continuing offence.
+(3)  This section does not apply to the extent that a requirement of a notice is revoked.
+43   Effect of criminal proceedings on civil proceedings
+(1)  Prosecution or conviction of a person for an act or omission that is an offence against this Act does not affect any right of the plumbing regulator to take civil proceedings or any other action to recover from the person—
+(a)  an amount in respect of loss or damage caused by the act or omission, or
+(b)  the expenses incurred by the plumbing regulator in remedying the loss or damage.
+(2)  Payment of a penalty for an offence against this Act does not affect any right of the plumbing regulator to institute any other action or proceeding.
+Part 6 Miscellaneous
+44   Aiding and abetting
+A person who—
+(a)  aids, abets, counsels or procures a person to commit, or
+(b)  induces or attempts to induce a person, whether by threats or promises or otherwise, to commit, or
+(c)  is in any way, directly or indirectly, knowingly concerned in, or party to, the commission by a person of, or
+(d)  conspires with another to commit,
+an offence against this Act or the regulations is guilty of the same offence and liable to be punished accordingly.
+45   Offence to provide false or misleading documents
+A person must not, in a document the person is required to provide by this Act, include information the person knows, or could reasonably be expected to have known, to be false or misleading in a material particular.
+Maximum penalty—100 penalty units in the case of an individual or 200 penalty units in the case of a corporation.
+46   Disclosure of information
+A person must not disclose information obtained in connection with the administration or execution of this Act unless the disclosure is made—
+(a)  with the consent of the person from whom the information was obtained, or
+(b)  in connection with the administration or execution of this Act, or
+(c)  for the purposes of any legal proceedings arising out of this Act or of any report of any such proceedings, or
+(d)  in accordance with a requirement imposed under the Ombudsman Act 1974, or
+(e)  with other lawful excuse.
+Maximum penalty—20 penalty units.
+47   Certain information may be provided to and by plumbing regulator
+(1)  The plumbing regulator is authorised to provide information obtained in connection with the administration of this Act—
+(a)  to a local council, joint organisation or county council if the council or joint organisation considers the provision of the information is necessary to enable the council or joint organisation to exercise its functions (whether under this Act or otherwise), or
+(b)  to a network utility operator if the network utility operator considers the provision of the information is necessary to enable the operator to exercise its functions, or
+(c)  to the Ministry of Health if the Ministry considers the provision of the information is necessary to prevent, or otherwise relates to, a risk to public health.
+(2)  A local council, joint organisation, county council or network utility operator is authorised to provide information to the plumbing regulator if the plumbing regulator considers the provision of the information is necessary to enable the plumbing regulator to exercise the plumbing regulator’s functions under this Act.
+(3)  Information may be provided in accordance with this section despite any prohibition in, or the need to comply with any requirement of, any Act or law, including the Privacy and Personal Information Protection Act 1998.
+48   Exclusion of liability
+(1)  A protected person is not personally liable for anything done or omitted to be done in good faith—
+(a)  in the exercise of a function under this Act, or
+(b)  in the reasonable belief that the act or omission was in the exercise of a function under this Act.
+(2)  In this section—
+protected person means any of the following—
+(a)  the plumbing regulator,
+(b)  an authorised person,
+(c)  a person (other than a local council, joint organisation or county council) to whom the plumbing regulator has delegated functions under this Act.
+49   Continuing effect of directions
+(1)  A direction given under this Act or the regulations that specifies a time by which, or period within which, the direction must be complied with continues to have effect until the direction is complied with even if the time has passed or the period has expired.
+(2)  A direction that does not specify a time by which, or period within which, the direction must be complied with continues to have effect until the direction is complied with.
+(3)  This section does not apply to the extent that any requirement under a direction is revoked.
+(4)  The fact that a direction is taken to continue to have effect under this section does not operate to excuse a person for a failure to comply with the direction within the time or period specified in the direction.
+50   Evidentiary certificates
+A certificate purporting to be signed by the plumbing regulator and certifying any of the following is prima facie evidence of the matters certified—
+(a)  that a stated document is an appointment made under this Act,
+(b)  that a stated document is a notice, direction or requirement given under this Act,
+(c)  that a stated document is a copy of a document referred to in paragraph (a) or (b),
+(d)  that on a stated day, or during a stated period, an appointment as an authorised person was or was not in force for a stated period.
+51   Service of notices and directions
+(1)  A notice or direction in writing that is required or permitted to be given under this Act may be given—
+(a)  to a person other than a corporation—
+(i)  by giving it to the person personally, or
+(ii)  by leaving it at the person’s place of residence with someone who apparently resides there and has apparently reached the age of 16 years, or
+(iii)  by leaving it at the person’s place of employment or business with someone who is apparently employed there and has apparently reached the age of 16 years, or
+(iv)  by posting it in a letter addressed to the person at the address last known to the plumbing regulator of the person’s place of residence, employment or business, or
+(v)  by email to an email address specified by the person for the service of notices or directions of that kind, or
+(vi)  by any other method authorised by the regulations for the service of notices or directions of that kind, or
+(b)  to a corporation—
+(i)  by giving it to the secretary of the corporation, or any other person concerned in the management of the corporation, personally, or
+(ii)  by leaving it at the corporation’s only or principal place of business with someone who is apparently employed there and has apparently reached the age of 16 years, or
+(iii)  by posting it in a letter addressed to the corporation at the address last known to the plumbing regulator of its only or principal place of business, or
+(iv)  by email to an email address specified by the corporation for the service of notices or directions of that kind, or
+(v)  by any other method authorised by the regulations for the service of notices or directions of that kind.
+(2)  Nothing in this section affects the operation of any provision of a law or of the rules of a court authorising a document to be served on a person in any other manner.
+52   Regulations
+(1)  The Governor may make regulations, not inconsistent with this Act, for or with respect to any matter that by this Act is required or permitted to be prescribed or that is necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+(2)  Without limiting subsection (1), the regulations may make provision for or with respect to—
+(a)  the fees payable under this Act, and
+(b)  the requirements for carrying out plumbing and drainage work.
+(3)  For the purposes of subsection (2) (a), if functions of the plumbing regulator have been delegated to local councils, joint organisations or county councils the regulations may provide—
+(a)  that the councils or joint organisations may set fees for exercising the functions, and
+(b)  for the methodology or factors to be used by the councils or joint organisations in setting the fees, including maximum fees that may be charged for exercising the functions.
+(4)  The regulations may create offences punishable by a penalty not exceeding 20 penalty units.
+53   Review of Act
+(1)  The Minister is to review this Act to determine whether the policy objectives of the Act remain valid and whether the terms of the Act remain appropriate for securing those objectives.
+(2)  The review is to be undertaken as soon as possible after the period of 2 years from the date of assent to this Act.
+(3)  A report on the outcome of the review is to be tabled in each House of Parliament within 12 months after the end of the period of 2 years.
+Schedule 1 Savings, transitional and other provisions
+Part 1 General
+1   Regulations
+(1)  The regulations may contain provisions of a savings or transitional nature consequent on the enactment of the following Acts—
+this Act
+(2)  Any such provision may, if the regulations so provide, take effect from the date of assent to the Act concerned or a later date.
+(3)  To the extent to which any such provision takes effect from a date that is earlier than the date of its publication on the NSW legislation website, the provision does not operate so as—
+(a)  to affect, in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the date of its publication, or
+(b)  to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of its publication.
+Part 2 Provisions consequent on enactment of this Act
+2   Staged commencement
+(1)  The regulations may prescribe a date as the start date for a provision of this Act, or of the regulations, in a relevant utility area.
+(2)  Different start dates may be prescribed for different utility areas and for different provisions.
+(3)  A provision of this Act, or the regulations, does not apply to plumbing and drainage work carried out in a relevant utility area until the date prescribed by the regulations as the start date for that provision in that area.
+(4)  Subclauses (1)–(3) do not apply in respect of any of the following provisions which, accordingly, apply to plumbing and drainage work carried out in a relevant utility area on the date of commencement of the provision concerned—
+(a)  Division 1 of Part 2,
+(b)  Part 6,
+(c)  this Schedule,
+(d)  a provision of this Act, or the regulations, to the extent that it relates to a provision referred to in paragraphs (a)–(c) (in particular, Part 1 and sections 18 and 20).
+(5)  A reference elsewhere in this Part to the commencement of a provision of this Act, in relation to plumbing and drainage work carried out in a relevant utility area, is to be read as a reference to the beginning of the day on which the provision first applies to plumbing and drainage work in that relevant utility area.
+(6)  The regulations under Part 1 may make further provision with respect to the operation of this Act, the regulations or any amendments made by this Act in a relevant utility area.
+(7)  In this clause—
+relevant utility area means any area other than the following—
+(a)  an area that, immediately before the commencement of this clause, was within the area of operations of the Sydney Water Corporation,
+(b)  an area that, immediately before the commencement of this clause, was within the area of operations of a licensed network operator under the Water Industry Competition Act 2006.
+3   Requirements with respect to plumbing and drainage work in other laws
+(1)  On and from the commencement of section 7, a requirement made by or under a relevant law that plumbing and drainage work comply with a specified standard is to be read, in relation to plumbing and drainage work to which this Act applies, as a requirement that the plumbing and drainage work be code compliant.
+(2)  On and from the commencement of section 8, a requirement made by or under a relevant law that fittings approved by a network utility operator be used in plumbing and drainage work is to be read, in relation to plumbing and drainage work to which this Act applies, as a requirement that authorised fittings be used in the work.
+(3)  In this clause—
+relevant law means an Act or statutory instrument declared by the regulations under the Home Building Act 1989 to be an Act or statutory instrument that regulates plumbing work.
+4   Act applies to all work carried out after commencement
+A provision of this Act applies to plumbing and drainage work carried out after the commencement of the provision concerned, even if it was started before that commencement.
+5   Work started before commencement
+(1)  Plumbing and drainage work carried out before the commencement of section 7 that, at the time that it was carried out, complied with the Plumbing and Drainage Code of Practice as in force at that time is taken, on that commencement, to be code compliant.
+(2)  A fitting used in plumbing and drainage work carried out before the commencement of section 8 that, at the time that it was carried out, was a fitting that could lawfully be used in the work concerned is taken, on that commencement, to be an authorised fitting in relation to that particular work.
+(3)  In this clause—
+Plumbing and Drainage Code of Practice means the code of practice published by the Committee on Uniformity of Plumbing and Drainage in New South Wales under the title New South Wales Code of Practice—Plumbing and Drainage.
+6   Work for which permit has been issued
+Plumbing and drainage work carried out after the commencement of section 9 that is carried out by a person specifically authorised to carry out the work by a permit issued under the Local Government Act 1993 or any other Act before the commencement of that section is taken to have been pre-notified if—
+(a)  it was started before the commencement of section 9, or
+(b)  it is started within 3 months after the date the permit is issued.
+Schedules 2, 3 (Repealed)

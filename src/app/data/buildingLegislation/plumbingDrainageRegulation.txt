@@ -1,0 +1,174 @@
+Part 1 Preliminary
+1   Name of Regulation
+This Regulation is the Plumbing and Drainage Regulation 2017.
+2   Commencement
+This Regulation commences on 1 September 2017 and is required to be published on the NSW legislation website.
+Note.
+This Regulation replaces the Plumbing and Drainage Regulation 2012, which is repealed on 1 September 2017 by section 10 (2) of the Subordinate Legislation Act 1989.
+3   Definitions
+(1)  In this Regulation—
+business day means a day that is not a Saturday, Sunday or public holiday.
+the Act means the Plumbing and Drainage Act 2011.
+Note.
+The Act and the Interpretation Act 1987 contain definitions and other provisions that affect the interpretation and application of this Regulation.
+(2)    (Repealed)
+(3)  Notes included in this Regulation do not form part of this Regulation.
+Part 2 Periods for giving notices, certificates of compliance and plans of work
+4   (Repealed)
+5   Notices of emergency work
+For the purposes of section 10 (3) of the Act, the period within which notice of emergency work must be given is the period of 5 business days after the work is carried out.
+6   Notices of defective installations or systems
+For the purposes of section 11 (1) and (2) of the Act, the period within which notice of any defective installation or system must be given is the period of 2 business days after the responsible person becomes aware of the defective installation or system.
+7   Notifications that work will be ready for inspection
+For the purposes of section 13 (1) of the Act, the period after plumbing and drainage work is completed within which the plumbing regulator must be notified that the work will be ready for inspection is the period of 2 business days after the work is completed.
+8   Certificates of compliance
+(1)  For the purposes of section 15 (1) (a) (ii) and (b) of the Act, the period within which a certificate of compliance for plumbing and drainage work or a copy of the certificate must be given is—
+(a)  the period of 2 business days after the work is completed, or
+(b)  if the plumbing and drainage work is not inspected by the plumbing regulator in the period during which the work must be available for inspection by the plumbing regulator (as required by section 13 of the Act), the period of 7 business days after the work is completed.
+(2)  For the purposes of section 15 (2) of the Act, the period within which a copy of a certificate of compliance for plumbing and drainage work must be given is the period of 7 business days after the person who is required under that subsection to give the copy of the certificate receives the copy.
+9   Plans of work involving sanitary drainage systems
+For the purposes of section 16 (4) and (4A) (b) of the Act, a plan of work, or copy of a plan of work, is required to be supplied under that section no later than—
+(a)  2 business days after the work is completed, or
+(b)  if the plumbing and drainage work concerned is not inspected by the plumbing regulator in the period during which the work must be available for inspection by the plumbing regulator (as required by section 13 of the Act), 7 business days after the work is completed.
+Part 3 Miscellaneous
+10   Additional requirements for proposed performance solutions
+(1)  This clause applies to plumbing and drainage work that involves a proposed performance solution.
+(2)  The responsible person for plumbing and drainage work to which this clause applies must give the following documents and information to the plumbing regulator at the same time as the person gives to the plumbing regulator the relevant notice of work under section 9 of the Act—
+(a)  written confirmation from the person for whom the work is to be carried out indicating that the person is aware that a performance solution is proposed to be used,
+(b)  in the case of plumbing and drainage work in respect of an installation that connects directly or indirectly with a network utility operator’s water supply system or network utility operator’s wastewater or sewerage system, a copy of the consent in writing of the network utility operator to the use of the performance solution,
+(c)  evidence of the suitability of the proposed performance solution in accordance with the Plumbing Code of Australia, A2G2.
+Maximum penalty—20 penalty units.
+(3)  A person who contracts with another person for that other person to carry out plumbing and drainage work to which this clause applies in relation to premises, and who is not the owner of the premises, must, within 5 business days after giving the written confirmation referred to in subclause (2) (a) to the responsible person concerned, give a copy of the written confirmation to the owner of the premises or the owner’s agent.
+Maximum penalty—20 penalty units.
+(4)  The plumbing regulator may, not later than 15 business days after receiving a notice of work under section 9 of the Act in relation to plumbing and drainage work to which this clause applies, give the responsible person for the work a notice in writing requiring the responsible person to provide such of the following documents and information to the plumbing regulator as the plumbing regulator specifies in the notice within the time specified in the notice—
+(a)  expert assessments of a type specified in the notice in relation to the proposed performance solution,
+(b)  information of a type specified in the notice in relation to the qualifications of experts whose advice on the proposed performance solution was relied on by the responsible person,
+(c)  information of a type specified in the notice as to the design and suitability of the proposed performance solution.
+(5)  The responsible person for plumbing and drainage work to which this clause applies who receives a notice under subclause (4) must comply with the notice.
+Maximum penalty—20 penalty units.
+11   Exemptions for minor works relating to notices of work, notifications that work will be ready for inspection and certificates of compliance
+The following plumbing and drainage work is exempt from the operation of sections 9, 13 and 15 of the Act—
+(a)  tap ware replacements,
+(b)  kitchen, laundry or bathroom renovations, or replacement of fixtures such as sinks, toilets, basins and bidets, so long as no plumbing has been changed (that is, the location of the fixtures has not changed),
+(c)  replacement of a hot water unit,
+(d)  plumbing and drainage work to access a sewer line through an inspection opening or similar opening (including, for example, digging and exposing a sewer line and opening a section of a sewer line), but only if the work is for the purpose of preparing a sewer service diagram and no other plumbing and drainage work is undertaken.
+Note.
+All the provisions of the Act (other than sections 9, 13 and 15) still apply to the plumbing and drainage work specified in clause 11, for example, sections 6 (Plumbing and drainage work to be carried out only by authorised persons), 7 (Plumbing and drainage work to comply with certain standards) and 16 (Supply of plans).
+12   Exemptions for employees of network utility operators
+(1)  An individual is exempt from the requirements of the provisions of Part 2 of the Act (except sections 6 and 7) in relation to plumbing and drainage work if—
+(a)  the individual is an employee or contractor of a network utility operator, and
+(b)  the work was incidental to other work that was not plumbing and drainage work and was carried out in the course of the individual’s normal duties as an employee for the network utility operator or in the course of the work that the individual was contracted to do for the network utility operator.
+(2)  Nothing in this clause exempts an owner or occupier of land who has control of a plumbing installation or a sanitary drainage system from the requirements of section 17 of the Act.
+13   Fees
+(1)  The fees payable for inspections of plumbing and drainage work by the plumbing regulator are set out in Schedule 1.
+(2)  The plumbing regulator may waive, reduce or refund payment of (or postpone the requirement to pay) any fee, or part of any fee, set out in Schedule 1.
+(3)  A local council or county council may set fees for exercising the functions of the plumbing regulator delegated to the local council or county council.
+14   Savings
+Any act, matter or thing that, immediately before the repeal of the Plumbing and Drainage Regulation 2012, had effect under that Regulation continues to have effect under this Regulation.
+Schedule 1 Fees
+(Clause 13 (1))
+Part 1 Fees payable
+Item
+Service provided
+Fee (in fee units)
+1
+Inspection by plumbing regulator of plumbing and drainage work (or documents in the possession of the plumbing regulator in connection with the plumbing and drainage work) on a—
+(a)  weekend, or
+(b)  public holiday, or
+(c)  week day before 8 am or after 4 pm
+8.54
+2
+Initial inspection by plumbing regulator of plumbing and drainage work (or documents in the possession of the plumbing regulator in connection with the plumbing and drainage work) involving performance solution
+2.54
+3
+Additional inspection by plumbing regulator of plumbing and drainage work (or documents in the possession of the plumbing regulator in connection with the plumbing and drainage work) involving performance solution
+1.51
+4
+Inspection by plumbing regulator of plumbing and drainage work (or documents in the possession of the plumbing regulator in connection with the plumbing and drainage work) not covered elsewhere in this Schedule
+1.03
+Part 2 Adjustment of fees for inflation
+1   Definitions
+In this Part—
+CPI number means the Consumer Price Index (All Groups Index) for Sydney published by the Australian Bureau of Statistics in the latest published series of that index.
+financial year means a period of 12 months commencing on 1 July.
+2   Calculation of fee unit for purposes of Regulation
+(1)  For the purposes of this Regulation, a fee unit is—
+(a)  in the financial year 2017–18—$100, and
+(b)  in each subsequent financial year—the amount calculated as follows—
+ 
+where—
+A is the CPI number for the March quarter in the financial year immediately preceding the financial year for which the amount is calculated.
+B is the CPI number for the March quarter of 2017.
+(2)  The amount of a fee unit is to be rounded to the nearest cent (and an amount of 0.5 cent is to be rounded down).
+(3)  However, if the amount of a fee unit calculated for any financial year is less than the amount that applied for the previous financial year, then the amount for that previous financial year applies instead.
+Editorial note.
+Fee unit amount calculated under this clause—
+Financial year
+Fee unit amount
+2018–19
+$102.07
+2019–20
+$103.41
+2020–21
+$105.48
+2021–22
+$106.47
+2022–23
+$111.14
+2023–24
+$119.23
+2024–25
+$123.72
+2025–26
+$126.59
+3   Rounding of fee amounts
+The amount of a fee calculated by reference to a fee unit is to be rounded to the nearest dollar (and an amount of 50 cents is to be rounded down).
+4   Notice of indexed fees
+(1)  As soon as practicable after the CPI number for the March quarter is first published by the Australian Statistician, the plumbing regulator is required to—
+(a)  notify the Parliamentary Counsel of the amount of the fee unit for the next financial year so that notice of that amount can be published on the NSW legislation website, and
+(b)  give public notice on an appropriate government website of the actual amounts of the fees applying in each financial year resulting from the application of the amount of a fee unit calculated under this Part.
+(2)  This Part operates to change an amount of a fee that is calculated by reference to a fee unit and that change is not dependent on the notification or other notice required by this clause.
+Schedule 2 Penalty notice offences
+For the purposes of section 41 of the Act—
+(a)  each offence specified in this Schedule is an offence for which a penalty notice may be issued, and
+(b)  the amount payable under any such penalty notice is the amount specified in this Schedule for the offence.
+Column 1
+Column 2
+Provision
+Penalty
+Offences under the Act
+Section 6 (1)
+$1,100
+Section 7 (1)
+$1,100
+Section 8
+$1,100
+Section 9 (1)
+$550
+Section 10 (3)
+$1,100
+Section 11 (1) or (2)
+$1,100
+Section 13 (1) or (5)
+$1,100
+Section 14 (2), in relation to an initial contravention
+$1,100
+Section 14 (2), in relation to a continuing offence, for each day the contravention continues
+$550
+Section 14 (3)
+$1,100
+Section 15 (1) or (2)
+$550
+Section 16 (1)
+$550
+Section 16 (2)
+$1,100 for an individual and $2,200 for a corporation
+Section 37 (7)
+$1,100
+Section 45
+$1,100 for an individual and $2,200 for a corporation
+Section 46
+$220
+Offences under this Regulation
+Clause 10 (2), (3) or (5)
+$220

@@ -12,15 +12,23 @@ const ai = new GoogleGenAI({
   apiKey: geminiApiKey,
 });
 
+// Load legislation text from file for prompt generation 
+const getLegislationText = (legislationKey) => {
+  try {
+    let legislationText = fs.readFileSync(
+      `src/app/data/buildingLegislation/${legislationKey}.txt`,
+      "utf8"
+    );
+    return legislationText;
+  }
+  catch (error) {
+    console.error("Error reading legislation file:", error);
+    return null;
+  }
+};
 
-let legislationText = fs.readFileSync(
-  "src/app/data/buildingLegislation/gasAndElectricityConsumerSafetyRegs.txt",
-  "utf8"
-);
-console.log("File content loaded.");
 
-//legislationText = "[Pretend there is text to some generic legislation here]"
-
+// Building the prompt for us to ask our questions about the legislation
 function buildLegislationPrompt(question, legislationText) {
   return `
 You are a careful legal analysis assistant. Your job is to read the legislation provided and check if it imposes any requirements based on the user's question.
@@ -44,6 +52,7 @@ ${legislationText}
 }
 
 
+// Function to call the Gemini API and send the prompt 
 const stageTwoAPICall = async (prompt) => {
   console.log("running gemini call, start");
   try {
@@ -72,31 +81,8 @@ const stageTwoAPICall = async (prompt) => {
       ]
     });
 
-    console.log("=== Full Response Object ===");
-    console.dir(result, { depth: null });
-
-    const candidate = result.candidates?.[0];
-    if (!candidate) {
-      console.log("No candidates returned!");
-      return;
-    }
-
-    console.log("\n=== Candidates Array ===");
-    console.dir(result.candidates, { depth: null });
-
-    console.log("\n=== First Candidate Content Keys ===");
-    console.log(Object.keys(candidate.content));
-
-    // Often the text is inside candidate.content[0].text or candidate.content.parts[0].text
-    let text;
-    if (Array.isArray(candidate.content)) {
-      text = candidate.content.map(p => p.text).join("\n");
-    } else if (candidate.content?.parts) {
-      text = candidate.content.parts.map(p => p.text).join("\n");
-    } else if (candidate.content?.text) {
-      text = candidate.content.text;
-    }
-
+    // Usually there is only one part, but just in case, idk
+    const text = result.candidates[0].content.parts.map(p => p.text).join("\n");
     console.log("\n=== Drilled AI Text ===");
     console.log(text);
 
@@ -108,6 +94,31 @@ const stageTwoAPICall = async (prompt) => {
 };
 
 
-// Call the API
-const examplePrompt = buildLegislationPrompt("What are the safety requirements for gas ovens?", legislationText);  
-stageTwoAPICall(examplePrompt);
+// Function to process all stage two requests
+export const processStageOneRequest = async (question, legislationKeyArray) => {
+  let allResponses = [];
+  console.log("Processing Stage Two Request... commenced");
+
+  // Make a call for each legislation called
+  legislationKeyArray.map(async (legislationKey) => {
+    let legislationText = getLegislationText(legislationKey);                           // Get legislation full text
+    if (!legislationText) { return `No legislation text found for ${legislationKey}` }  // Error handling if none
+    let prompt = buildLegislationPrompt(question, legislationText);                     // Build prompt
+    let response = await stageTwoAPICall(prompt);                                       // Call AI API
+    allResponses.push({ legislationKey, response });                                    // Save results
+  });
+
+  return allResponses;
+};
+
+
+// An example to call the API
+const legislationArrayForExample = ["gasAndElectricityConsumerSafetyRegs", "plumbingDrainageRegulation"];
+const questionForExample = "What are the safety requirements for gas ovens?";
+const stageTwoExampleResults = await processStageOneRequest(questionForExample, legislationArrayForExample);
+stageTwoExampleResults.map(result => {
+  console.log(`\n=== Results for ${result.legislationKey} ===`);
+  console.log(result.response);
+});
+
+
