@@ -60,9 +60,7 @@ export default function MainUserTextbox({ submitStageOneFunction, submitStageTwo
                 addStageTwoResponseForLegislation(response.legislationKey, response.response);
               });
               console.log("MainUserTextBoxComponent has stage two response in front end:", responseArray);
-              useEffect(() => {
-                console.log("Legislation list updated with stage two responses:", legislationList);
-              }, [legislationList]);
+              console.log("Legislation list updated with stage two responses:", legislationList);
             } catch (err) {
               console.error("MainUserTextBoxComponent has an error occurred while processing stage two request:", err);
             }

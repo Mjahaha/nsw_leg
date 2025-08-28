@@ -2,6 +2,8 @@
 import { useState } from 'react';
 import MainUserTextbox from './MainUserTextbox';
 import StageOneDisplay from './StageOneDisplay';
+import StageTwoThreeDisplay from './StageTwoThreeDisplay';
+
 
 export default function Body() {
   const [legislationList, setLegislationList] = useState([]);
@@ -52,7 +54,7 @@ export default function Body() {
 
   return (
     <main className={`flex transition-all duration-500 ${stageTwoCommenced ? 'flex-row' : 'flex-col'}`}>
-      <section className={`${stageTwoCommenced ? 'w-1/2' : ''}`}>
+      <section className={`${stageTwoCommenced ? 'w-2/5' : ''}`}>
         <div 
           className={legislationList.length > 0 ? 
           "flex flex-col items-center justify-center min-h-40 bg-black-50 p-8 pb-10" : 
@@ -76,8 +78,8 @@ export default function Body() {
         </div>
       </section>
       {stageTwoCommenced && (
-        <section className="flex flex-col p-8 w-1/2 border-l border-gray-300">
-          <h2 className="text-2xl font-bold mb-4">Stage Two Responses Placeholder</h2>
+        <section className="flex flex-col p-8 w-3/5 border-l border-gray-300">
+          <StageTwoThreeDisplay legislationList={legislationList} />
         </section>
       )}
     </main>
