@@ -96,27 +96,31 @@ const stageTwoAPICall = async (prompt) => {
 
 // Function to process all stage two requests
 export const processStageTwoRequest = async (question, legislationKeyArray) => {
-  let allResponses = [];
   console.log("Processing Stage Two Request... commenced");
 
-  // Make a call for each legislation called
-  legislationKeyArray.map(async (legislationKey) => {
-    let legislationText = getLegislationText(legislationKey);                           // Get legislation full text
-    if (!legislationText) { return `No legislation text found for ${legislationKey}` }  // Error handling if none
-    let prompt = buildLegislationPrompt(question, legislationText);                     // Build prompt
-    let response = await stageTwoAPICall(prompt);                                       // Call AI API
-    allResponses.push({ legislationKey, response });                                    // Save results
-  });
+  const collectAllResponses = await Promise.all(
+    legislationKeyArray.map(async (legislationKey) => {
+      let legislationText = getLegislationText(legislationKey);             // Get legislation full text
+      if (!legislationText) {                                               // Error handling if none found
+        return { legislationKey, response: `No legislation text found for ${legislationKey}` }
+      } else {
+        let prompt = buildLegislationPrompt(question, legislationText);     // Build prompt
+        let response = await stageTwoAPICall(prompt);                       // Call AI API
+        return { legislationKey, response };
+      }
+    })
+  );
 
-  return allResponses;
+  return collectAllResponses;
 };
+
 
 
 // An example to call the AI API for testing 
 /*
 const legislationArrayForExample = ["gasAndElectricityConsumerSafetyRegs", "plumbingDrainageRegulation"];
 const questionForExample = "What are the safety requirements for gas ovens?";
-const stageTwoExampleResults = await processStageOneRequest(questionForExample, legislationArrayForExample);
+const stageTwoExampleResults = await processStageTwoRequest(questionForExample, legislationArrayForExample);
 stageTwoExampleResults.map(result => {
   console.log(`\n=== Results for ${result.legislationKey} ===`);
   console.log(result.response);

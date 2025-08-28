@@ -154,7 +154,7 @@ For each Act, return:
 Respond ONLY as valid JSON, matching EXACTLY the following schema:
 ${acts_response_schema(acts)}\n
 `;
-  console.log("AI Prompt:\n" + prompt);
+  //console.log("AI Prompt:\n" + prompt);
   return prompt;
 };
 

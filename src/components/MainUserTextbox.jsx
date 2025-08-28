@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { motion } from 'framer-motion';
 
-export default function MainUserTextbox({ submitFunction, legislationList }) {
+export default function MainUserTextbox({ submitStageOneFunction, submitStageTwoFunction, legislationList }) {
   const [query, setQuery] = useState("");
   const [loading, setLoading] = useState(false);
 
@@ -10,7 +10,7 @@ export default function MainUserTextbox({ submitFunction, legislationList }) {
     if (e.key === "Enter" && query.trim() !== "") {
       setLoading(true);
       try {
-        const data = await submitFunction(query);
+        const data = await submitStageOneFunction(query);
         console.log("AI response:", data);
       } catch (err) {
         console.error(err);
@@ -46,7 +46,15 @@ export default function MainUserTextbox({ submitFunction, legislationList }) {
       <button 
         className={legislationList.length > 0 ? 
         "ml-8 w-full px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-xl shadow-lg hover:opacity-90 transition" :
-        "hidden"
+        "hidden"}
+        onClick={ async () => {
+            try {
+              const response = await submitStageTwoFunction(query, legislationList);
+              console.log("MainUserTextBoxComponent has stage two response in front end:", response);
+            } catch (err) {
+              console.error("MainUserTextBoxComponent has an error occurred while processing stage two request:", err);
+            }
+          }
         }
       >
         Proceed →

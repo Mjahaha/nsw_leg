@@ -1,6 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react'; 
 import { motion, AnimatePresence } from 'framer-motion';
+import { on } from 'events';
 
 function IndividualLegislation({ legislation, onToggle }) {
     const legislationName = legislation.name; 
@@ -25,21 +26,9 @@ function IndividualLegislation({ legislation, onToggle }) {
     )
 }
 
-export default function StageOneDisplay({ legislationList }) {
-    const [ list, setList ] = useState(legislationList);
-    useEffect(() => {
-        setList(legislationList);
-    }, [legislationList]);
-    const yesList = list.filter(legislation => legislation.applies);
-    const noList = list.filter(legislation => !legislation.applies);
-    const toggleApplies = id => {
-        setList(prevList => 
-            prevList.map(legislation => 
-                legislation.id === id ? { ...legislation, applies: !legislation.applies } : legislation
-            )
-        );
-    }
-    
+export default function StageOneDisplay({ legislationList, onToggle }) {
+    const yesList = legislationList.filter(legislation => legislation.applies);
+    const noList = legislationList.filter(legislation => !legislation.applies);
 
     return (
         <motion.div 
@@ -56,16 +45,16 @@ export default function StageOneDisplay({ legislationList }) {
                     <h3 className="text-lg font-semibold">Rules to deepdive into</h3>
                     <br></br>
                     {yesList.map((legislation) => (
-                        <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={toggleApplies} />
+                        <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={onToggle} />
                     ))}
                 </div>
                 </AnimatePresence>
                 <AnimatePresence>
                 <div className="w-1/2">
-                    <h3 className="text-lg font-semibold">Rules that shouldn't matter</h3>
+                    <h3 className="text-lg font-semibold">Rules that we won't look into</h3>
                     <br></br>
                     {noList.map((legislation) => (
-                        <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={toggleApplies} />
+                        <IndividualLegislation key={legislation.id} legislation={legislation} onToggle={onToggle} />
                     ))}
                 </div>
                 </AnimatePresence>
