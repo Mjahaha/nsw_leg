@@ -1,8 +1,8 @@
 "use client";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { motion } from 'framer-motion';
 
-export default function MainUserTextbox({ submitStageOneFunction, submitStageTwoFunction, legislationList }) {
+export default function MainUserTextbox({ submitStageOneFunction, submitStageTwoFunction, addStageTwoResponseForLegislation, legislationList, stageTwoCommenced }) {
   const [query, setQuery] = useState("");
   const [loading, setLoading] = useState(false);
 
@@ -26,11 +26,17 @@ export default function MainUserTextbox({ submitStageOneFunction, submitStageTwo
       <input
         type="text"
         placeholder="Type your query..."
-        className="px-4 py-2 border border-gray-300 rounded-xl w-120 h-15 my-6 text-lightgray-800"
+        className={`px-4 py-2 rounded-xl w-120 h-15 my-6 
+        ${stageTwoCommenced 
+          ? "bg-gray-800 text-gray-400 border-gray-700 cursor-not-allowed opacity-70" 
+          : "px-4 py-2 border border-gray-300 rounded-xl w-120 h-15 my-6 text-lightgray-800"
+        }`}
         value={query}
         onChange={(e) => setQuery(e.target.value)}
         onKeyDown={handleKeyDown}
         disabled={loading}
+        animate={{ scale: stageTwoCommenced ? 0.95 : 1, opacity: stageTwoCommenced ? 0.7 : 1 }}
+        transition={{ duration: 0.4 }}
       />
       {loading && legislationList.length === 0 && (   
         <div className="flex justify-center items-center h-40">
@@ -44,13 +50,19 @@ export default function MainUserTextbox({ submitStageOneFunction, submitStageTwo
       )}
       </div>
       <button 
-        className={legislationList.length > 0 ? 
+        className={legislationList.length > 0 && !stageTwoCommenced? 
         "ml-8 w-full px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-xl shadow-lg hover:opacity-90 transition" :
         "hidden"}
         onClick={ async () => {
             try {
-              const response = await submitStageTwoFunction(query, legislationList);
-              console.log("MainUserTextBoxComponent has stage two response in front end:", response);
+              const responseArray = await submitStageTwoFunction(query, legislationList);
+              responseArray.forEach(response => {
+                addStageTwoResponseForLegislation(response.legislationKey, response.response);
+              });
+              console.log("MainUserTextBoxComponent has stage two response in front end:", responseArray);
+              useEffect(() => {
+                console.log("Legislation list updated with stage two responses:", legislationList);
+              }, [legislationList]);
             } catch (err) {
               console.error("MainUserTextBoxComponent has an error occurred while processing stage two request:", err);
             }

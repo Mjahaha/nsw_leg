@@ -5,6 +5,7 @@ import StageOneDisplay from './StageOneDisplay';
 
 export default function Body() {
   const [legislationList, setLegislationList] = useState([]);
+  const [stageTwoCommenced, setStageTwoCommenced] = useState(false);
 
   const stageOneHandler = async (query) => {
     const retrievedLegislationList = await fetch(`/api/legislation/stageOne?query=${encodeURIComponent(query)}`); 
@@ -21,7 +22,7 @@ export default function Body() {
       },
       body: JSON.stringify({ question, legislationKeyArray }),
     });
-
+    setStageTwoCommenced(true);
     return stageTwoResults.json();
   }
 
@@ -37,26 +38,48 @@ export default function Body() {
     })
   }
 
+  const addStageTwoResponseForLegislation = (id, response) => {
+    setLegislationList(previousList => {
+      return previousList.map(legislation => {
+        if (legislation.id === id) {
+          return { ...legislation, stageTwoResponse: response };
+        } else {
+          return legislation;
+        }
+      })
+    })
+  }
+
   return (
-    <main>
-      <section 
-        className={legislationList.length > 0 ? 
-        "flex flex-col items-center justify-center min-h-40 bg-black-50 p-8 pb-10" : 
-        "flex flex-col items-center justify-center min-h-120 bg-black-50 p-8 pb-10"}
-      >
-        <h1 className="text-2xl font-bold">What is your question around NSW building law?</h1>
-        <MainUserTextbox 
-          submitStageOneFunction={stageOneHandler} 
-          submitStageTwoFunction={stageTwoHandler} 
-          legislationList={legislationList} 
-        />
+    <main className={`flex transition-all duration-500 ${stageTwoCommenced ? 'flex-row' : 'flex-col'}`}>
+      <section className={`${stageTwoCommenced ? 'w-1/2' : ''}`}>
+        <div 
+          className={legislationList.length > 0 ? 
+          "flex flex-col items-center justify-center min-h-40 bg-black-50 p-8 pb-10" : 
+          "flex flex-col items-center justify-center min-h-120 bg-black-50 p-8 pb-10"}
+        >
+          <h1 className="text-2xl font-bold">What is your question around NSW building law?</h1>
+          <MainUserTextbox 
+            submitStageOneFunction={stageOneHandler} 
+            submitStageTwoFunction={stageTwoHandler} 
+            addStageTwoResponseForLegislation={addStageTwoResponseForLegislation}
+            legislationList={legislationList} 
+            stageTwoCommenced={stageTwoCommenced}
+          />
+        </div>
+        <div className={`flex flex-col items-center justify-center p-8 pb-10 transition-all duration-500 ${legislationList.length > 0 ? 'mt-4' : 'hidden'}`}>
+          <StageOneDisplay 
+            stageTwoCommenced={stageTwoCommenced}
+            legislationList={legislationList} 
+            onToggle={toggleApplies} 
+          />
+        </div>
       </section>
-      <section className={`flex flex-col items-center justify-center p-8 pb-10 transition-all duration-500 ${legislationList.length > 0 ? 'mt-4' : 'hidden'}`}>
-        <StageOneDisplay 
-          legislationList={legislationList} 
-          onToggle={toggleApplies} 
-        />
-      </section>
+      {stageTwoCommenced && (
+        <section className="flex flex-col p-8 w-1/2 border-l border-gray-300">
+          <h2 className="text-2xl font-bold mb-4">Stage Two Responses Placeholder</h2>
+        </section>
+      )}
     </main>
   );
 }

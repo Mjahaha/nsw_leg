@@ -26,7 +26,7 @@ function IndividualLegislation({ legislation, onToggle }) {
     )
 }
 
-export default function StageOneDisplay({ legislationList, onToggle }) {
+export default function StageOneDisplay({ stageTwoCommenced, legislationList, onToggle }) {
     const yesList = legislationList.filter(legislation => legislation.applies);
     const noList = legislationList.filter(legislation => !legislation.applies);
 
@@ -39,9 +39,9 @@ export default function StageOneDisplay({ legislationList, onToggle }) {
             exit={{ opacity: 0, y: -20 }}     // when it leaves
             transition={{ duration: 0.3 }}
         >   
-            <div className='flex space-x-3'>
+            <div className={`flex ${stageTwoCommenced ? 'flex-col space-y-3' : 'flex-row space-x-3'}`}>
                 <AnimatePresence>
-                <div className="w-1/2">
+                <div className={`${stageTwoCommenced ? 'w-full' : 'w-1/2'}`}>
                     <h3 className="text-lg font-semibold">Rules to deepdive into</h3>
                     <br></br>
                     {yesList.map((legislation) => (
@@ -50,7 +50,7 @@ export default function StageOneDisplay({ legislationList, onToggle }) {
                 </div>
                 </AnimatePresence>
                 <AnimatePresence>
-                <div className="w-1/2">
+                <div className={`${stageTwoCommenced ? 'w-full' : 'w-1/2'}`}>
                     <h3 className="text-lg font-semibold">Rules that we won't look into</h3>
                     <br></br>
                     {noList.map((legislation) => (
