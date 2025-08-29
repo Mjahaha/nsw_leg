@@ -2,15 +2,14 @@
 import { useState, useEffect } from "react";
 import { motion } from 'framer-motion';
 
-export default function MainUserTextbox({ submitStageOneFunction, submitStageTwoFunction, addStageTwoResponseForLegislation, legislationList, stageTwoCommenced }) {
-  const [query, setQuery] = useState("");
+export default function MainUserTextbox({ submitStageOneFunction, submitStageTwoFunction, question, setQuestion, addStageTwoResponseForLegislation, legislationList, stageTwoCommenced }) {
   const [loading, setLoading] = useState(false);
 
   const handleKeyDown = async (e) => {
-    if (e.key === "Enter" && query.trim() !== "") {
+    if (e.key === "Enter" && question.trim() !== "") {
       setLoading(true);
       try {
-        const data = await submitStageOneFunction(query);
+        const data = await submitStageOneFunction(question);
         console.log("AI response:", data);
       } catch (err) {
         console.error(err);
@@ -31,8 +30,8 @@ export default function MainUserTextbox({ submitStageOneFunction, submitStageTwo
           ? "bg-gray-800 text-gray-400 border-gray-700 cursor-not-allowed opacity-70" 
           : "px-4 py-2 border border-gray-300 rounded-xl w-120 h-15 my-6 text-lightgray-800"
         }`}
-        value={query}
-        onChange={(e) => setQuery(e.target.value)}
+        value={question}
+        onChange={(e) => setQuestion(e.target.value)}
         onKeyDown={handleKeyDown}
         disabled={loading}
         animate={{ scale: stageTwoCommenced ? 0.95 : 1, opacity: stageTwoCommenced ? 0.7 : 1 }}
@@ -55,7 +54,7 @@ export default function MainUserTextbox({ submitStageOneFunction, submitStageTwo
         "hidden"}
         onClick={ async () => {
             try {
-              const responseArray = await submitStageTwoFunction(query, legislationList);
+              const responseArray = await submitStageTwoFunction(question, legislationList);
               responseArray.forEach(response => {
                 addStageTwoResponseForLegislation(response.legislationKey, response.response);
               });

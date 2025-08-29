@@ -14,8 +14,9 @@ const ai = new GoogleGenAI({
 
 // Load legislation text from file for prompt generation 
 const getLegislationText = (legislationKey) => {
+  let legislationText;
   try {
-    let legislationText = fs.readFileSync(
+    legislationText = fs.readFileSync(
       `src/app/data/buildingLegislation/${legislationKey}.txt`,
       "utf8"
     );
@@ -23,7 +24,8 @@ const getLegislationText = (legislationKey) => {
   }
   catch (error) {
     console.error("Error reading legislation file:", error);
-    return null;
+    legislationText = `No legislation text found for ${legislationKey}`;
+    return legislationText;
   }
 };
 
@@ -54,7 +56,7 @@ ${legislationText}
 
 // Function to call the Gemini API and send the prompt 
 const stageTwoAPICall = async (prompt) => {
-  console.log("running gemini call, start");
+  console.log("Running gemini call for Stage Two, start");
   try {
     const result = await ai.models.generateContent({
       model: "gemini-2.5-flash",
@@ -83,7 +85,7 @@ const stageTwoAPICall = async (prompt) => {
 
     // Usually there is only one part, but just in case, idk
     const text = result.candidates[0].content.parts.map(p => p.text).join("\n");
-    console.log("\n=== Drilled AI Text ===");
+    console.log("\n=== Legislation Deepdive AI Text ===");
     console.log(text);
 
     return text;
