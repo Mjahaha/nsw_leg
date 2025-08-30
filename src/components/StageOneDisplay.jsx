@@ -2,6 +2,7 @@
 import { useState, useEffect } from 'react'; 
 import { motion, AnimatePresence } from 'framer-motion';
 import { on } from 'events';
+import Dump from "@/components/Dump";
 
 function IndividualLegislation({ legislation, onToggle }) {
     const legislationName = legislation.name; 
@@ -39,6 +40,7 @@ export default function StageOneDisplay({ stageTwoCommenced, legislationList, on
             exit={{ opacity: 0, y: -20 }}     // when it leaves
             transition={{ duration: 0.3 }}
         >   
+            <Dump data={legislationList} />
             <div className={`flex ${stageTwoCommenced ? 'flex-col space-y-3' : 'flex-row space-x-3'}`}>
                 <AnimatePresence>
                 <div className={`${stageTwoCommenced ? 'w-full' : 'w-1/2'}`}>
