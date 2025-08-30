@@ -1,22 +1,29 @@
 'use client';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import MainUserTextbox from './MainUserTextbox';
 import StageOneDisplay from './StageOneDisplay';
 import StageTwoThreeDisplay from './StageTwoThreeDisplay';
+import { q } from 'framer-motion/client';
 
 
 export default function Body() {
+  const [question, setQuestion] = useState("");
   const [legislationList, setLegislationList] = useState([]);
   const [stageTwoCommenced, setStageTwoCommenced] = useState(false);
+  const [stageTwoResponseObtained, setStageTwoResponseObtained] = useState(false);
+  const [stageThreeResponse, setStageThreeResponse] = useState(null);
 
+  // Function to trigger stage one
   const stageOneHandler = async (query) => {
     const retrievedLegislationList = await fetch(`/api/legislation/stageOne?query=${encodeURIComponent(query)}`); 
     setLegislationList(await retrievedLegislationList.json());
   }
 
+  // Function to trigger stage two
   const stageTwoHandler = async (question, legislationList) => {
     const legislationKeyArray = legislationList.filter(item => item.applies).map(item => item.id);
     console.log("MainUserTextBoxComponent is sending keys for stage two:", legislationKeyArray);
+    setStageTwoCommenced(true);
     const stageTwoResults = await fetch(`/api/legislation/stageTwo`, {
       method: 'POST',
       headers: {
@@ -24,10 +31,23 @@ export default function Body() {
       },
       body: JSON.stringify({ question, legislationKeyArray }),
     });
-    setStageTwoCommenced(true);
     return stageTwoResults.json();
   }
 
+  // Function to trigger stage three 
+  const stageThreeHandler = async (question, legislationList) => {
+    console.log("MainUserTextBoxComponent is sending keys for stage three:", legislationList);
+    const stageThreeResults = await fetch(`/api/legislation/stageThree`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ question, legislationList }),
+    });
+    return stageThreeResults.json();
+  }
+
+  // Function to toggle the "applies" status of a legislation items on legislationList 
   const toggleApplies = (id) => {
     setLegislationList( previousList => {
       return previousList.map( legislation => {
@@ -40,6 +60,7 @@ export default function Body() {
     })
   }
 
+  // Function to add stage two response to legislationList
   const addStageTwoResponseForLegislation = (id, response) => {
     setLegislationList(previousList => {
       return previousList.map(legislation => {
@@ -51,6 +72,34 @@ export default function Body() {
       })
     })
   }
+
+  // Check if all stage two responses are obtained to set stageTwoResponseObtained
+  useEffect(() => {
+    const appliedOnes = legislationList.filter(l => l.applies);
+    const allDone =
+      appliedOnes.length > 0 && appliedOnes.every(l => !!l.stageTwoResponse);
+
+    console.log("Applied legislation:", appliedOnes);
+    console.log("All done?", allDone);
+    console.log("stageTwoResponseObtained?", stageTwoResponseObtained);
+
+    if (allDone && !stageTwoResponseObtained) {
+      console.log("✅ Stage two responses complete. Triggering stage three...");
+
+      setStageTwoResponseObtained(true);
+
+      stageThreeHandler(question, appliedOnes)
+        .then(data => {
+          console.log("Stage three response:", data);
+          setStageThreeResponse(data);
+        })
+        .catch(err => {
+          console.error("Stage three handler failed:", err);
+        });
+    }
+  }, [legislationList, stageTwoResponseObtained]);
+
+
 
   return (
     <main className={`flex transition-all duration-500 ${stageTwoCommenced ? 'flex-row' : 'flex-col'}`}>
@@ -64,6 +113,7 @@ export default function Body() {
           <MainUserTextbox 
             submitStageOneFunction={stageOneHandler} 
             submitStageTwoFunction={stageTwoHandler} 
+            question={question} setQuestion={setQuestion}
             addStageTwoResponseForLegislation={addStageTwoResponseForLegislation}
             legislationList={legislationList} 
             stageTwoCommenced={stageTwoCommenced}
@@ -79,7 +129,11 @@ export default function Body() {
       </section>
       {stageTwoCommenced && (
         <section className="flex flex-col p-8 w-3/5 border-l border-gray-300">
-          <StageTwoThreeDisplay legislationList={legislationList} />
+          <StageTwoThreeDisplay 
+            legislationList={legislationList} 
+            stageTwoResponseObtained={stageTwoResponseObtained}
+            stageThreeResponse={stageThreeResponse}
+          />
         </section>
       )}
     </main>
