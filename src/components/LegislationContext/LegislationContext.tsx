@@ -4,7 +4,6 @@ import {LegislationContext, LegislationItem} from "@/components/LegislationConte
 export function LegislationContextProvider({ children }: PropsWithChildren) {
 	const [legislationList, setLegislationList] = useState<LegislationItem[]>([]);
 	
-
 	return <LegislationContext.Provider value={{}}>{children}</LegislationContext.Provider>;
 }
 
