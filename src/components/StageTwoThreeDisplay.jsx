@@ -28,6 +28,7 @@ function StageTwoTabs({legislationList, activeTab, setActiveTab, stageTwoRespons
 					))}
 				</Accordion>
 			</Card>
+			
 			{/*<div className="flex overflow-x-auto border-b border-gray-300 mb-2">*/}
 			{/*	{responses.map((leg, idx) => (*/}
 			{/*		<button*/}
